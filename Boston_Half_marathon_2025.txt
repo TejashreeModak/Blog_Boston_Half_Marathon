@@ -1,0 +1,1845 @@
+Place	Name	NetTime	Pace	Division	Division	City	State	5k	10k	10m
+15	Rachel Starr	1:21:00	6:11	FOPEN	1 / 4	Palm Bay	FL	19:42.0	39:10.0	1:02:11
+27	Maddy Brogan	1:22:21	6:17	FOPEN	2 / 4	Boston	MA	20:08.0	40:04.0	1:03:28
+36	Ellie Davis	1:23:25	6:22	FOPEN	3 / 4	Boston	MA	19:39.0	39:27.0	1:03:42
+49	Hilary Dionne	1:24:29	6:27	F35-39	1 / 173	Lincoln	MA	18:45.0	38:28.0	1:04:10
+50	Sherlyn Gomez	1:24:46	6:28	F20-24	1 / 435	Los Angeles	CA	20:53.0	40:58.0	1:04:53
+65	Kelsey Igo	1:26:44	6:37	F30-34	1 / 250	Boston	MA	20:13.0	40:40.0	1:05:51
+71	Sarah Stirling	1:27:21	6:40	F40-44	1 / 150	East Bridgewater	MA	20:49.0	41:26.0	1:06:43
+92	Nicole Major	1:28:29	6:45	F20-24	2 / 435	Andover	MA	21:16.0	42:08.0	1:07:40
+96	Shana Frank	1:28:38	6:46	F40-44	2 / 150	Weston	MA	21:34.0	42:38.0	1:08:18
+97	Sonia Howell	1:28:41	6:46	F35-39	2 / 173	Granger	IN	20:39.0	41:27.0	1:07:14
+98	Bailey Davin	1:28:45	6:47	F25-29	1 / 375	Belmont	MA	20:42.0	41:32.0	1:07:05
+99	Jamie Allison	1:28:45	6:47	F50-54	1 / 91	Boston	MA	21:46.0	42:49.0	1:08:18
+113	Paige Estaphan	1:29:24	6:50	F20-24	3 / 435	Westborough	MA	21:00.0	42:10.0	1:08:23
+120	Caroline Jahrling	1:29:48	6:51	F25-29	2 / 375	Boston	MA	21:14.0	42:50.0	1:08:46
+133	Emily Manfra	1:30:58	6:57	F25-29	3 / 375	Stoneham	MA	21:29.0	43:00.0	1:09:28
+141	Cindy Cortes	1:31:23	6:59	F30-34	2 / 250	Medford	MA	21:11.0	42:49.0	1:09:28
+146	Emma Duncan	1:31:52	7:01	F20-24	4 / 435	Winchester	MA	20:55.0	42:14.0	1:08:52
+154	Beth Dollas	1:32:35	7:04	F45-49	1 / 119	Amesbury	MA	22:01.0	44:11.0	1:11:31
+155	Anne Galda	1:32:37	7:04	F25-29	4 / 375	Mainz	UN	22:05.0	44:11.0	1:10:57
+156	Alexa Durst	1:32:39	7:04	F25-29	5 / 375	Cambridge	MA	21:46.0	43:42.0	1:10:39
+168	Nicole Souza	1:33:41	7:09	F30-34	3 / 250	Quincy	MA	21:58.0	43:57.0	1:11:03
+172	Danielle Renzi	1:33:50	7:10	F30-34	4 / 250	Burlington	MA	22:22.0	44:12.0	1:11:31
+176	Samantha Schwers	1:33:57	7:10	F25-29	6 / 375	Northampton	MA	21:42.0	43:28.0	1:10:33
+182	Tracy Schultz	1:34:17	7:12	F40-44	3 / 150	Waltham	MA	22:20.0	44:20.0	1:11:20
+190	Erin O'Connor	1:34:28	7:13	F30-34	5 / 250	Cambridge	MA	23:16.0	45:58.0	1:13:02
+195	Carolyn Sutherland	1:34:39	7:14	F30-34	6 / 250	Wakefield	MA	22:30.0	45:05.0	1:12:23
+199	Courtney Day	1:34:48	7:14	F25-29	7 / 375	Wellesley	MA	21:51.0	44:06.0	1:11:40
+201	Evelyn Needham	1:34:51	7:15	F25-29	8 / 375	Boston	MA	22:41.0	45:26.0	1:13:51
+203	Lauren Wetmore	1:34:57	7:15	F30-34	7 / 250	South Boston	MA	22:24.0	44:30.0	1:12:21
+208	Melissa Hartnell-Howden	1:35:08	7:16	F35-39	3 / 173	Maynard	MA	21:59.0	44:28.0	1:12:38
+228	Jennifer Krasco	1:35:56	7:19	F35-39	4 / 173	Medford	MA	22:40.0	45:29.0	1:13:24
+230	Elisabeth Woeldgen	1:35:58	7:20	F25-29	9 / 375	Cambridge	MA	22:36.0	45:19.0	1:13:06
+232	Caitlin Holmquist	1:35:59	7:20	F25-29	10 / 375	Everett	MA	22:04.0	44:11.0	1:12:02
+234	Kristyna Vodrazkova	1:36:12	7:21	F30-34	8 / 250	Cambridge	MA	22:50.0	45:47.0	1:13:30
+235	Luisa Udoh	1:36:13	7:21	F20-24	5 / 435	Cambridge	MA	23:30.0	46:29.0	1:14:09
+239	Mackenzie Werenski	1:36:20	7:21	F25-29	11 / 375	Woburn	MA	20:48.0	44:05.0	1:13:37
+250	Sophie Yanez	1:36:39	7:23	F25-29	12 / 375	Somerville	MA	23:23.0	46:26.0	1:14:09
+255	Erika Sanabria	1:36:44	7:23	F25-29	13 / 375	Melrose	MA	22:53.0	45:26.0	1:13:24
+259	Adele G	1:36:48	7:24	F50-54	2 / 91	Boston	MA	22:27.0	45:40.0	1:14:04
+266	Hua Chin	1:37:06	7:25	F35-39	5 / 173	Malden	MA	22:23.0	45:24.0	1:13:39
+270	Stephanie Burnham	1:37:15	7:26	F40-44	4 / 150	Hudson	NH	22:30.0	45:50.0	1:14:32
+274	Natalie Obssuth	1:37:20	7:26	F30-34	9 / 250	Everett	MA	22:27.0	45:18.0	1:13:35
+279	Emily Ruiz	1:37:29	7:27	F40-44	5 / 150	Cambridge	MA	23:25.0	46:33.0	1:14:49
+282	Sarah Carey	1:37:35	7:27	F30-34	10 / 250	Somerville	MA	23:52.0	46:49.0	1:14:52
+286	Skyla Kasick	1:37:39	7:27	F20-24	6 / 435	Regina	SK	22:51.0	45:52.0	1:14:29
+288	Jenna Hoersten	1:37:41	7:28	F35-39	6 / 173	Somerville	MA	22:40.0	45:09.0	1:13:52
+292	Tessa Seales	1:37:49	7:28	F30-34	11 / 250	Auburn	MA	23:28.0	46:47.0	1:15:31
+295	Mutsuko Ward	1:37:53	7:28	F50-54	3 / 91	Cambridge	MA	23:13.0	46:07.0	1:14:31
+298	Gwen Dubois	1:37:56	7:29	F45-49	2 / 119	Belmont	MA	23:25.0	46:36.0	1:14:59
+301	Miriam Krimmer	1:38:02	7:29	F30-34	12 / 250	Boston	MA	23:35.0	46:39.0	1:14:47
+302	Emma D'Agostino	1:38:03	7:29	F20-24	7 / 435	North Andover	MA	23:54.0	47:17.0	1:15:49
+303	Danielle Diggins	1:38:07	7:30	F25-29	14 / 375	Arlington	MA	23:22.0	46:18.0	1:14:36
+312	Lily Vaughan	1:38:18	7:30	F0-19	1 / 98	Westborough	MA	24:22.0	48:03.0	1:16:37
+316	Sarah Francis	1:38:22	7:31	F0-19	2 / 98	Needham	MA	23:12.0	46:13.0	1:14:54
+322	Liana Cunningham	1:38:33	7:32	F25-29	15 / 375	Quincy	MA	23:43.0	47:03.0	1:15:28
+325	Tara Lee	1:38:39	7:32	F30-34	13 / 250	Boston	MA	23:25.0	46:49.0	1:15:12
+329	Madeline Mueller	1:38:44	7:32	F20-24	8 / 435	Cambridge	MA	24:58.0	48:31.0	1:16:43
+330	Alison Carr	1:38:45	7:32	F45-49	3 / 119	Norwell	MA	23:34.0	46:45.0	1:15:31
+331	Suzanne Cotter	1:38:46	7:32	F25-29	16 / 375	Denver	CO	24:31.0	48:08.0	1:15:47
+337	Eliza Cutrell	1:38:53	7:33	F40-44	6 / 150	Westwood	MA	23:03.0	46:24.0	1:15:05
+339	Christen Cadigan	1:38:53	7:33	F35-39	7 / 173	Norwood	MA	23:03.0	46:24.0	1:15:06
+342	Marion Cabanes	1:38:58	7:33	F35-39	8 / 173	Somerville	MA	23:21.0	46:46.0	1:15:17
+345	Isabella Sheeran	1:39:01	7:34	F20-24	9 / 435	Norfolk	MA	23:43.0	47:27.0	1:15:57
+347	Taylor Slesinski	1:39:04	7:34	F30-34	14 / 250	South Boston	MA	24:18.0	47:12.0	1:15:18
+350	Jessica Ballard	1:39:05	7:34	F25-29	17 / 375	Boston	MA	23:30.0	46:27.0	1:15:21
+361	Jessica Drummond	1:39:31	7:36	F25-29	18 / 375	Boston	MA	23:55.0	47:33.0	1:16:01
+367	Jennifer Johnson	1:39:44	7:37	F50-54	4 / 91	Concord	MA	23:27.0	46:45.0	1:15:41
+372	Lauren Strong	1:39:48	7:37	F25-29	19 / 375	Tewksbury	MA	24:06.0	47:29.0	1:16:08
+373	Liliya Mayorova	1:39:48	7:37	F35-39	9 / 173	Framingham	MA	23:24.0	46:51.0	1:15:56
+383	Shannon Groom	1:40:08	7:39	F20-24	10 / 435	Abington	MA	25:03.0	49:21.0	1:17:04
+386	Erin Flaherty	1:40:11	7:39	F0-19	3 / 98	Kingston	MA	24:05.0	47:30.0	1:16:23
+396	Eliza Brook	1:40:24	7:40	F0-19	4 / 98	Russell	PA	24:22.0	47:47.0	1:16:36
+397	Caroline Cassidy	1:40:25	7:40	F25-29	20 / 375	Boston	MA	24:41.0	48:39.0	1:17:29
+399	Wenhong Liu	1:40:28	7:40	F40-44	7 / 150	Belmont	MA	24:00.0	47:53.0	1:16:57
+404	Emily Raso	1:40:37	7:41	F35-39	10 / 173	Sharon	MA	23:40.0	47:24.0	1:16:26
+407	Carolyn Botz	1:40:47	7:42	F25-29	21 / 375	Boston	MA	23:26.0	47:09.0	1:16:26
+411	Deirdre Koenen	1:40:51	7:42	F30-34	15 / 250	Dorchester	MA	24:07.0	47:58.0	1:17:00
+412	Melanie Doukas	1:40:51	7:42	F35-39	11 / 173	West Rutland	VT	24:08.0	47:55.0	1:17:05
+415	Jacqueline Coleman	1:40:54	7:42	F25-29	22 / 375	Milton	MA	24:38.0	48:24.0	1:17:07
+416	Olivia Pugliese	1:40:54	7:42	F25-29	23 / 375	Clinton	CT	25:20.0	49:05.0	1:17:57
+417	Christina Gosselin	1:40:55	7:42	F25-29	24 / 375	Old Saybrook	CT	25:21.0	49:05.0	1:17:56
+425	Sage Belber	1:41:14	7:44	F55-59	1 / 79	Scituate	MA	24:15.0	48:10.0	1:17:19
+426	Gia Cyrier	1:41:15	7:44	F45-49	4 / 119	Andover	MA	24:24.0	48:17.0	1:17:51
+428	Shannon Feeney	1:41:17	7:44	F30-34	16 / 250	South Boston	MA	23:12.0	47:01.0	1:16:52
+431	Francesca Boggs	1:41:18	7:44	F35-39	12 / 173	Swampscott	MA	25:05.0	49:15.0	1:18:19
+434	Dionisia Monteiro	1:41:20	7:44	F50-54	5 / 91	Framingham	MA	23:24.0	46:51.0	1:16:00
+440	Crissy Straub	1:41:34	7:45	F45-49	5 / 119	Lexington	MA	25:20.0	49:03.0	1:18:16
+446	Nicole Casteele	1:41:42	7:46	F20-24	11 / 435	Cambridge	MA	23:47.0	47:35.0	1:17:12
+448	Noelle Theodoulou	1:41:44	7:46	F25-29	25 / 375	Bedford	NH	23:46.0	47:39.0	1:17:12
+450	Abigail Sapp	1:41:45	7:46	F25-29	26 / 375	Boston	MA	22:38.0	46:17.0	1:16:29
+451	Miu Kikuchi	1:41:45	7:46	F20-24	12 / 435	Arlington	MA	24:02.0	47:58.0	1:17:30
+452	Camila Larrauri	1:41:46	7:46	F25-29	27 / 375	Boston	MA	24:30.0	48:52.0	1:18:06
+454	Isabelle Terranova	1:41:48	7:46	F25-29	28 / 375	Bedford	MA	24:19.0	48:31.0	1:17:54
+457	Sydney Laporte	1:41:58	7:47	F25-29	29 / 375	Cambridge	MA	22:38.0	46:29.0	1:16:08
+459	Emma Markoski	1:42:01	7:47	F25-29	30 / 375	Bolton	MA	24:06.0	48:19.0	1:17:53
+460	Abigail Johnson	1:42:01	7:47	F30-34	17 / 250	Ashland	MA	24:01.0	47:47.0	1:17:34
+466	Anna Schoenfeld	1:42:12	7:48	F25-29	31 / 375	Boston	MA	24:34.0	48:49.0	1:18:17
+468	Navine Nasser-Ghodsi	1:42:17	7:49	F35-39	13 / 173	Southborough	MA	25:09.0	49:32.0	1:18:59
+472	Yanina Reid	1:42:21	7:49	F40-44	8 / 150	Needham	MA	23:33.0	47:44.0	1:17:44
+473	Maya Morgan	1:42:25	7:49	F20-24	13 / 435	Boston	MA	24:39.0	48:53.0	1:18:31
+476	Larissa Brewster	1:42:26	7:49	F35-39	14 / 173	Weymouth	MA	24:07.0	48:32.0	1:17:53
+479	Ava Macchia	1:42:34	7:50	F25-29	32 / 375	Boston	MA	24:56.0	49:13.0	1:19:03
+481	Hannah Rahim	1:42:34	7:50	F25-29	33 / 375	Cambridge	MA	22:59.0	46:59.0	1:17:10
+488	Kimberly Cilento	1:42:41	7:50	F30-34	18 / 250	Tyngsboro	MA	24:45.0	49:00.0	1:18:42
+489	Lauren Ranahan	1:42:42	7:50	F20-24	14 / 435	Boston	MA	26:40.0	51:34.0	1:20:02
+490	Malinda Dublin	1:42:45	7:51	F45-49	6 / 119	Arlington	MA	25:20.0	49:07.0	1:18:21
+492	Kelsey Turner	1:42:49	7:51	F20-24	15 / 435	Millbury	MA	24:23.0	48:23.0	1:17:48
+496	Alexis Dunn	1:42:57	7:52	F40-44	9 / 150	Cambridge	MA	25:12.0	49:08.0	1:18:31
+498	Ellie Yoffie	1:43:03	7:52	F30-34	19 / 250	Austin	TX	23:41.0	48:17.0	1:18:12
+500	Eileen O'Connor	1:43:05	7:52	F50-54	6 / 91	West Roxbury	MA	24:19.0	48:34.0	1:18:23
+504	Diane Genereux	1:43:11	7:53	F45-49	7 / 119	Watertown	MA	24:45.0	48:52.0	1:18:30
+510	Caroline Even	1:43:18	7:53	F25-29	34 / 375	South Boston	MA	24:52.0	48:35.0	1:18:24
+512	Stephanie Brown	1:43:20	7:53	F55-59	2 / 79	North Andover	MA	24:09.0	48:33.0	1:18:34
+516	Monet Marshall	1:43:22	7:54	F25-29	35 / 375	Beverly	MA	24:54.0	49:17.0	1:19:11
+521	Bridget Ruggieri	1:43:27	7:54	F40-44	10 / 150	Milton	MA	24:47.0	48:48.0	1:18:40
+524	Emma Walter	1:43:31	7:54	F30-34	20 / 250	Somerville	MA	25:01.0	49:46.0	1:19:43
+525	Bridget Muckian	1:43:31	7:54	F30-34	21 / 250	Boston	MA	24:34.0	49:04.0	1:19:10
+527	Erin Muckian	1:43:32	7:54	F25-29	36 / 375	New York	NY	24:34.0	49:04.0	1:19:11
+528	Hannah Baly	1:43:32	7:54	F25-29	37 / 375	Boston	MA	23:00.0	46:52.0	1:17:45
+531	Brooke Boulanger	1:43:35	7:54	F20-24	16 / 435	Ashland	MA	25:21.0	50:34.0	1:19:50
+536	Olivia Krause	1:43:44	7:55	F25-29	38 / 375	Chichester	NH	26:52.0	51:20.0	1:20:33
+538	Meghan Malone	1:43:45	7:55	F25-29	39 / 375	Salem	NH	24:44.0	48:51.0	1:18:34
+541	Bingxin Yu	1:43:47	7:55	F40-44	11 / 150	Malden	MA	24:39.0	48:55.0	1:19:01
+549	Susan Magestro	1:44:09	7:57	F45-49	8 / 119	Somerville	MA	24:45.0	49:16.0	1:19:24
+553	Amy Dono	1:44:13	7:57	F30-34	22 / 250	Boston	MA	24:59.0	49:20.0	1:19:33
+564	Sophia Love	1:44:23	7:58	F30-34	23 / 250	Boston	MA	26:44.0	51:01.0	1:20:14
+569	Isabella Jimenez	1:44:31	7:59	F0-19	5 / 98	1915	MA	24:54.0	49:22.0	1:19:44
+570	Lucy Doohan	1:44:34	7:59	F20-24	17 / 435	Boston	MA	23:10.0	48:12.0	1:19:58
+583	Courtney McCarthy	1:44:50	8:00	F25-29	40 / 375	Windham	NH	25:23.0	50:17.0	1:20:21
+585	Lorena Fernandez Ruiz	1:44:53	8:00	F40-44	12 / 150	Braintree	MA	24:55.0	49:44.0	1:20:11
+588	Allie Haryasz	1:44:54	8:01	F25-29	41 / 375	Somerville	MA	24:59.0	49:32.0	1:19:30
+597	Katelyn Moura	1:45:04	8:01	F20-24	18 / 435	Rehoboth	MA	24:47.0	49:09.0	1:19:41
+599	Lisa Engler	1:45:06	8:01	F45-49	9 / 119	Belmont	MA	24:07.0	49:07.0	1:19:55
+603	Caroline Zuffante	1:45:14	8:02	F20-24	19 / 435	Brookline	MA	23:48.0	47:51.0	1:18:53
+604	Madison Rivers	1:45:16	8:02	F20-24	20 / 435	Wenham	MA	24:37.0	49:09.0	1:19:23
+606	Kimberly Conlan	1:45:22	8:03	F25-29	42 / 375	Bostono	MA	26:23.0	51:40.0	1:21:59
+607	Tracey Lavender	1:45:23	8:03	F35-39	15 / 173	Charlestown	MA	26:39.0	51:36.0	1:21:09
+609	Sarah Kosakowski	1:45:25	8:03	F20-24	21 / 435	Gloucester	MA	23:19.0	48:12.0	1:18:58
+611	Juliana Tracey	1:45:27	8:03	F20-24	22 / 435	Quincy	MA	26:16.0	51:30.0	1:21:26
+614	Millie Otsieno	1:45:30	8:03	F45-49	10 / 119	Brockton	MA	24:25.0	49:21.0	1:20:37
+617	Phoebe Rust	1:45:30	8:03	F20-24	23 / 435	Braintree	MA	25:09.0	49:57.0	1:20:22
+619	Maggie Calzaretta	1:45:31	8:03	F20-24	24 / 435	Somerville	MA	25:11.0	50:02.0	1:20:42
+620	Savanah Eichfeld	1:45:33	8:04	F35-39	16 / 173	Natick	MA	24:54.0	49:11.0	1:19:35
+624	Julie Tassinari	1:45:41	8:04	F20-24	25 / 435	Boston	MA	25:52.0	51:27.0	1:21:11
+626	Heather Stover	1:45:44	8:04	F35-39	17 / 173	Rochester	NH	25:53.0	50:18.0	1:20:21
+628	Ayumi Nagata	1:45:46	8:05	F0-19	6 / 98	Newton	MA	24:27.0	49:23.0	1:20:16
+630	Jennifer Brown	1:45:47	8:05	F35-39	18 / 173	Brookline	MA	24:48.0	50:00.0	1:20:52
+632	Agustina Colonna	1:45:52	8:05	F30-34	24 / 250	Cambridge	MA	23:24.0	48:35.0	1:19:57
+633	Julia Giampietro	1:45:54	8:05	F0-19	7 / 98	East Sandwich	MA	24:39.0	48:55.0	1:19:29
+636	Rachel Lester	1:45:56	8:05	F25-29	43 / 375	Nantucket	MA	24:44.0	49:45.0	1:20:35
+638	Abigail Bigham	1:45:58	8:05	F25-29	44 / 375	Boston	MA	26:00.0	49:55.0	1:20:04
+640	Alanna Murphy	1:46:00	8:06	F25-29	45 / 375	Nashua	NH	23:35.0	48:06.0	1:19:19
+644	Colleen Sullivan	1:46:10	8:06	F20-24	26 / 435	East Bridgewater	MA	27:34.0	53:30.0	1:23:21
+645	Courtney Ponzo	1:46:10	8:06	F20-24	27 / 435	Stoneham	MA	25:58.0	50:56.0	1:21:32
+647	Evan Parker	1:46:13	8:07	F25-29	46 / 375	Boston	MA	26:52.0	51:35.0	1:21:27
+648	Caroline Barbieri	1:46:13	8:07	F20-24	28 / 435	South Boston	MA	25:22.0	50:56.0	1:22:01
+649	Elizabeth Stevenson	1:46:14	8:07	F20-24	29 / 435	Boston	MA	25:27.0	50:21.0	1:21:01
+652	Emmie Bryson	1:46:21	8:07	F25-29	47 / 375	Needham	MA	27:35.0	52:17.0	1:22:01
+654	Rachel Ivy	1:46:23	8:07	F20-24	30 / 435	Boston	MA	25:04.0	49:57.0	1:21:17
+655	Molly Dillon	1:46:23	8:07	F20-24	31 / 435	Milton	MA	25:08.0	49:31.0	1:20:37
+656	Ryane Farrell	1:46:23	8:07	F20-24	32 / 435	Boston	MA	25:04.0	49:57.0	1:21:17
+665	Kendall Connerty	1:46:38	8:09	F45-49	11 / 119	Hanover	MA	26:49.0	51:39.0	1:21:52
+668	Mairead Dowling	1:46:43	8:09	F25-29	48 / 375	Quincy	MA	26:21.0	50:27.0	1:20:37
+682	Leigha Sweeney	1:47:04	8:10	F30-34	25 / 250	Weymouth	MA	25:02.0	50:07.0	1:21:07
+685	Katie Harris	1:47:08	8:11	F35-39	19 / 173	Cambridge	MA	25:27.0	50:44.0	1:21:32
+687	Rebecca Toutant	1:47:08	8:11	F40-44	13 / 150	Ashland	MA	24:39.0	49:07.0	1:20:54
+688	Gabriela Redhead	1:47:08	8:11	F30-34	26 / 250	Boston	MA	25:32.0	51:09.0	1:22:29
+691	Shae McDonald	1:47:11	8:11	F20-24	33 / 435	Westfield	MA	25:46.0	51:16.0	1:22:49
+692	Viktoria Dahill	1:47:11	8:11	F30-34	27 / 250	Hingham	MA	26:04.0	50:25.0	1:21:03
+694	Emily Lanci	1:47:15	8:11	F25-29	49 / 375	Everett	MA	25:41.0	50:55.0	1:22:02
+698	Vanessa Silveira	1:47:20	8:12	F45-49	12 / 119	Brookline	MA	26:23.0	52:04.0	1:22:45
+699	Camille Velasco	1:47:27	8:12	F20-24	34 / 435	Somerville	MA	25:44.0	50:37.0	1:21:26
+700	Kate Pagano	1:47:27	8:12	F30-34	28 / 250	Boston	MA	24:38.0	49:41.0	1:20:54
+704	Delia Delorie	1:47:33	8:13	F20-24	35 / 435	Hingham	MA	26:10.0	51:10.0	1:21:49
+705	Hermela Gebremariam	1:47:34	8:13	F25-29	50 / 375	Boston	MA	24:46.0	49:37.0	1:21:03
+706	Rinara Batista	1:47:37	8:13	F25-29	51 / 375	Boston	MA	26:30.0	53:07.0	1:23:41
+707	Rosela Montalban	1:47:37	8:13	F40-44	14 / 150	Manchester	NH	25:05.0	50:34.0	1:22:05
+710	Lindsey Dembo	1:47:40	8:13	F35-39	20 / 173	Boston	MA	25:40.0	51:44.0	1:23:19
+712	Rachel Bethune Howard	1:47:43	8:13	F30-34	29 / 250	Boston	MA	25:33.0	50:51.0	1:22:15
+714	Megan Beiting	1:47:45	8:14	F35-39	21 / 173	Norwood	MA	24:37.0	49:10.0	1:22:18
+715	Margreta Doerfler	1:47:45	8:14	F35-39	22 / 173	Hooksett	NH	26:39.0	52:55.0	1:23:10
+718	Denny Sanchez	1:47:46	8:14	F35-39	23 / 173	Nashua	NH	26:54.0	51:37.0	1:21:55
+721	Sharon Wu	1:47:51	8:14	F30-34	30 / 250	Boston	MA	25:58.0	52:26.0	1:23:31
+731	Kelley Murphy	1:48:05	8:15	F35-39	24 / 173	Blackstone	MA	25:37.0	50:28.0	1:21:30
+741	Nikoline Freja Madsen	1:48:10	8:15	F25-29	52 / 375	Boston	MA	23:39.0	47:59.0	1:19:51
+742	Laura Radlinski	1:48:11	8:16	F35-39	25 / 173	Manchester	NH	25:48.0	50:59.0	1:22:20
+744	Hannah Richards	1:48:13	8:16	F30-34	31 / 250	Boston	MA	26:36.0	51:53.0	1:23:01
+745	Ava Nardelli	1:48:13	8:16	F25-29	53 / 375	Brockton	MA	24:19.0	49:19.0	1:21:07
+747	Zoe Demers	1:48:14	8:16	F20-24	36 / 435	Manchester	NH	24:39.0	48:56.0	1:21:05
+751	Dacey Redman	1:48:19	8:16	F20-24	37 / 435	Grand Rapids	MI	27:07.0	53:43.0	1:24:31
+756	Ashley Rex	1:48:22	8:16	F20-24	38 / 435	Boston	MA	27:03.0	52:55.0	1:23:22
+758	Hanna Anderson	1:48:23	8:16	F25-29	54 / 375	Olivette	MO	25:31.0	51:04.0	1:22:36
+759	Taylor Kline	1:48:24	8:17	F25-29	55 / 375	North Adams	MA	26:00.0	51:51.0	1:23:04
+760	Liz Peckham	1:48:25	8:17	F25-29	56 / 375	Attleboro	MA	27:06.0	52:49.0	1:23:46
+763	Millena Ribeiro	1:48:28	8:17	F25-29	57 / 375	Dedham	MA	25:32.0	50:30.0	1:22:20
+764	Camille Naser	1:48:29	8:17	F55-59	3 / 79	Dedham	MA	25:32.0	50:30.0	1:22:21
+766	Tamara Ioanilli	1:48:29	8:17	F40-44	15 / 150	Quincy	MA	28:46.0	54:13.0	1:24:24
+768	Pamela Perez	1:48:32	8:17	F20-24	39 / 435	Boston	MA	25:38.0	51:18.0	1:22:51
+769	Christina Menskes	1:48:33	8:17	F30-34	32 / 250	Boston	MA	25:49.0	51:32.0	1:22:56
+772	Maria Packard	1:48:34	8:17	F45-49	13 / 119	Raynham	MA	25:01.0	50:06.0	1:20:56
+773	Katie Smith	1:48:35	8:17	F20-24	40 / 435	Allston	MA	26:03.0	51:37.0	1:23:09
+774	Rachel McLean	1:48:36	8:17	F30-34	33 / 250	Hanover	MA	24:43.0	49:29.0	1:21:34
+776	Cyara Lambert	1:48:38	8:18	F20-24	41 / 435	Lynn	MA	26:25.0	51:59.0	1:23:15
+777	Luisa Mendez	1:48:38	8:18	F0-19	8 / 98	Los Angeles	CA	25:25.0	51:28.0	1:23:29
+782	Lydia Sa	1:48:48	8:18	F30-34	34 / 250	Stoneham	MA	26:28.0	52:06.0	1:23:28
+785	Ilana Krieger	1:48:53	8:19	F35-39	26 / 173	Newton	MA	26:30.0	52:13.0	1:23:18
+786	Renae Sanchez	1:48:55	8:19	F20-24	42 / 435	Somerville	MA	26:12.0	51:28.0	1:22:43
+789	Pauline Nellis	1:48:58	8:19	F55-59	4 / 79	North Grafton	MA	28:03.0	53:07.0	1:23:39
+790	Cheryl Kennedy	1:48:59	8:19	F55-59	5 / 79	West Roxbury	MA	26:44.0		1:23:36
+791	Colette Hanney	1:49:02	8:19	F20-24	43 / 435	Hingham	MA	25:45.0	51:18.0	1:22:47
+801	Marisa Kearney	1:49:06	8:20	F50-54	7 / 91	Lexington	MA	25:41.0	51:08.0	1:22:48
+807	Jackie Frank	1:49:13	8:20	F20-24	44 / 435	Longmeadow	MA	25:22.0	50:56.0	1:23:54
+811	Lindsey Magri	1:49:17	8:21	F30-34	35 / 250	Somerville	MA	25:43.0	51:18.0	1:22:57
+812	Keller Gardner	1:49:21	8:21	F20-24	45 / 435	Cambridge	MA	24:53.0	49:09.0	1:19:42
+815	Meg Freeman	1:49:25	8:21	F30-34	36 / 250	Boston	MA	27:03.0	53:27.0	1:24:38
+818	Madeleine Chang	1:49:26	8:21	F0-19	9 / 98	Lexington	MA	26:30.0	52:34.0	1:23:55
+823	Ryleigh Levensailor	1:49:28	8:21	F25-29	58 / 375	Ayer	MA	26:03.0	51:37.0	1:23:04
+826	Emily Gorton	1:49:30	8:22	F40-44	16 / 150	Boston	MA	27:22.0	53:24.0	1:24:52
+827	Anna Cleveland	1:49:33	8:22	F35-39	27 / 173	Tolland	CT	25:33.0	51:35.0	1:23:33
+829	Kelsey Seamans	1:49:36	8:22	F20-24	46 / 435	Methuen	MA	24:17.0	48:08.0	1:23:55
+831	Jos Bartlett	1:49:36	8:22	F55-59	6 / 79	Hemel Hempstead	UN	25:17.0	50:52.0	1:23:17
+836	Alexi Deninno	1:49:41	8:22	F20-24	47 / 435	Lynbrook	NY	25:38.0	51:20.0	1:22:59
+838	Kristi Rice	1:49:42	8:23	F45-49	14 / 119	St Robert	MO	25:19.0	50:21.0	1:22:24
+844	Brooke Raum	1:49:45	8:23	F0-19	10 / 98	Exeter	NH	27:00.0	53:55.0	1:24:39
+849	Juliana Gannon	1:49:50	8:23	F20-24	48 / 435	Amesbury	MA	25:58.0	51:20.0	1:23:13
+851	Cameron Kirwin	1:49:54	8:23	F20-24	49 / 435	Beverly	MA	26:19.0	52:46.0	1:24:57
+854	Kseniia Anufrieva	1:50:01	8:24	F30-34	37 / 250	Cambridge	MA	24:55.0	50:44.0	1:23:31
+855	Ellen Ramsey	1:50:02	8:24	F35-39	28 / 173	Boston	MA	26:53.0	52:49.0	1:24:22
+858	Salena Chatman	1:50:06	8:24			Middletown	CT	25:51.0	51:56.0	1:23:40
+861	Chloe MacVane	1:50:11	8:25	F20-24	50 / 435	South Portland	ME	26:40.0	52:43.0	1:24:35
+862	Jennifer Campbell	1:50:12	8:25	F35-39	29 / 173	Milford	NH	25:36.0	51:08.0	1:23:04
+864	Rachel Tagen	1:50:14	8:25	F20-24	51 / 435	Saunderstown	RI	27:24.0	54:12.0	1:25:29
+866	Meg Ziegler	1:50:17	8:25	F30-34	38 / 250	Boston	MA	27:43.0	53:38.0	1:24:32
+868	Amanda Clark	1:50:20	8:25	F25-29	59 / 375	Boston	MA	27:26.0	53:18.0	1:24:54
+871	Jen Walker	1:50:24	8:26	F20-24	52 / 435	Webster	MA	26:30.0	52:27.0	1:24:06
+875	Lina Tiouririne	1:50:30	8:26	F20-24	53 / 435	Charlottesville	VA	27:41.0	54:29.0	1:26:23
+876	Zoe Frothinger	1:50:32	8:26	F20-24	54 / 435	Petaluma	CA	24:54.0	50:44.0	1:23:07
+878	Kathleen Gaughan	1:50:33	8:26	F35-39	30 / 173	Milton	MA	25:15.0	50:36.0	1:22:52
+881	Suzanne Russi	1:50:36	8:27	F45-49	15 / 119	Dublin	OH	25:44.0	51:25.0	1:23:31
+887	Cindy Nguyen	1:50:42	8:27	F30-34	39 / 250	Boston	MA	27:15.0		1:24:48
+888	Victoria Postler	1:50:45	8:27	F20-24	55 / 435	Concord	MA	26:20.0	52:20.0	1:24:06
+889	Megan Tyler	1:50:46	8:27	F20-24	56 / 435	East Boston	MA	27:38.0	54:18.0	1:25:18
+891	Darby Drake	1:50:46	8:27	F30-34	40 / 250	Boston	MA	26:59.0	53:25.0	1:25:05
+897	Ariel Kenyon	1:50:48	8:28	F30-34	41 / 250	Newton	MA	26:50.0	53:13.0	1:25:18
+899	Courtney Russo	1:50:51	8:28	F45-49	16 / 119	Swampscott	MA	25:57.0	51:50.0	1:24:15
+904	Amanda Harkins	1:50:53	8:28	F45-49	17 / 119	Westborough	MA	26:15.0	52:21.0	1:24:25
+905	Lisa Diamond	1:50:53	8:28	F40-44	17 / 150	Mechanicsburg	PA	27:33.0	53:43.0	1:25:21
+908	Emily Waite	1:51:00	8:28	F20-24	57 / 435	Gilmanton	NH	27:12.0	53:36.0	1:25:19
+909	Nhung Truong	1:51:02	8:29	F35-39	31 / 173	Norwood	MA	26:10.0	52:43.0	1:25:05
+911	Chi Kundrat	1:51:02	8:29	F55-59	7 / 79	Milford	MA	27:05.0	53:05.0	1:24:50
+912	Danae Terrien-Ferey	1:51:03	8:29	F25-29	60 / 375	Cambridge	MA	27:03.0	53:16.0	1:24:53
+919	Heather Carroll	1:51:07	8:29	F30-34	42 / 250	Tewksbury	MA	25:38.0	50:58.0	1:22:32
+924	Heather Mileika	1:51:10	8:29	F20-24	58 / 435	South Boston	MA	26:34.0	52:37.0	1:24:59
+925	Roxane Gagnon	1:51:11	8:29	F55-59	8 / 79	Manchester	NH	27:01.0	53:14.0	1:25:27
+926	Elizabeth Tobin	1:51:11	8:29	F40-44	18 / 150	Lowell	MA	28:03.0	54:36.0	1:26:02
+928	Maguire Sturgis	1:51:14	8:30	F20-24	59 / 435	Topsfield	MA	25:03.0	50:38.0	1:23:28
+930	Caitlin Noone	1:51:17	8:30	F35-39	32 / 173	Norwell	MA	24:55.0	50:54.0	1:23:55
+932	Shana Miller	1:51:23	8:30	F50-54	8 / 91	Newton	MA	26:25.0	52:50.0	1:25:00
+935	Leighann Seto	1:51:26	8:30	F40-44	19 / 150	Bedford	MA	27:22.0	52:49.0	1:24:38
+937	Kailey Wasserman	1:51:27	8:31	F25-29	61 / 375	Needham	MA	26:54.0	53:32.0	1:25:30
+940	Elyse Bartkus	1:51:29	8:31	F25-29	62 / 375	Westminster	MA	25:04.0	51:24.0	1:24:38
+944	Terri-Lynn Gidius	1:51:32	8:31	F40-44	20 / 150	Windsor Locks	CT	28:43.0	54:39.0	1:25:54
+945	Avery Devoe	1:51:34	8:31	F25-29	63 / 375	South Boston	MA	26:38.0	52:05.0	1:24:44
+946	Lilly Park	1:51:35	8:31	F25-29	64 / 375	Boston	MA	25:11.0	50:30.0	1:22:39
+950	Chen Song	1:51:36	8:31	F30-34	43 / 250	Framingham	MA	27:23.0	53:32.0	1:25:07
+951	Julia Gallotto	1:51:36	8:31	F25-29	65 / 375	Boston	MA	26:59.0	53:17.0	1:25:31
+952	Rachel McIntosh	1:51:37	8:31	F25-29	66 / 375	Wilmington	MA	26:28.0	53:17.0	1:25:52
+955	Lucy Gauvin	1:51:38	8:31	F20-24	60 / 435	Mendon	MA	28:00.0	55:04.0	1:26:54
+961	Mikaela Ranahan	1:51:44	8:32	F30-34	44 / 250	Boston	MA	26:19.0	51:59.0	1:24:13
+963	Lynn Smith	1:51:46	8:32	F55-59	9 / 79	North Andover	MA	26:21.0	52:37.0	1:25:11
+965	Masumi Ogushi	1:51:48	8:32	F30-34	45 / 250	Brookline	MA	25:28.0	51:54.0	1:24:29
+966	Cara Tuzik	1:51:49	8:32	F20-24	61 / 435	Boston	MA	26:22.0	52:06.0	1:24:20
+970	Maggie Reilly	1:51:55	8:33	F0-19	11 / 98	Concord	MA	26:02.0	52:34.0	1:25:15
+976	Ashley Shaughnessy	1:52:01	8:33	F20-24	62 / 435	Watertown	MA	27:27.0	53:59.0	1:26:03
+981	Erica Poon	1:52:06	8:34	F25-29	67 / 375	Milton	MA	26:47.0	52:40.0	1:25:22
+987	Evelyn Lagunas	1:52:10	8:34	F30-34	46 / 250	South Boston	MA	25:38.0	51:46.0	1:24:51
+988	Charlie Casucci	1:52:11	8:34	F20-24	63 / 435	Boston	MA	25:39.0	52:13.0	1:25:01
+989	Kasey Boegner	1:52:11	8:34	F20-24	64 / 435	South Boston	MA	25:39.0	52:13.0	1:25:01
+990	Stefanie Saxer	1:52:11	8:34	F35-39	33 / 173	Cambridge	MA	26:55.0	53:27.0	1:25:58
+993	Vivien Lyman	1:52:13	8:34	F0-19	12 / 98	Bryn Mawr	PA	27:58.0	55:32.0	1:28:16
+1001	Danielle Pierce	1:52:18	8:34	F30-34	47 / 250	Medford	MA	29:03.0	55:49.0	1:27:05
+1007	Grace Barbieri	1:52:26	8:35	F25-29	68 / 375	Boston	MA	25:22.0	50:55.0	1:23:15
+1010	Caroline Szatkowski	1:52:32	8:35	F20-24	65 / 435	Boston	MA	27:40.0	54:46.0	1:26:47
+1013	Lisa Laverdiere	1:52:34	8:36	F45-49	18 / 119	Wakefield	MA	27:33.0	53:44.0	1:25:53
+1015	Cindy Casas	1:52:35	8:36	F40-44	21 / 150	Orange	CT	24:50.0	51:18.0	1:24:00
+1017	Alexis Strahan	1:52:37	8:36	F30-34	48 / 250	Boston	MA	27:05.0	53:24.0	1:25:56
+1020	Andrea Russo	1:52:39	8:36	F25-29	69 / 375	Medford	MA	27:00.0	55:37.0	1:27:12
+1025	Danielle Caturano	1:52:48	8:37	F50-54	9 / 91	North Reading	MA	26:26.0	53:29.0	1:26:44
+1027	Emma Stewart	1:52:50	8:37	F25-29	70 / 375	Quincy	MA	27:20.0	54:28.0	1:27:04
+1029	Corinne Hanney	1:52:51	8:37	F20-24	66 / 435	Hingham	MA	27:31.0	54:22.0	1:26:34
+1030	Ryley Blasetti	1:52:51	8:37	F20-24	67 / 435	Hingham	MA	27:31.0	54:22.0	1:26:34
+1032	Emily Michelsen	1:52:52	8:37	F20-24	68 / 435	Boston	MA	26:28.0	52:54.0	1:25:44
+1033	June Gerrie	1:52:52	8:37	F35-39	34 / 173	Brookline	MA	25:57.0	52:22.0	1:25:45
+1038	Ning Zou	1:52:53	8:37	F45-49	19 / 119	Waltham	MA	27:13.0	54:04.0	1:26:36
+1039	Morgan Schultz	1:52:53	8:37	F20-24	69 / 435	Berlin	MA	27:00.0	52:32.0	1:25:42
+1041	Lillian Dailey	1:52:56	8:37	F0-19	13 / 98	Carlisle	MA	29:06.0	56:25.0	1:27:55
+1045	Caroline Tracey	1:52:59	8:38	F20-24	70 / 435	Quincy	MA	26:17.0	52:00.0	1:25:04
+1048	Maria Buzo	1:53:00	8:38	F25-29	71 / 375	Brookline	MA	26:47.0	52:46.0	1:25:23
+1049	Etana Salvin	1:53:02	8:38	F30-34	49 / 250	Brighton	MA	27:24.0	54:04.0	1:26:56
+1051	Caitlyn Levangie	1:53:04	8:38	F20-24	71 / 435	New Ipswich	NH	26:10.0	53:53.0	1:26:45
+1052	Debbie Nguyen	1:53:05	8:38	F35-39	35 / 173	Norwood	MA	26:10.0	52:42.0	1:25:24
+1053	Ashley Springett	1:53:05	8:38	F40-44	22 / 150	Beverly	MA	28:19.0	55:26.0	1:27:30
+1055	Britt Sticker	1:53:05	8:38	F20-24	72 / 435	Boston	MA	27:15.0	54:17.0	1:27:04
+1057	Caitlin Abban	1:53:11	8:38	F20-24	73 / 435	Pembroke	MA	26:47.0	52:50.0	1:25:29
+1058	Danielle Ruggieri	1:53:11	8:38	F35-39	36 / 173	Providence	RI	27:10.0	54:12.0	1:27:07
+1059	Maura Cogavin	1:53:11	8:38	F20-24	74 / 435	Franklin	MA	28:04.0	55:02.0	1:27:14
+1060	Rebecca Lackey	1:53:12	8:39	F45-49	20 / 119	Andover	MA	26:43.0	53:13.0	1:25:40
+1061	Brianna Gaudio	1:53:12	8:39	F20-24	75 / 435	Ridgefield	NJ	27:10.0	54:10.0	1:26:52
+1062	Shannon Howe	1:53:14	8:39	F45-49	21 / 119	Topsfield	MA	28:00.0	54:41.0	1:26:58
+1063	Alice Chao-Wei Huang	1:53:14	8:39	F25-29	72 / 375	Somerville	MA	25:54.0	51:55.0	1:25:22
+1068	Danielle Nault	1:53:18	8:39	F25-29	73 / 375	Cambridge	MA	27:13.0	54:00.0	1:26:54
+1070	Hannah Khateeb	1:53:20	8:39	F20-24	76 / 435	Weston	MA	26:51.0	53:50.0	1:26:53
+1071	Shannon Foley	1:53:21	8:39	F25-29	74 / 375	Medford	MA	28:56.0	56:20.0	1:28:18
+1073	Jessica Colindres	1:53:23	8:39	F45-49	22 / 119	Auburndale	MA	27:16.0	53:47.0	1:26:26
+1074	Jacqueline Benson	1:53:23	8:39	F25-29	75 / 375	Peabody	MA	27:49.0	54:31.0	1:26:39
+1075	Sarah Cavalear	1:53:24	8:39	F30-34	50 / 250	Marshfield	MA	27:19.0	52:21.0	1:24:29
+1076	Lana Wagner	1:53:24	8:39	F20-24	77 / 435	Cambridge	MA	25:16.0	51:50.0	1:25:24
+1080	Alexandra Kaiser	1:53:28	8:40	F20-24	78 / 435	Fairfield	CT	27:27.0	54:22.0	1:26:38
+1082	Lilly Shea	1:53:30	8:40	F25-29	76 / 375	Boston	MA	29:39.0	57:08.0	1:28:01
+1088	Lauren Weisberg	1:53:33	8:40	F40-44	23 / 150	South Boston	MA	26:09.0	52:06.0	1:24:56
+1090	Amanda McGoldrick	1:53:36	8:40	F25-29	77 / 375	Boston	MA	26:28.0	53:17.0	1:25:53
+1091	Thalia Velazquez	1:53:36	8:40	F30-34	51 / 250	Brandon	FL	26:10.0	52:57.0	1:26:22
+1094	Ashley Ruehr	1:53:39	8:41	F20-24	79 / 435	Brookline	MA	26:49.0	53:57.0	1:27:19
+1098	Allison Evin	1:53:43	8:41	F20-24	80 / 435	North Easton	MA	27:59.0	55:15.0	1:28:10
+1101	Katrina Provencher	1:53:45	8:41	F20-24	81 / 435	Boston	MA	28:01.0	55:17.0	1:28:11
+1105	Adelita Weaver	1:53:47	8:41	F50-54	10 / 91	Lancaster	MA	26:55.0	52:50.0	1:26:07
+1108	Samantha Kizner	1:53:54	8:42	F20-24	82 / 435	Boston	MA	25:04.0	51:08.0	1:25:25
+1111	Mallory Chamberlain	1:53:55	8:42	F20-24	83 / 435	West Hartford	CT	29:14.0	56:07.0	1:28:06
+1112	Melissa Veal	1:53:55	8:42	F25-29	78 / 375	Somerville	MA	29:14.0	56:07.0	1:28:06
+1113	Madeline Dipalma	1:53:55	8:42	F20-24	84 / 435	Duxbury	MA	28:55.0	55:11.0	1:26:34
+1114	Sophia Corsetti	1:53:56	8:42	F25-29	79 / 375	Boston	MA	27:14.0	53:50.0	1:27:14
+1116	Jocelyn Klofas	1:53:57	8:42	F30-34	52 / 250	Arlington	MA	28:58.0	55:47.0	1:27:59
+1117	Allyson Webster	1:53:57	8:42	F50-54	11 / 91	Ayer	MA	27:42.0	54:35.0	1:27:35
+1118	Rebecca Epstein	1:53:57	8:42	F45-49	23 / 119	Brookline	MA	27:09.0	54:00.0	1:26:48
+1119	Taylor Magnone	1:53:57	8:42	F30-34	53 / 250	Boston	MA	27:07.0	53:54.0	1:26:47
+1121	Bridget OConnor	1:54:00	8:42	F25-29	80 / 375	Hanover	MA	28:29.0	55:06.0	1:27:21
+1123	Joanna Cloherty	1:54:00	8:42	F35-39	37 / 173	Boston	MA	26:59.0	53:39.0	1:26:48
+1124	Michelle Wang	1:54:01	8:42	F20-24	85 / 435	Boston	MA	27:26.0	54:25.0	1:27:30
+1133	Lisa Frechette	1:54:05	8:43	F30-34	54 / 250	Somerville	MA	26:50.0	53:25.0	1:26:05
+1134	Caitlin Cormican	1:54:05	8:43	F20-24	86 / 435	Quincy	MA	26:08.0	52:49.0	1:25:59
+1135	Connie Pajares	1:54:05	8:43	F35-39	38 / 173	Somerville	MA	27:18.0	53:37.0	1:26:55
+1141	Elena Rennie	1:54:07	8:43	F20-24	87 / 435	Boston	MA	27:15.0	53:45.0	1:27:00
+1143	Jillian Smerechniak	1:54:08	8:43	F25-29	81 / 375	Boston	MA	25:31.0	51:50.0	1:25:28
+1144	Kara Lennon	1:54:09	8:43	F35-39	39 / 173	Boston	MA	27:27.0	53:49.0	1:26:23
+1146	Rebecca Evansky	1:54:10	8:43	F45-49	24 / 119	Hudson Falls	NY	27:41.0	54:12.0	1:27:11
+1154	Ashley Oconnor	1:54:13	8:43	F30-34	55 / 250	Whitesboro	NY	28:44.0	55:42.0	1:28:09
+1155	Colleen Holden	1:54:13	8:43	F25-29	82 / 375	Hingham	MA	28:32.0	56:21.0	1:28:21
+1156	Jessica Schlicting	1:54:14	8:43	F30-34	56 / 250	Brighton	MA	28:21.0	54:39.0	1:27:39
+1157	Alicia Bonin	1:54:15	8:43			Somers	CT	27:15.0	53:45.0	1:26:59
+1158	Tammy Campbell	1:54:15	8:43			Queen Creek	AZ	27:15.0	53:44.0	1:26:58
+1159	Laine Dimartinis	1:54:17	8:43	F20-24	88 / 435	Walpole	MA	27:59.0	54:55.0	1:27:23
+1160	Marie Rosenthal	1:54:17	8:44	F40-44	24 / 150	Brookline	MA	27:56.0	55:08.0	1:27:32
+1161	Avery Sawyer	1:54:22	8:44	F0-19	14 / 98	Hopkinton	MA	27:40.0	54:55.0	1:27:27
+1163	Norah Heling	1:54:22	8:44	F0-19	15 / 98	Hopkinton	MA	27:41.0	54:55.0	1:27:27
+1166	Maggie McCarthy	1:54:24	8:44	F25-29	83 / 375	Medfield	MA	25:15.0	50:56.0	1:25:02
+1171	Meghan Concannon	1:54:28	8:44	F25-29	84 / 375	Raynham	MA	27:17.0	55:37.0	
+1172	Bayan Alibekova	1:54:29	8:44	F30-34	57 / 250	Brookline	MA	25:17.0	52:55.0	1:27:03
+1173	Katie Fehnel	1:54:29	8:44	F40-44	25 / 150	Chestnut Hill	MA	28:36.0	56:02.0	1:28:39
+1175	Samantha Vides	1:54:30	8:44	F20-24	89 / 435	Oakville	ON	28:00.0	54:32.0	1:27:01
+1177	Jessika Jaar Arango	1:54:33	8:45	F45-49	25 / 119	Pinecrest	FL	27:24.0	54:11.0	1:27:25
+1180	Maryam Garrett	1:54:36	8:45	F40-44	26 / 150	Cambridge	MA	26:12.0	52:58.0	1:26:51
+1181	Kelly Barry	1:54:37	8:45	F25-29	85 / 375	Bristol	CT	27:08.0	54:00.0	1:27:03
+1182	Cara Magarian	1:54:39	8:45	F35-39	40 / 173	Revere	MA	27:58.0	53:27.0	1:25:47
+1183	Marissa Goding	1:54:39	8:45	F30-34	58 / 250	Brookline	MA	26:02.0	52:28.0	1:25:40
+1184	Clemence Jegard	1:54:40	8:45	F20-24	90 / 435	Boston	MA	26:42.0	53:18.0	1:26:54
+1190	Rica Grace	1:54:44	8:46	F50-54	12 / 91	Sudbury	MA	27:41.0	54:25.0	1:27:41
+1196	Grecia De La Gala	1:54:48	8:46	F25-29	86 / 375	Wakefield	MA	25:29.0	51:59.0	1:25:33
+1201	Caroline Barry	1:54:54	8:46	F40-44	27 / 150	Norwell	MA	27:50.0	55:23.0	1:28:40
+1210	Lanle Crotty	1:55:01	8:47	F20-24	91 / 435	Boston	MA	28:08.0	54:56.0	1:27:36
+1211	Sabrina Sacco	1:55:01	8:47	F20-24	92 / 435	Stoneham	MA	29:34.0	57:33.0	1:29:54
+1214	Courtney Murray	1:55:02	8:47	F25-29	87 / 375	Quincy	MA	28:48.0	55:42.0	1:28:11
+1215	Rosicleia Santana	1:55:03	8:47	F40-44	28 / 150	Medford	MA	28:33.0	56:02.0	1:29:31
+1216	Tamara Becker	1:55:03	8:47	F50-54	13 / 91	Barnegat	NJ	26:53.0	53:47.0	1:27:32
+1218	Kyle Robb	1:55:03	8:47	F30-34	59 / 250	Boston	MA	29:44.0	56:35.0	1:29:03
+1219	Samantha Chua	1:55:04	8:47	F35-39	41 / 173	Cambridge	MA	28:11.0	56:14.0	1:29:09
+1221	Sahana Natarajan	1:55:04	8:47	F20-24	93 / 435	Boston	MA	26:22.0	53:35.0	1:27:06
+1222	Kristi Desness	1:55:06	8:47	F30-34	60 / 250	Boston	MA	27:04.0	53:52.0	1:27:26
+1224	Lucia Wesemann	1:55:06	8:47	F20-24	94 / 435	Brookline	MA	29:47.0	56:56.0	1:27:28
+1225	Nichole Pouliot	1:55:06	8:47	F35-39	42 / 173	Methuen	MA	29:09.0	55:50.0	1:28:19
+1226	Enya Vahey	1:55:07	8:47	F0-19	16 / 98	Newton	MA	27:01.0	53:36.0	1:26:45
+1230	Amy McClurg	1:55:10	8:48	F25-29	88 / 375	Boston	MA	27:32.0	55:21.0	1:28:43
+1232	Kari Newton	1:55:11	8:48	F40-44	29 / 150	Mechanic Falls	ME	25:46.0	51:16.0	1:25:40
+1234	Anna Kenyon	1:55:13	8:48	F25-29	89 / 375	Webster	NY	28:06.0	55:51.0	1:28:23
+1239	Meghan Sunyar	1:55:16	8:48	F35-39	43 / 173	Groton	MA	27:26.0	54:03.0	1:27:08
+1240	Sarah Hickey	1:55:16	8:48	F20-24	95 / 435	Boston	MA	26:49.0	53:33.0	1:27:11
+1241	Samantha Collins	1:55:17	8:48	F30-34	61 / 250	Wellesley	MA	28:56.0	56:49.0	1:29:55
+1242	Olivia Mileika	1:55:18	8:48	F25-29	90 / 375	Dorchester	MA	27:11.0	54:11.0	1:27:50
+1245	Rachael Merson	1:55:18	8:48	F35-39	44 / 173	South Boston	MA	27:44.0	55:05.0	1:28:11
+1248	Francesca Pontiroli	1:55:20	8:48	F45-49	26 / 119	Brookline	MA	25:51.0	52:26.0	1:27:05
+1249	Shaylee Hicks	1:55:22	8:48	F25-29	91 / 375	Quincy	MA	27:47.0	54:14.0	1:27:40
+1251	Nadine Levin	1:55:23	8:48	F50-54	14 / 91	North Andover	MA	26:58.0	54:05.0	1:27:36
+1255	Sarah Moniz	1:55:27	8:49	F30-34	62 / 250	Boston	MA	28:22.0	55:53.0	1:28:39
+1256	Audrey Forman	1:55:27	8:49	F20-24	96 / 435	Boston	MA	27:13.0	54:26.0	1:28:18
+1261	Meha Thakur	1:55:30	8:49	F20-24	97 / 435	Brookline	MA	27:12.0	54:42.0	1:28:28
+1264	Vanessa Peraza	1:55:35	8:49	F25-29	92 / 375	Boston	MA	28:46.0	55:11.0	1:28:06
+1265	Hayley Dowd	1:55:35	8:49	F30-34	63 / 250	Peabody	MA	27:48.0	55:25.0	1:28:46
+1266	Natalia Ulbin	1:55:36	8:50	F0-19	17 / 98	Voorhees	NJ	27:00.0	54:00.0	1:27:03
+1267	Lindsy Durgin	1:55:36	8:50	F20-24	98 / 435	Rochester	MA	25:53.0	52:12.0	1:26:45
+1268	Lynne Shea	1:55:38	8:50	F35-39	45 / 173	Milton	MA	29:18.0	56:29.0	1:29:33
+1269	Susie Eklund	1:55:38	8:50	F40-44	30 / 150	Wellesley	MA	28:28.0	55:59.0	1:29:04
+1273	Gabrielle Kim-Levesque	1:55:42	8:50	F20-24	99 / 435	Litchfield	NH	25:45.0	52:24.0	1:26:27
+1277	Stephanie Rizzo	1:55:45	8:50	F25-29	93 / 375	East Boston	MA	27:05.0	54:38.0	1:28:08
+1285	Dalia Marmash	1:55:49	8:51	F25-29	94 / 375	Boston	MA	28:03.0	55:30.0	1:29:46
+1286	Caitlyn Desimone	1:55:49	8:51	F20-24	100 / 435	Newton	MA	28:20.0	57:25.0	1:29:28
+1288	Lily Hanlon	1:55:50	8:51	F20-24	101 / 435	Boston	MA	28:02.0	55:19.0	1:28:22
+1289	Rachel Beers	1:55:50	8:51	F25-29	95 / 375	Billerica	MA	28:02.0	55:00.0	1:28:13
+1291	Maya Slaughter	1:55:53	8:51	F20-24	102 / 435	Hyannis	MA	27:23.0	54:30.0	1:28:16
+1295	Mina Cezairli	1:55:55	8:51	F25-29	96 / 375	Cambridge	MA	27:45.0	54:56.0	1:28:12
+1301	Sarah Sheridan	1:55:59	8:51	F25-29	97 / 375	Boston	MA	27:03.0	54:09.0	1:28:08
+1303	Anastasia Alexander	1:56:01	8:51	F35-39	46 / 173	Cheshire	MA	27:54.0	54:53.0	1:28:44
+1306	Leah Ahern	1:56:04	8:52	F30-34	64 / 250	Boston	MA	27:11.0	54:54.0	1:29:14
+1309	Lauren Egan	1:56:04	8:52	F40-44	31 / 150	Rocky Hill	CT	27:51.0	55:08.0	1:28:38
+1310	Amy Odonnell	1:56:05	8:52	F40-44	32 / 150	Walpole	MA	26:27.0	53:36.0	1:27:32
+1312	Helen Meskhidze	1:56:05	8:52	F30-34	65 / 250	Cambridge	MA	27:54.0	54:52.0	1:28:19
+1313	Lynda Galvin	1:56:05	8:52	F25-29	98 / 375	Canton	MA	27:42.0	55:11.0	1:28:53
+1315	Alexandra Bream	1:56:06	8:52	F35-39	47 / 173	Sudbury	MA	28:36.0	55:55.0	1:29:14
+1316	Tarsha Smith	1:56:07	8:52	F45-49	27 / 119	Walpole	MA	28:03.0	55:16.0	1:28:57
+1317	Nicole Mooradd	1:56:08	8:52	F25-29	99 / 375	Boston	MA	25:13.0	51:47.0	1:26:30
+1319	Flavia Lusse	1:56:10	8:52	F30-34	66 / 250	Lowell	MA	28:04.0	55:05.0	1:28:22
+1321	Ashley Park	1:56:12	8:52	F30-34	67 / 250	Boston	MA	27:50.0	55:15.0	1:28:49
+1322	Erica Chareth	1:56:12	8:52	F25-29	100 / 375	Boston	MA	27:13.0	53:37.0	1:27:30
+1323	Laura Heath	1:56:16	8:53	F45-49	28 / 119	New London	NH	26:48.0	53:25.0	1:27:26
+1324	Kalee Silas	1:56:16	8:53	F30-34	68 / 250	Royal Oak	MI	26:54.0	54:04.0	1:28:12
+1325	Clare Jessey	1:56:18	8:53	F25-29	101 / 375	Boston	MA	26:54.0	54:21.0	1:28:28
+1327	Beth Sticklor	1:56:19	8:53	F35-39	48 / 173	Waltham	MA	26:52.0	53:55.0	1:27:36
+1328	Rylee Meints	1:56:21	8:53	F20-24	103 / 435	Boston	MA	28:23.0	55:50.0	1:29:13
+1329	Ashna Kelkar	1:56:21	8:53	F20-24	104 / 435	Brighton	MA	28:45.0	55:50.0	1:28:36
+1330	Julia Callahan	1:56:21	8:53	F0-19	18 / 98	Boxford	MA	28:08.0	55:17.0	1:28:35
+1331	Lisel Nee	1:56:22	8:53	F20-24	105 / 435	Cohasset	MA	27:24.0	54:44.0	1:28:42
+1332	Xiaoxue Du	1:56:23	8:53	F35-39	49 / 173	Sudbury	MA	28:51.0	55:54.0	1:29:23
+1333	Lucy Nash	1:56:23	8:53	F20-24	106 / 435	Boston	MA	28:48.0	56:05.0	1:29:22
+1334	Sophia Shumilova	1:56:23	8:53	F0-19	19 / 98	Acton	MA	28:26.0	56:16.0	1:29:47
+1335	Ciara McManus	1:56:23	8:53	F30-34	69 / 250	Boston	MA	26:09.0	53:18.0	1:27:32
+1336	Christina Kuemerle	1:56:24	8:53	F20-24	107 / 435	Brighton	MA	28:06.0	55:46.0	1:29:30
+1340	Devan Greevy	1:56:27	8:53	F20-24	108 / 435	Allston	MA	27:55.0	55:45.0	1:29:25
+1343	Victoria Honnell	1:56:28	8:53	F30-34	70 / 250	Boston	MA	27:18.0	53:59.0	1:27:45
+1345	Madison Schoonmaker	1:56:29	8:54	F25-29	102 / 375	Newburgh	NY	28:26.0	56:39.0	1:29:55
+1350	Kaitlyn Roberts	1:56:33	8:54	F25-29	103 / 375	Billerica	MA	27:19.0	54:46.0	1:29:00
+1352	Sarah Wong	1:56:33	8:54	F20-24	109 / 435	St. James	NY	27:32.0	53:50.0	1:26:54
+1354	Ahreum Lee	1:56:34	8:54	F35-39	50 / 173	Cambridge	MA	26:59.0	53:48.0	1:27:25
+1357	Joanna Macone	1:56:36	8:54	F35-39	51 / 173	Boston	MA	28:19.0	55:25.0	1:29:01
+1358	Isabella Conti	1:56:36	8:54	F20-24	110 / 435	Boston	MA	29:28.0	57:11.0	1:29:39
+1359	Lauren Rothwell	1:56:37	8:54	F20-24	111 / 435	Allston	MA	27:28.0	55:12.0	1:29:08
+1360	Patricia Sullivan	1:56:39	8:54	F40-44	33 / 150	Reading	MA	27:31.0	55:16.0	1:29:30
+1365	Anna Laursen	1:56:41	8:54	F20-24	112 / 435	Harvard	MA	28:09.0	55:58.0	1:29:53
+1367	Monica Iveth Felix Garcia	1:56:42	8:55	F30-34	71 / 250	Boston	MA	28:17.0	55:33.0	1:30:00
+1368	Kimberly Forero	1:56:43	8:55	F35-39	52 / 173	Collingswood	NJ	27:31.0	54:55.0	1:29:01
+1369	Laura Urias	1:56:43	8:55	F30-34	72 / 250	Boston	MA	28:31.0	56:05.0	1:30:04
+1374	Amelia DallOcco	1:56:45	8:55	F50-54	15 / 91	Randolph	MA	26:23.0	53:23.0	1:27:27
+1375	Graziella Van Der Plancke	1:56:46	8:55	F20-24	113 / 435	Somerville	MA	27:07.0	53:48.0	1:27:41
+1380	Lindsey Sagasta	1:56:51	8:55	F30-34	73 / 250	Boston	MA	28:16.0	56:06.0	1:29:36
+1381	Sarah Newman	1:56:51	8:55	F45-49	29 / 119	Sudbury	MA	26:55.0	53:59.0	1:28:03
+1383	Alejandra Malaga Walters	1:56:53	8:55	F20-24	114 / 435	Randolph	MA	28:47.0	56:37.0	1:29:54
+1387	Lindsey Higgins	1:56:58	8:56	F50-54	16 / 91	Braintree	MA	28:41.0	56:19.0	1:30:06
+1388	Alexis Frechette	1:56:59	8:56	F20-24	115 / 435	Franklin	MA	27:25.0	54:58.0	1:29:15
+1389	Michaela Kaufmann	1:56:59	8:56	F35-39	53 / 173	Chelmsford	MA	28:18.0	56:04.0	1:29:35
+1393	Micaela Johnson	1:57:03	8:56	F25-29	104 / 375	Webster	NY	28:06.0	55:51.0	1:29:34
+1395	Fengyi Li	1:57:03	8:56	F30-34	74 / 250	Sunnyvale	CA	27:16.0	55:05.0	1:29:01
+1397	Molly Vinton	1:57:07	8:56	F20-24	116 / 435	Holden	MA	27:51.0	57:22.0	1:29:32
+1399	Allison Wu	1:57:07	8:56	F25-29	105 / 375	Watertown	MA	28:35.0	56:35.0	1:30:22
+1401	Jessica Cerillo	1:57:09	8:57	F25-29	106 / 375	Monroe	NY	28:41.0	57:01.0	1:29:55
+1403	Natalie Vickery	1:57:12	8:57	F25-29	107 / 375	Colchester	CT	26:31.0	53:12.0	1:27:27
+1405	Tina Gong	1:57:13	8:57	F20-24	117 / 435	Belmont	MA	27:40.0	55:23.0	1:29:36
+1406	Ashley Robbins	1:57:13	8:57	F35-39	54 / 173	Boston	MA	27:24.0	55:11.0	1:28:17
+1408	Jill Conry	1:57:13	8:57	F25-29	108 / 375	Charlestown	MA	26:23.0	52:59.0	1:27:33
+1413	Elizabeth Imhoff	1:57:18	8:57	F20-24	118 / 435	Cambridge	MA	27:55.0	55:25.0	1:29:27
+1414	Jennifer Povinelli	1:57:18	8:57	F25-29	109 / 375	Boston	MA	29:25.0	57:26.0	1:31:09
+1415	Julia Mansfield	1:57:18	8:57	F20-24	119 / 435	Wallingford	CT	27:46.0	55:16.0	1:29:03
+1416	Annamaria Cavaleri	1:57:19	8:57	F25-29	110 / 375	Boston	MA	27:50.0	55:19.0	1:29:08
+1420	Julia Tomanovich	1:57:23	8:58	F20-24	120 / 435	Somerville	MA	28:12.0	55:48.0	1:29:11
+1421	Taylor Elliott	1:57:23	8:58	F20-24	121 / 435	Medford	MA	28:01.0	55:42.0	1:29:54
+1426	Lily Wetherington	1:57:25	8:58	F20-24	122 / 435	Boston	MA	28:12.0	55:48.0	1:29:11
+1428	Stephanie Buckenheimer	1:57:27	8:58	F30-34	75 / 250	Boston	MA	28:32.0	55:53.0	1:29:48
+1431	Nicole Stanec	1:57:30	8:58	F25-29	111 / 375	Cambridge	MA	26:08.0	52:44.0	1:26:32
+1432	Arete Giannetti	1:57:30	8:58	F20-24	123 / 435	West Roxbury	MA	28:41.0	55:34.0	1:29:17
+1433	Brigid McSweeney	1:57:31	8:58	F20-24	124 / 435	Brookline	MA	25:37.0	53:46.0	1:30:04
+1436	Jane Cloherty	1:57:33	8:58	F0-19	20 / 98	Arlington	MA	26:55.0	53:57.0	1:28:32
+1437	Kathleen Tracey	1:57:34	8:59	F55-59	10 / 79	Quincy	MA	27:30.0	55:03.0	1:29:10
+1439	Mafalda McGurn Satz	1:57:36	8:59	F40-44	34 / 150	Somerville	MA	28:02.0	55:37.0	1:29:50
+1442	Joan Hayes	1:57:36	8:59	F60-64	1 / 39	Newton	MA	28:33.0	56:22.0	1:30:03
+1450	Alyona Krasnokutska	1:57:41	8:59	F35-39	55 / 173	Ashland	MA	28:08.0	55:20.0	1:29:12
+1451	Teresa Meyer	1:57:42	8:59	F20-24	125 / 435	Boston	MA	30:31.0	58:04.0	1:31:07
+1453	Vanna Tran	1:57:44	8:59	F25-29	112 / 375	Somerville	MA	26:29.0	53:31.0	1:27:55
+1454	Camille Abraham	1:57:44	8:59	F40-44	35 / 150	Milton	MA	27:21.0	54:54.0	1:29:19
+1455	Elizabeth Kirkman	1:57:45	8:59	F20-24	126 / 435	Acton	MA	28:09.0	55:58.0	1:29:54
+1456	Caitlin Diblasi	1:57:46	8:59	F40-44	36 / 150	Hampstead	NH	27:42.0	55:23.0	1:29:26
+1465	Lauren Langlais	1:57:50	9:00	F30-34	76 / 250	Weymouth, Ma	MA	28:54.0	56:35.0	1:32:05
+1468	Mackenzie Glenn	1:57:52	9:00	F20-24	127 / 435	Branford	CT	27:46.0	55:15.0	1:29:02
+1469	Maggie O'Donnell	1:57:53	9:00	F20-24	128 / 435	Boston	MA	28:59.0	57:06.0	1:30:46
+1471	Anna Fitzgerald	1:57:58	9:00	F20-24	129 / 435	Gansevoort	NY	28:13.0	55:59.0	1:29:42
+1472	Caroline Costello	1:57:59	9:00	F25-29	113 / 375	Boston	MA	28:25.0	56:32.0	1:30:34
+1473	Emily Meservey	1:58:00	9:00	F20-24	130 / 435	Hingham	MA	28:39.0	56:37.0	1:31:04
+1474	Kira Maguire	1:58:00	9:00	F20-24	131 / 435	Hingham	MA	28:39.0	56:36.0	1:31:03
+1476	Carla Ferzoco	1:58:05	9:01	F20-24	132 / 435	Millis	MA	30:04.0	59:14.0	1:32:29
+1481	Manning Ding	1:58:11	9:01	F35-39	56 / 173	Brookline	MA	28:09.0	55:51.0	1:30:12
+1485	Daniela Desantis	1:58:16	9:02	F40-44	37 / 150	Winthrop	MA	28:44.0	57:03.0	1:31:20
+1487	Christie Jacobi	1:58:17	9:02	F40-44	38 / 150	Millis	MA	27:57.0	55:34.0	1:30:07
+1490	Tory Wight	1:58:18	9:02	F45-49	30 / 119	New Ipswich	NH	27:17.0	55:13.0	1:29:50
+1493	Alicia McHugh	1:58:19	9:02	F25-29	114 / 375	Somerville	MA	28:17.0	55:05.0	1:29:14
+1494	Susan Brogan	1:58:22	9:02	F55-59	11 / 79	Arlington	MA	26:19.0	53:10.0	1:29:17
+1495	Ella Szmania	1:58:22	9:02	F20-24	133 / 435	Sarasota	FL	29:07.0	56:54.0	1:30:25
+1498	Joan Buysee	1:58:22	9:02	F40-44	39 / 150	Washington	IL	26:48.0	54:22.0	1:29:47
+1502	Jamie Byron Geller	1:58:23	9:02	F35-39	57 / 173	Newton	MA	29:07.0	57:03.0	1:31:21
+1504	Mackenzie Heidkamp	1:58:24	9:02	F20-24	134 / 435	Roxbury Crossing	MA	29:45.0	57:13.0	1:30:36
+1506	Catherine Mihovan	1:58:25	9:02	F35-39	58 / 173	Woburn	MA	27:27.0	54:45.0	1:29:04
+1512	Jen Collins	1:58:28	9:03	F25-29	115 / 375	Somerville	MA	28:37.0	56:04.0	1:31:22
+1513	Allison Cowie	1:58:30	9:03	F25-29	116 / 375	Wayland	MA	28:29.0	56:22.0	1:30:41
+1515	Kate Johnson	1:58:32	9:03	F40-44	40 / 150	Quincy	MA	28:49.0	56:58.0	1:31:25
+1517	Kayla Zwirko	1:58:35	9:03	F30-34	77 / 250	Stratford	CT	27:54.0	55:55.0	1:30:38
+1518	Avery Fuller	1:58:35	9:03	F30-34	78 / 250	Keene	NH	27:54.0	55:55.0	1:30:38
+1519	Grace Couillard	1:58:36	9:03	F25-29	117 / 375	Boston	MA	28:05.0	55:56.0	1:30:31
+1522	Erin Angelo	1:58:37	9:03	F30-34	79 / 250	Abington	MA	27:36.0	54:53.0	1:30:05
+1525	Christina Balch	1:58:40	9:04	F55-59	12 / 79	Manchester	NH	28:53.0	56:50.0	1:30:57
+1531	Monica Roberts	1:58:44	9:04	F35-39	59 / 173	Boston	MA	26:54.0	53:25.0	1:27:57
+1533	Courtnay Evans	1:58:44	9:04	F40-44	41 / 150	Exeter	NH	27:29.0	55:06.0	1:29:26
+1534	Michelle Fedotova	1:58:45	9:04	F25-29	118 / 375	New York	NY	27:10.0	53:48.0	1:28:27
+1536	Megan Clifford	1:58:47	9:04	F30-34	80 / 250	Boston	MA	28:30.0	56:15.0	1:30:44
+1540	Madeline Baldwin	1:58:49	9:04	F30-34	81 / 250	Boston	MA	28:04.0	55:52.0	1:30:47
+1541	Riley Turcotte	1:58:49	9:04	F25-29	119 / 375	Boston	MA	27:13.0	53:48.0	1:31:02
+1544	Catherine Lynch	1:58:51	9:04	F0-19	21 / 98	Franklin	MA	25:11.0	52:39.0	1:31:43
+1546	Taylor Wooster	1:58:51	9:04	F25-29	120 / 375	Billerica	MA	29:19.0	57:10.0	1:30:50
+1547	Stacey Leadbetter	1:58:51	9:04	F50-54	17 / 91	Barre	VT	28:45.0	56:40.0	1:31:04
+1548	Victoria Ziner	1:58:51	9:04	F25-29	121 / 375	South Easton	MA	29:20.0	57:11.0	1:30:59
+1552	Carly Chisholm	1:58:52	9:04	F25-29	122 / 375	Boston	MA	28:05.0	55:38.0	1:30:59
+1555	Joanna Belanger	1:58:54	9:05	F45-49	31 / 119	Concord	NH	27:10.0	54:42.0	1:29:53
+1556	Joanna Weglarzy	1:58:55	9:05	F30-34	82 / 250	Quincy	MA	29:16.0	57:32.0	1:31:28
+1557	Erin Kaukas	1:58:57	9:05	F30-34	83 / 250	Milton	MA	28:32.0	56:23.0	1:30:47
+1562	Hailey Belval	1:59:02	9:05	F20-24	135 / 435	Scituate	MA	29:54.0	58:04.0	1:31:53
+1563	Julia Chun	1:59:05	9:05	F25-29	123 / 375	Boston	MA	26:20.0	53:41.0	1:29:06
+1566	Nicole Wiggins	1:59:07	9:06	F25-29	124 / 375	Boston	MA	27:45.0	55:29.0	1:30:06
+1567	Lauren Poehlmann	1:59:07	9:06	F20-24	136 / 435	Brighton	MA	28:10.0	56:15.0	1:31:00
+1568	Katherine Page	1:59:07	9:06			Waltham	MA	27:51.0	55:20.0	1:29:35
+1569	Marisa Tamayo	1:59:07	9:06	F45-49	32 / 119	Canton	CT	28:31.0	56:42.0	1:30:57
+1570	Erika Carace	1:59:07	9:06			Hooksett	NH	27:52.0	55:20.0	1:29:35
+1571	Ellie McSweeney	1:59:09	9:06	F20-24	137 / 435	Ashland	MA	25:21.0	54:01.0	1:31:07
+1573	Camille Kent	1:59:10	9:06	F30-34	84 / 250	Denver	CO	27:03.0	53:58.0	1:29:30
+1574	Melanie Monteiro	1:59:11	9:06	F25-29	125 / 375	Boston	MA	27:51.0	56:17.0	1:30:43
+1576	Mary Hester	1:59:13	9:06	F35-39	60 / 173	Boston	MA	29:24.0	57:04.0	1:31:00
+1577	Amanda Reilly	1:59:13	9:06	F25-29	126 / 375	Millis	MA	27:36.0	55:05.0	1:30:03
+1578	Meggan Hope	1:59:14	9:06	F45-49	33 / 119	Bourne	MA	28:43.0	56:12.0	1:30:53
+1579	Mallory Kuhn	1:59:17	9:06	F30-34	85 / 250	Duxbury	MA	25:17.0	52:05.0	1:28:44
+1582	Kelsey Pruden	1:59:17	9:06	F55-59	13 / 79	Red Deer	AB	29:01.0	57:14.0	1:31:48
+1583	Casey Hartman	1:59:18	9:06	F45-49	34 / 119	Boston	MA	25:41.0	56:40.0	1:31:11
+1585	Sophia Midgley	1:59:18	9:06	F20-24	138 / 435	Wayland	MA	29:51.0	57:33.0	1:31:24
+1590	Katy Derrico	1:59:21	9:07	F50-54	18 / 91	Madison	CT	29:18.0	57:35.0	1:32:07
+1593	Angela Parker	1:59:22	9:07	F40-44	42 / 150	Franklin	MA	29:18.0	57:35.0	1:31:49
+1594	Mary Seabury	1:59:22	9:07	F20-24	139 / 435	Charlton	MA	29:48.0	58:18.0	1:32:33
+1595	Christine Della Vecchia	1:59:22	9:07	F30-34	86 / 250	New York	NY	28:00.0	56:50.0	1:31:37
+1599	Kelsey McLean	1:59:24	9:07	F30-34	87 / 250	Boston	MA	29:51.0	59:18.0	1:33:17
+1601	Ailbhe Oconnor	1:59:25	9:07	F30-34	88 / 250	Boston	MA	27:44.0	55:48.0	1:30:48
+1602	Laura Santamaria	1:59:28	9:07	F30-34	89 / 250	Waltham	MA	27:47.0	55:16.0	1:30:32
+1603	Karla Bruning	1:59:28	9:07	F45-49	35 / 119	New York	NY	29:27.0	57:39.0	1:32:01
+1604	Elefteria Kilimos	1:59:29	9:07	F20-24	140 / 435	North Franklin	CT	27:39.0	55:11.0	1:29:35
+1606	Meghan Stapleton	1:59:29	9:07	F30-34	90 / 250	Boston	MA	28:05.0	55:54.0	1:31:12
+1607	Alexandra Goodelman	1:59:31	9:07	F25-29	127 / 375	Boston	MA	29:50.0	57:47.0	1:31:52
+1608	Marissa McQueeney	1:59:33	9:08	F35-39	61 / 173	Malden	MA	28:38.0	56:19.0	1:31:04
+1610	Lauren Robert	1:59:35	9:08	F20-24	141 / 435	Northborough	MA	28:02.0	55:21.0	1:29:33
+1611	Sierra Wehrenberg	1:59:35	9:08	F20-24	142 / 435	South Boston	MA	28:21.0	56:08.0	1:31:16
+1613	Kathryn Healey	1:59:36	9:08	F25-29	128 / 375	Somerville	MA	28:28.0	56:38.0	1:31:06
+1617	Anna Moran	1:59:42	9:08	F20-24	143 / 435	Concord	NH	28:41.0	57:05.0	1:31:52
+1621	Erin Kokinda	1:59:44	9:08	F35-39	62 / 173	Wakefield	MA	29:46.0	57:01.0	1:31:37
+1622	Fiona Galvin	1:59:45	9:08	F20-24	144 / 435	Westwood	MA	26:41.0	54:14.0	1:29:18
+1623	Jenny Ek	1:59:45	9:09	F35-39	63 / 173	Boston	MA	29:32.0	56:53.0	1:31:08
+1624	Melissa Marchetti	1:59:45	9:09	F25-29	129 / 375	Framingham	MA	29:57.0	57:53.0	1:31:58
+1625	Emily Coppola	1:59:45	9:09	F20-24	145 / 435	Cambridge	MA	29:25.0	59:30.0	1:33:50
+1626	Carter Kelley	1:59:47	9:09	F25-29	130 / 375	South Boston	MA	28:44.0	55:20.0	1:29:22
+1627	Alexandra Levine	1:59:50	9:09	F20-24	146 / 435	Mahopac	NY	28:47.0	58:28.0	1:31:56
+1629	Colleen Connor	1:59:52	9:09	F20-24	147 / 435	Quincy	MA	28:19.0	56:19.0	1:31:25
+1630	Nadia Harris	1:59:53	9:09	F45-49	36 / 119	Quincy	MA	28:38.0	56:34.0	1:30:48
+1632	Rongbing Liu	1:59:54	9:09	F35-39	64 / 173	Ashland	MA	29:28.0	57:26.0	1:31:51
+1633	Rachel Martin	1:59:56	9:09	F30-34	91 / 250	Woburn	MA	28:27.0	56:49.0	1:32:10
+1637	Claudia Moccia	2:00:00	9:10	F25-29	131 / 375	Boston	MA	28:12.0	54:36.0	1:29:17
+1638	Rachel Troyanovsky	2:00:00	9:10	F35-39	65 / 173	Boston	MA	29:57.0	58:15.0	1:32:25
+1640	Alexis Steinmetz	2:00:04	9:10	F20-24	148 / 435	Cohasset	MA	30:03.0	59:31.0	1:33:12
+1643	Lydia Berns-Schweingruber	2:00:05	9:10	F20-24	149 / 435	Boston	MA	26:39.0	53:44.0	1:29:20
+1647	Amy Deltorchio	2:00:07	9:10	F35-39	66 / 173	Lowell	MA	27:25.0	55:46.0	1:31:40
+1649	Steph Bautista	2:00:11	9:10	F30-34	92 / 250	Revere	MA	29:34.0	58:05.0	1:32:14
+1651	Ava Dizenzo	2:00:20	9:11	F20-24	150 / 435	Boston	MA	27:17.0	54:24.0	1:31:51
+1653	Erin Kim	2:00:23	9:11	F20-24	151 / 435	Somerville	MA	26:59.0	55:00.0	1:30:30
+1655	Gwendy Zeya	2:00:25	9:12	F35-39	67 / 173	Framingham	MA	29:20.0	58:20.0	1:32:52
+1656	Natali Gevorgyan	2:00:25	9:12	F20-24	152 / 435	Newton	MA	29:20.0	58:21.0	1:32:53
+1657	Jackie Gaumer	2:00:26	9:12	F25-29	132 / 375	Manchester	NH	29:59.0	57:40.0	1:31:43
+1660	Lauryn Millar	2:00:30	9:12	F20-24	153 / 435	Gloucester	MA	28:01.0	55:37.0	1:30:49
+1661	Madison Dulgarian	2:00:30	9:12	F30-34	93 / 250	Boston	MA	29:56.0	58:41.0	1:33:36
+1662	Jenni Doucette	2:00:31	9:12	F35-39	68 / 173	Nahant	MA	29:56.0	59:24.0	1:34:12
+1671	Pat Bourgault	2:00:42	9:13	F65-69	1 / 14	Concord	NH	27:35.0	55:35.0	1:30:51
+1672	Sheila Lapointe	2:00:43	9:13	F55-59	14 / 79	Lunenburg	MA	28:16.0	56:57.0	1:32:18
+1674	Julie Bond	2:00:45	9:13	F20-24	154 / 435	Fremont	NH	29:49.0	57:47.0	1:32:10
+1675	Carly Mackinnon	2:00:45	9:13	F25-29	133 / 375	Boston	MA	30:38.0	59:04.0	1:33:33
+1677	Summer Maki	2:00:47	9:13	F0-19	22 / 98	South Boston	MA	29:01.0	56:45.0	1:32:12
+1683	Sarah Quinlan	2:00:53	9:14	F20-24	155 / 435	Burlington	MA	28:58.0	57:00.0	1:31:44
+1684	Catherine Corriveau	2:00:53	9:14	F30-34	94 / 250	Cambridge	MA	28:29.0	56:42.0	1:31:37
+1685	Chau Ransley	2:00:54	9:14	F50-54	19 / 91	Medford	MA	26:45.0	54:42.0	1:30:29
+1686	Ashling Devaney	2:00:57	9:14	F25-29	134 / 375	Norwood	MA	28:37.0	56:40.0	1:32:18
+1687	Katie Hughes	2:01:00	9:14	F25-29	135 / 375	Charlestown	MA	30:17.0	59:37.0	1:34:04
+1688	Hazel Blum	2:01:01	9:14	F0-19	23 / 98	Hanover	MA	30:23.0	58:10.0	1:32:58
+1689	Lydia McLean	2:01:01	9:14	F0-19	24 / 98	Hanover	MA	30:23.0	58:10.0	1:32:58
+1690	Alyssa Healey	2:01:01	9:14	F20-24	156 / 435	Hull	MA	27:37.0	54:31.0	1:30:59
+1691	Kaija Peterson	2:01:02	9:14	F40-44	43 / 150	Chelsea	MA	29:25.0	58:03.0	1:33:01
+1692	Maya Poorvu	2:01:02	9:14	F35-39	69 / 173	Waban	MA	29:36.0	57:36.0	1:32:00
+1693	Kelsey Fafara	2:01:02	9:14	F30-34	95 / 250	Melrose	MA	27:23.0	54:52.0	1:31:02
+1694	Cailie Trombley	2:01:02	9:14	F30-34	96 / 250	Peabody	MA	29:25.0	58:03.0	1:33:02
+1697	Eunice Ventura	2:01:05	9:15	F45-49	37 / 119	West Springfield	MA	27:58.0	55:44.0	1:30:49
+1698	Kaitlyn Lagasca	2:01:07	9:15	F25-29	136 / 375	Boston	MA	28:50.0	56:57.0	1:31:41
+1699	Molly Riordan	2:01:08	9:15	F30-34	97 / 250	West Boylston	MA	28:16.0	56:01.0	1:31:12
+1701	Christina Coronis	2:01:11	9:15	F30-34	98 / 250	Whitman	MA	29:23.0	58:16.0	1:33:18
+1704	Olivia Viessmann	2:01:16	9:15	F35-39	70 / 173	Boston	MA	31:21.0	1:01:16	1:36:04
+1706	Juan Li	2:01:18	9:16	F50-54	20 / 91	Needham	MA	28:58.0	56:18.0	1:30:50
+1711	Dana Josephs	2:01:24	9:16	F35-39	71 / 173	Chelsea	MA	29:14.0	56:30.0	1:32:04
+1712	Kate Riccio	2:01:28	9:16	F20-24	157 / 435	Boston	MA	26:53.0	55:47.0	1:31:30
+1714	Dayna Demers	2:01:34	9:17	F45-49	38 / 119	Framingham	MA	28:47.0	57:02.0	1:32:01
+1716	Danielah Samson	2:01:35	9:17	F20-24	158 / 435	Roslindale	MA	29:28.0	58:20.0	1:33:17
+1721	Yariza Jimenez	2:01:46	9:18	F20-24	159 / 435	Boston	MA	30:07.0	58:29.0	1:32:56
+1725	Ana Calvillo	2:01:50	9:18	F20-24	160 / 435	Chestnut Hill	MA	31:00.0	1:00:24	1:34:40
+1727	Glenda Guepy	2:01:51	9:18	F20-24	161 / 435	Manchester	NH	30:11.0	58:54.0	1:33:40
+1729	Lisa Burgess	2:01:53	9:18	F55-59	15 / 79	Framingham	MA	32:11.0	59:49.0	1:34:03
+1730	Georgia MacDonald	2:01:55	9:18	F25-29	137 / 375	Kingston	MA	29:11.0	57:39.0	1:33:17
+1732	Lindsay Keady	2:01:57	9:19	F25-29	138 / 375	Dorchester	MA	31:52.0	1:00:58	1:34:45
+1734	Margaret Milne	2:01:57	9:19	F20-24	162 / 435	Burlington	MA	28:58.0	56:59.0	1:31:44
+1736	Remy Manni	2:01:59	9:19	F20-24	163 / 435	Bedford	NH	29:32.0	56:47.0	1:32:01
+1738	Kelly Judge	2:01:59	9:19	F25-29	139 / 375	Medway	MA	29:46.0	58:52.0	1:33:36
+1740	Elisa Allen	2:02:03	9:19	F50-54	21 / 91	Wilmington	MA	29:19.0	57:30.0	1:32:36
+1744	Gabbi Echevarria	2:02:06	9:19	F25-29	140 / 375	Somerville	MA	30:23.0	59:08.0	1:34:36
+1745	Jackie Gonzalez	2:02:07	9:19	F25-29	141 / 375	Boston	MA	28:38.0	58:28.0	1:33:33
+1746	Jillian McGrath	2:02:07	9:19	F25-29	142 / 375	Boston	MA	28:39.0	58:29.0	1:33:33
+1747	Anna Mahoney	2:02:07	9:19	F20-24	164 / 435	Hanover	MA	27:58.0	56:05.0	1:32:33
+1748	Amy Dawson	2:02:07	9:19	F50-54	22 / 91	Trumansburg	NY	28:44.0	57:12.0	1:32:54
+1749	Jenna Stein	2:02:08	9:19	F30-34	99 / 250	Boston	MA	29:46.0	58:58.0	1:33:33
+1750	Haein Shin	2:02:11	9:20	F25-29	143 / 375	Somerville	MA	29:53.0	58:37.0	1:33:33
+1751	Victoria Terracino	2:02:11	9:20	F20-24	165 / 435	Monroe	NY	28:41.0	57:02.0	1:32:33
+1752	Elena Khomyakova	2:02:12	9:20	F45-49	39 / 119	Boylston	MA	28:37.0	58:57.0	1:33:20
+1753	Elise Newman	2:02:13	9:20	F25-29	144 / 375	Phoenix	AZ	29:37.0	58:44.0	1:33:58
+1754	Sarah McDonald	2:02:13	9:20	F35-39	72 / 173	Derry	NH	27:02.0	55:46.0	1:31:47
+1755	Claire Kearney	2:02:14	9:20	F20-24	166 / 435	Acton	MA	27:25.0	55:54.0	1:31:47
+1757	Carolyn Moriarty	2:02:15	9:20	F35-39	73 / 173	Somerville	MA	28:21.0	58:27.0	1:33:09
+1758	Jimin Weatherly	2:02:17	9:20	F40-44	44 / 150	Boston	MA	28:29.0	56:36.0	1:31:42
+1759	Ashley Steeves	2:02:17	9:20	F35-39	74 / 173	Amesbury	MA	29:12.0	57:26.0	1:33:11
+1760	Julia Dudkiewicz-Garbicz	2:02:18	9:20	F25-29	145 / 375	Boston	MA	30:38.0	1:00:19	1:34:40
+1762	Sarah Mark	2:02:21	9:20	F20-24	167 / 435	Cambridge	MA	27:14.0	53:44.0	1:33:21
+1763	Nina Cuccovia	2:02:21	9:20	F20-24	168 / 435	East Longmeadow	MA	28:10.0	56:51.0	1:32:46
+1764	Lisania Mandracchia	2:02:21	9:20	F30-34	100 / 250	Chelsea	MA	29:55.0	58:53.0	1:33:18
+1765	Adrienne Metzgar	2:02:23	9:21	F25-29	146 / 375	Natick	MA	26:20.0	53:21.0	1:31:23
+1766	Whitney Metzgar	2:02:23	9:21	F25-29	147 / 375	Natick	MA	26:20.0	53:03.0	1:31:23
+1768	Julia Bae	2:02:25	9:21	F0-19	25 / 98	Chestnut Hill	MA	31:14.0	1:00:49	1:35:51
+1769	Megan Garvey	2:02:26	9:21	F30-34	101 / 250	Sudbury	MA	28:36.0	55:55.0	1:31:27
+1770	Gabby Kaluski	2:02:26	9:21	F0-19	26 / 98	Charlestown	MA	31:14.0	1:00:50	1:35:52
+1774	Pu Fang Hung	2:02:30	9:21	F30-34	102 / 250	Boston	MA	28:47.0	57:51.0	1:33:04
+1775	Jackie Combs	2:02:31	9:21	F50-54	23 / 91	Derry	NH	29:18.0	58:13.0	1:33:42
+1777	Christine Mackie	2:02:31	9:21	F50-54	24 / 91	Milton	MA	29:17.0	58:40.0	1:33:33
+1779	Emily Carney	2:02:32	9:21	F25-29	148 / 375	North Andover	MA	29:04.0	58:50.0	1:34:06
+1780	Danielle Ouano	2:02:33	9:21	F50-54	25 / 91	New Bern	NC	30:10.0	59:27.0	1:34:23
+1790	Jonalyn Baldwin	2:02:38	9:22	F40-44	45 / 150	Bow	NH	30:03.0	57:56.0	1:33:24
+1791	Julie Hall	2:02:39	9:22	F35-39	75 / 173	Weymouth	MA	27:39.0	55:26.0	1:31:41
+1793	Grace Kirkman	2:02:40	9:22	F25-29	149 / 375	Boston	MA	28:37.0	57:30.0	1:34:08
+1794	Maeve Roche	2:02:41	9:22	F20-24	169 / 435	Boston	MA	28:00.0	56:14.0	1:32:02
+1795	Anna Brewer	2:02:41	9:22	F25-29	150 / 375	Medway	MA	27:50.0	56:29.0	1:32:53
+1799	Alyssa Pannozzi	2:02:43	9:22	F35-39	76 / 173	Needham	MA	29:17.0	58:00.0	1:33:42
+1800	Lauren Coccoluto	2:02:44	9:22	F25-29	151 / 375	Saugus	MA	29:03.0	57:04.0	1:32:10
+1802	Kathleen Lavoie	2:02:45	9:22	F30-34	103 / 250	Medford	MA	29:12.0	58:03.0	1:33:00
+1803	Kim Gleason	2:02:45	9:22	F30-34	104 / 250	East Bridgewater	MA	28:48.0	57:50.0	1:33:42
+1808	Emelyne Su	2:02:47	9:22	F20-24	170 / 435	Natick	MA	27:20.0	55:10.0	1:30:48
+1809	Emily Sjolin	2:02:47	9:22	F30-34	105 / 250	Scituate	MA	29:33.0	58:24.0	1:34:42
+1813	Ilona Volker	2:02:49	9:23	F40-44	46 / 150	Malden	MA	30:26.0	59:20.0	1:34:34
+1814	Christine Barlow	2:02:49	9:23	F40-44	47 / 150	Milford, Massachus	MA	28:14.0	56:20.0	1:32:21
+1816	Desiree Provini Desai	2:02:50	9:23	F30-34	106 / 250	Brookline	MA	29:43.0	58:30.0	1:33:57
+1817	Guili Yao	2:02:51	9:23	F45-49	40 / 119	Newton	MA	30:52.0	1:00:14	1:35:11
+1818	Liza Farley	2:02:51	9:23	F50-54	26 / 91	West Roxbury	MA	30:23.0	58:56.0	1:33:28
+1820	Tracy Wallace	2:02:53	9:23	F45-49	41 / 119	New Bedford	MA	29:51.0	57:45.0	1:32:52
+1821	Kali Condon	2:02:54	9:23	F0-19	27 / 98	Boston	MA	30:06.0	58:42.0	1:33:18
+1822	Hallie Lipinski	2:02:55	9:23	F30-34	107 / 250	Middleboro	MA	28:36.0	57:29.0	1:33:03
+1825	Pranatha Rao	2:03:01	9:23	F25-29	152 / 375	Cambridge	MA	28:04.0	56:14.0	1:32:42
+1827	Michelle Mallon	2:03:03	9:24	F40-44	48 / 150	Wilmington	MA	27:17.0	55:36.0	1:31:56
+1831	Monyka Solis	2:03:05	9:24	F35-39	77 / 173	Cambridge	MA	26:34.0	55:34.0	1:32:39
+1834	Claire Cagle	2:03:06	9:24	F25-29	153 / 375	Brookline	MA	28:05.0	56:41.0	1:32:56
+1839	Sarah Craig	2:03:11	9:24	F25-29	154 / 375	Manchester	NH	27:51.0	55:36.0	1:32:18
+1840	Madeline Echeverri	2:03:12	9:24	F20-24	171 / 435	Medley	FL	30:28.0	59:46.0	1:34:47
+1843	Annebel Balogh De Galantha	2:03:14	9:24	F20-24	172 / 435	South Grafton	MA	28:15.0	56:21.0	1:32:40
+1844	Junliu Zhang	2:03:16	9:25	F40-44	49 / 150	Watertown	MA	27:06.0	56:07.0	1:32:18
+1846	Anastasia Lymar	2:03:18	9:25	F30-34	108 / 250	Dedham	MA	28:18.0	57:44.0	1:33:56
+1848	Jenna Stefanski	2:03:19	9:25	F25-29	155 / 375	Boston	MA	31:00.0	1:00:12	1:35:13
+1849	Gabriella Villani	2:03:19	9:25	F20-24	173 / 435	Boylston	MA	28:28.0	56:43.0	1:32:30
+1850	Talena Lange	2:03:20	9:25	F35-39	78 / 173	Reading	MA	30:34.0	59:32.0	1:34:15
+1851	Catalina Hernandez	2:03:20	9:25	F0-19	28 / 98	Guaynabo	PR	30:27.0	1:00:05	1:35:03
+1854	Ambar Hernandez	2:03:21	9:25	F30-34	109 / 250	San Juan	PR	30:29.0	1:00:06	1:35:04
+1855	Sarah Schaumann	2:03:21	9:25	F30-34	110 / 250	Somerville	MA	26:49.0	54:34.0	1:31:09
+1857	Sophie Butte	2:03:23	9:25	F20-24	174 / 435	Cambridge	MA	31:32.0	1:00:40	1:36:21
+1859	Alex Cherf	2:03:23	9:25	F20-24	175 / 435	Cambridge	MA	31:32.0	1:00:40	1:36:22
+1860	Gina-Marie Ricciotti	2:03:23	9:25	F20-24	176 / 435	Bridgewater	MA	31:32.0	1:00:40	1:36:22
+1865	Morgan Rainville	2:03:32	9:26	F25-29	156 / 375	Boston	MA	31:20.0	1:01:22	1:36:28
+1867	Patricia Soares	2:03:34	9:26	F45-49	42 / 119	Malden	MA	30:17.0	59:52.0	1:34:59
+1868	Lindsay Wood	2:03:35	9:26	F40-44	50 / 150	Boston	MA	29:31.0	58:22.0	1:34:06
+1869	Katelyn Melinosky	2:03:35	9:26	F20-24	177 / 435	East Haddam	CT	29:36.0	58:37.0	1:34:12
+1870	Kelsey Melinosky	2:03:35	9:26	F25-29	157 / 375	Dallas	TX	29:36.0	58:37.0	1:34:12
+1874	Rhaina Borthwick	2:03:36	9:26	F45-49	43 / 119	Sudbury	MA	30:59.0	1:00:14	1:36:49
+1876	Pei Lin	2:03:37	9:26	F50-54	27 / 91	Swampscott	MA	30:16.0	59:25.0	1:34:25
+1878	Alannah Downing	2:03:38	9:26	F20-24	178 / 435	Braintree	MA	31:22.0	1:00:20	1:35:22
+1879	Abby O'Toole	2:03:38	9:26	F20-24	179 / 435	Braintree	MA	31:21.0	1:00:20	1:35:21
+1880	Cate Gianni	2:03:38	9:26	F20-24	180 / 435	Boston	MA	27:59.0	55:28.0	1:32:08
+1881	Berglind Magnusdottir	2:03:39	9:26	F45-49	44 / 119	Rockland	MA	28:30.0	56:46.0	1:32:42
+1883	Irina Malin	2:03:40	9:26	F30-34	111 / 250	Quincy	MA	27:32.0	57:06.0	1:33:57
+1885	Chloe Bremberg	2:03:41	9:26	F0-19	29 / 98	Litchfield	NH	28:27.0	56:19.0	1:34:08
+1886	Dayle Rushton	2:03:42	9:27	F30-34	112 / 250	Somerville	MA	27:29.0	57:22.0	1:32:57
+1888	Alexandra MacLeod	2:03:45	9:27	F45-49	45 / 119	Medford	MA	30:52.0	1:00:05	1:35:18
+1889	Brigid Barrick	2:03:45	9:27	F20-24	181 / 435	Medford	MA	29:39.0	58:13.0	1:33:56
+1890	Deborah Richards	2:03:45	9:27	F60-64	2 / 39	Bromley	UN	29:40.0	59:05.0	1:35:28
+1892	Bridgett Deblasiis	2:03:48	9:27	F25-29	158 / 375	Boston	MA	28:06.0	56:16.0	1:32:22
+1893	Lily Doherty	2:03:49	9:27	F20-24	182 / 435	Needham	MA	30:01.0	59:02.0	1:34:22
+1897	Lauren Hernandez	2:03:51	9:27	F25-29	159 / 375	Cambridge	MA	30:52.0	1:00:59	1:36:03
+1898	Gabriela Santos	2:03:53	9:27	F20-24	183 / 435	Mashpee	MA	27:46.0	56:24.0	1:32:56
+1900	Catherine Lee	2:03:54	9:27	F20-24	184 / 435	South Boston	MA	28:14.0	56:47.0	1:32:56
+1902	Katie Reardon	2:03:57	9:28	F25-29	160 / 375	Braintree	MA	30:22.0	59:08.0	1:35:07
+1903	Lauren Walker	2:03:58	9:28	F20-24	185 / 435	Needham	MA	30:36.0	59:26.0	1:34:57
+1904	Jillian Obrien	2:04:00	9:28	F30-34	113 / 250	Chicopee	MA	28:40.0	57:29.0	1:34:14
+1905	Michelle Preston	2:04:00	9:28	F40-44	51 / 150	Melrose	MA	30:51.0	1:00:31	1:35:48
+1906	Kaitlyn McDonough	2:04:01	9:28	F30-34	114 / 250	Boston	MA	27:21.0	55:39.0	1:33:00
+1907	Leah Gedies	2:04:02	9:28	F25-29	161 / 375	Boston	MA	29:10.0	58:53.0	1:34:33
+1908	Catherine Griffin	2:04:06	9:28	F30-34	115 / 250	Milford	MA	28:53.0	57:21.0	1:33:39
+1909	Susan Duffy	2:04:08	9:29	F60-64	3 / 39	Boston	MA	29:00.0	57:31.0	1:34:08
+1911	Kayo Walsh	2:04:12	9:29	F50-54	28 / 91	Braintree	MA	29:25.0	58:12.0	1:33:54
+1913	Stephanie Badillo	2:04:12	9:29	F35-39	79 / 173	Leominster	MA	28:47.0	57:36.0	1:33:53
+1914	Katie Jeffery	2:04:13	9:29	F35-39	80 / 173	Wakefield	MA	29:55.0	59:27.0	1:35:16
+1918	Lilly Branco	2:04:15	9:29	F0-19	30 / 98	Stoughton	MA	34:10.0	1:04:20	1:37:54
+1919	Meredith Wolinski	2:04:15	9:29	F25-29	162 / 375	Boston	MA	30:53.0	1:00:31	1:36:25
+1923	Victoria Kibbee	2:04:20	9:29	F20-24	186 / 435	Hull	MA	30:41.0	59:22.0	1:34:40
+1924	Tatum Coutu	2:04:21	9:30	F25-29	163 / 375	Boston	MA	30:35.0	1:00:30	1:37:24
+1927	Dengbo Yang	2:04:22	9:30	F25-29	164 / 375	Boston	MA	29:17.0	58:33.0	1:34:10
+1929	Lily Capuzzo	2:04:25	9:30	F20-24	187 / 435	Hull	MA	28:29.0	57:04.0	1:33:27
+1930	Sarah Dullaghan	2:04:27	9:30	F20-24	188 / 435	Belmont	MA	30:39.0	1:01:08	1:36:02
+1931	Eva Simmons	2:04:27	9:30	F20-24	189 / 435	Charlestown	RI	30:39.0	1:01:08	1:36:02
+1932	Megan Magoon	2:04:28	9:30	F40-44	52 / 150	Dorchester	MA	27:33.0	55:33.0	1:33:10
+1936	Molly Morrow	2:04:30	9:30	F20-24	190 / 435	Chicago	IL	31:47.0	1:01:48	1:36:45
+1937	Alison Ricci	2:04:31	9:30	F25-29	165 / 375	Boston	MA	30:17.0	59:55.0	1:35:32
+1938	Vassy Reed	2:04:32	9:30	F30-34	116 / 250	Weymouth	MA	29:47.0	57:34.0	1:33:53
+1941	Riley Newman	2:04:37	9:31	F20-24	191 / 435	Boston	MA	29:12.0	58:38.0	1:35:08
+1942	Lauren Tourgee	2:04:38	9:31	F50-54	29 / 91	Canton	MA	30:46.0	1:01:50	1:37:26
+1944	Nadia Sukharsky	2:04:41	9:31	F35-39	81 / 173	Framingham	MA	28:34.0	57:59.0	1:34:24
+1947	Erin McGurgan Glover	2:04:43	9:31	F35-39	82 / 173	Lynn	MA	29:33.0	58:25.0	1:34:26
+1948	Cristina Lopez	2:04:45	9:31	F40-44	53 / 150	Frisco	TX	29:14.0	58:47.0	1:34:58
+1950	Gabrielle Beinars	2:04:48	9:32	F30-34	117 / 250	Foxborough	MA	28:39.0	56:45.0	1:33:20
+1951	Destiny Perez	2:04:49	9:32	F30-34	118 / 250	Nashua	NH	29:46.0	58:21.0	1:35:29
+1952	Molly McFague	2:04:49	9:32	F20-24	192 / 435	Townsend	MA	29:54.0	59:31.0	1:35:52
+1955	Elizabeth Richardson	2:04:51	9:32	F20-24	193 / 435	Gloucester	MA	28:30.0	57:40.0	1:35:13
+1957	Jayde Umemba	2:04:55	9:32	F25-29	166 / 375	Chelsea	MA	30:29.0	59:37.0	1:35:20
+1959	Madison Sanders	2:04:59	9:32	F20-24	194 / 435	Boston	MA	29:47.0	59:24.0	1:35:32
+1960	Breeda Considine	2:05:00	9:33	F60-64	4 / 39	North Falmouth	MA	30:45.0	59:36.0	1:35:34
+1961	Holly Hynes	2:05:00	9:33	F35-39	83 / 173	Canton	MA	30:46.0	1:01:50	1:37:25
+1962	Tess Benson	2:05:01	9:33	F25-29	167 / 375	Brighton	MA	27:02.0	55:26.0	1:33:03
+1963	Maya Levine	2:05:01	9:33	F25-29	168 / 375	Boston	MA	27:02.0	55:26.0	1:33:03
+1964	Denitsa Balunis	2:05:01	9:33	F45-49	46 / 119	Boston	MA	28:23.0	57:43.0	1:34:55
+1965	Ann Kim	2:05:02	9:33	F20-24	195 / 435	Cambridge	MA	30:36.0	59:58.0	1:35:22
+1967	Cynthia Badala	2:05:04	9:33	F55-59	16 / 79	Auburn	NH	30:50.0	1:00:11	1:35:45
+1969	Christine Miyachi	2:05:07	9:33	F60-64	5 / 39	E Cambridge	MA	27:20.0	55:44.0	1:33:48
+1970	Perry Burnham	2:05:07	9:33	F25-29	169 / 375	Boston	MA	31:46.0	1:01:01	1:35:54
+1971	Christina D'Urbano	2:05:09	9:33	F40-44	54 / 150	Winthrop	MA	30:55.0	1:01:23	1:35:55
+1973	Carrie Rashford	2:05:10	9:33	F45-49	47 / 119	Niskayuna	NY	29:35.0	58:59.0	1:35:27
+1977	Cheryl McFague	2:05:15	9:34	F55-59	17 / 79	Townsend	MA	29:54.0	59:31.0	1:35:51
+1978	Cassie Cramer	2:05:15	9:34	F40-44	55 / 150	Hanover, Nh	NH	29:11.0	58:19.0	1:34:56
+1981	Amy Donnelly	2:05:19	9:34	F20-24	196 / 435	Taunton	MA	27:33.0	55:28.0	1:33:22
+1982	Claudia Files	2:05:20	9:34	F45-49	48 / 119	Revere	MA	28:57.0	58:01.0	1:34:53
+1984	Melanie Bisson	2:05:23	9:34	F45-49	49 / 119	Stoneham	MA	30:34.0	59:17.0	1:35:18
+1985	Alyvia Bessette	2:05:23	9:34	F20-24	197 / 435	Attleboro	MA	28:41.0	56:53.0	1:35:48
+1986	Julia Massey	2:05:25	9:34	F25-29	170 / 375	Boston	MA	31:30.0	1:01:08	1:37:02
+1987	Emily Chen	2:05:25	9:34	F20-24	198 / 435	Andover	MA	31:37.0	1:01:59	1:38:40
+1988	Caleigh Lang	2:05:25	9:34	F25-29	171 / 375	Boston	MA	31:29.0	1:01:08	1:37:03
+1989	Lauren Antonucci	2:05:26	9:35	F20-24	199 / 435	Boston	MA	28:10.0	56:13.0	1:34:13
+1991	Bethanie Allison	2:05:35	9:35	F35-39	84 / 173	South Windsor	CT	30:10.0	1:03:46	1:38:30
+1992	Forster Worrell	2:05:36	9:35	F20-24	200 / 435	Richmond	VA	30:49.0	1:01:00	1:37:17
+1995	Anne Herreid	2:05:38	9:35	F40-44	56 / 150	Brighton	MA	28:10.0	57:19.0	1:34:32
+1997	Gabrielle Weilding	2:05:43	9:36	F20-24	201 / 435	Hopkinton	MA	30:49.0	1:00:48	1:39:45
+1998	Emma Mangano	2:05:44	9:36	F40-44	57 / 150	New York	NY	30:08.0	59:53.0	1:36:30
+1999	Rachel Davies	2:05:45	9:36	F25-29	172 / 375	South Boston	MA	30:50.0	1:00:29	1:36:32
+2001	Sophia Perez	2:05:46	9:36	F25-29	173 / 375	Boston	MA	30:18.0	1:01:23	1:34:49
+2004	Danielle Panariello	2:05:47	9:36	F30-34	119 / 250	Framingham	MA	29:55.0	59:51.0	1:36:05
+2006	Katelin Andrews	2:05:48	9:36	F20-24	202 / 435	Holbrook	MA	30:33.0	1:00:16	1:36:42
+2007	Emma Emmer	2:05:49	9:36	F35-39	85 / 173	Wayland	MA	29:24.0	59:07.0	1:35:35
+2009	Rebecca Centanni	2:05:50	9:36	F30-34	120 / 250	Charlestown	MA	26:18.0	54:32.0	1:33:47
+2010	Alicia Huerta	2:05:51	9:36	F40-44	58 / 150	Boston	MA	30:30.0	1:00:09	1:36:23
+2012	Nicole Mendonca	2:05:52	9:36	F25-29	174 / 375	Somerville	MA	30:46.0	1:00:17	1:36:17
+2013	Lauren Alicea	2:05:52	9:37	F20-24	203 / 435	Charlton	MA	28:30.0	57:27.0	1:34:39
+2014	Christine Medeiros	2:05:54	9:37	F55-59	18 / 79	Lakeville	MA	29:38.0	58:17.0	1:34:20
+2015	Silvena Simeonova	2:05:54	9:37	F40-44	59 / 150	Winthrop	MA	29:09.0	58:43.0	1:36:50
+2018	Risha Sinha	2:05:57	9:37	F0-19	31 / 98	Newton	MA	27:19.0	56:10.0	1:34:27
+2020	Sara Remillard	2:06:00	9:37	F30-34	121 / 250	Hollis	NH	31:48.0	1:01:31	1:37:26
+2022	Carolyn Pinchiaroli	2:06:03	9:37	F20-24	204 / 435	Brighton	MA	27:11.0	55:47.0	1:33:37
+2023	Robbin Miraglia	2:06:03	9:37	F50-54	30 / 91	Danvers	MA	27:50.0	57:52.0	1:36:11
+2024	Samantha Dugan	2:06:04	9:37	F20-24	205 / 435	Brighton	MA	27:48.0	55:17.0	1:36:18
+2026	Alyssa Bilinski	2:06:06	9:38	F30-34	122 / 250	Cambridge	MA	30:18.0	1:00:40	1:36:53
+2028	Marta Montero Crespo	2:06:08	9:38	F30-34	123 / 250	Cambridge	MA	28:12.0	57:56.0	1:35:20
+2029	Meg Reilly	2:06:10	9:38	F40-44	60 / 150	Belmont	MA	28:49.0	56:59.0	1:32:54
+2030	Yanan Yu	2:06:12	9:38	F40-44	61 / 150	Winthrop	MA	28:39.0	57:48.0	1:35:20
+2031	Emily Allen	2:06:12	9:38	F20-24	206 / 435	Boston	MA	30:59.0	1:00:39	1:36:57
+2032	Joanna Ennenbach	2:06:13	9:38	F30-34	124 / 250	Boston	MA	27:14.0	54:17.0	1:32:38
+2034	Lauren Walsh	2:06:14	9:38	F50-54	31 / 91	West Newton	MA	30:00.0	58:05.0	1:33:59
+2036	Leah Eschenbrenner	2:06:15	9:38	F25-29	175 / 375	Boston	MA	30:50.0	1:00:29	1:36:32
+2037	Tarrah Price	2:06:15	9:38	F25-29	176 / 375	Boston	MA	27:54.0	56:20.0	1:33:51
+2039	Jaime Phillips	2:06:15	9:38	F25-29	177 / 375	Duxbury	MA	30:29.0	1:00:12	1:36:59
+2043	Alicia Markey	2:06:17	9:38	F40-44	62 / 150	Wilmington	MA	30:52.0	1:01:22	1:37:44
+2044	Nicole Pszenny	2:06:18	9:38	F30-34	125 / 250	Danvers	MA	29:21.0	58:50.0	1:35:30
+2046	Francesca Mussa	2:06:19	9:39	F20-24	207 / 435	Boston	MA	30:04.0	59:48.0	1:36:27
+2047	Grace Mao	2:06:22	9:39	F20-24	208 / 435	Cambridge	MA	30:08.0	1:00:35	1:37:37
+2049	Cheri Rolfes	2:06:23	9:39	F40-44	63 / 150	Salem	MA	31:10.0	1:01:41	1:37:44
+2052	Kelly Clinton	2:06:24	9:39	F40-44	64 / 150	Salem	MA	28:31.0	56:06.0	1:33:54
+2053	Taylor Carabello	2:06:25	9:39	F30-34	126 / 250	Danvers	MA	31:03.0	1:01:11	1:38:06
+2054	Grace Francesconi	2:06:25	9:39	F25-29	178 / 375	Boston	MA	30:46.0	1:00:15	1:36:39
+2057	Rachel Glazer	2:06:36	9:40	F50-54	32 / 91	Needham	MA	31:36.0	1:01:17	1:37:46
+2060	Andrea Wuotila	2:06:37	9:40	F45-49	50 / 119	West Bridgewater	MA	28:59.0	58:34.0	1:36:41
+2061	Julie Martin	2:06:37	9:40	F30-34	127 / 250	Boston	MA	30:24.0	1:00:35	1:37:21
+2066	Yulian Zhang	2:06:39	9:40	F45-49	51 / 119	Littleton	MA	32:03.0	1:02:28	1:38:21
+2067	Victoria McFadden	2:06:39	9:40	F20-24	209 / 435	Jamaica Plain	MA	30:56.0	1:01:02	1:37:54
+2068	Ashlyn Falahee	2:06:40	9:40	F25-29	179 / 375	Sarasota	FL	32:01.0	1:02:01	1:37:39
+2069	Sophie Spencer	2:06:41	9:40	F20-24	210 / 435	Boston	MA	28:08.0	55:22.0	1:33:03
+2073	Emily Glynn	2:06:48	9:41	F20-24	211 / 435	Arlington	MA	29:46.0	58:56.0	1:35:12
+2074	Haley Spicuzza	2:06:50	9:41	F25-29	180 / 375	Quincy	MA	29:21.0	57:59.0	1:35:03
+2076	Alexa Carlson	2:06:51	9:41	F30-34	128 / 250	Jefferson	MA	29:59.0	58:44.0	1:36:26
+2078	Kaitlyn Duling	2:06:54	9:41	F30-34	129 / 250	Quincy	MA	30:41.0	1:00:02	1:36:35
+2079	Carly Lakind	2:06:55	9:41	F0-19	32 / 98	Swampscott	MA	27:58.0	56:05.0	1:32:50
+2082	Tiffany Moreira	2:06:58	9:42	F30-34	130 / 250	Chelsea	MA	30:46.0	1:00:21	1:37:01
+2083	Phoebe Farrar	2:06:59	9:42	F0-19	33 / 98	Weymouth	MA	28:03.0	56:59.0	1:34:34
+2084	Lindsay Entwistle	2:07:00	9:42	F30-34	131 / 250	Dracut	MA	31:04.0	1:01:08	1:38:28
+2085	Cynthia Wu	2:07:01	9:42	F65-69	2 / 14	Port Angeles	WA	27:02.0	55:18.0	1:33:17
+2086	Crystal Giampietro	2:07:03	9:42	F45-49	52 / 119	East Sandwich	MA	28:58.0	58:53.0	1:35:50
+2087	Gabriella Cooper	2:07:03	9:42	F20-24	212 / 435	Rockport	MA	31:32.0	1:02:13	1:38:46
+2088	Ashley Boivin	2:07:03	9:42	F30-34	132 / 250	Boston	MA	30:25.0	1:00:16	1:37:11
+2089	Kathy Umanzor	2:07:04	9:42	F20-24	213 / 435	Revere	MA	29:36.0	58:54.0	1:35:28
+2091	Alice Hootsmans	2:07:08	9:42	F60-64	6 / 39	Boston	MA	30:01.0	1:00:11	1:36:40
+2092	Victoire Cagnot	2:07:09	9:42	F0-19	34 / 98	Saint Maur	UN	30:20.0	59:59.0	1:36:25
+2094	Xiaotong Zhou	2:07:11	9:43	F50-54	33 / 91	Andover	MA	31:37.0	1:01:59	1:38:40
+2095	Bridget Donovan	2:07:13	9:43	F30-34	133 / 250	Wakefield	MA	30:51.0	1:00:17	1:36:38
+2097	Coline Marchaison	2:07:15	9:43	F25-29	181 / 375	Lausanne	UN	30:30.0	1:00:30	1:37:12
+2099	Emeline Debalme	2:07:18	9:43	F20-24	214 / 435	Boston	MA	30:38.0	1:00:40	1:37:38
+2102	Jessica Sullivan	2:07:23	9:43	F25-29	182 / 375	Mansfield	MA	30:06.0	58:46.0	1:35:46
+2105	Catherine Gill	2:07:24	9:44	F60-64	7 / 39	Lexington	MA	30:31.0	59:35.0	1:38:33
+2106	Jillian McGahan	2:07:24	9:44	F20-24	215 / 435	Dedham	MA	32:01.0	1:02:18	1:38:13
+2108	Becky Rondeau	2:07:25	9:44	F25-29	183 / 375	Provincetown	MA	31:55.0	1:02:27	1:38:31
+2109	Arantxa Carcoba	2:07:26	9:44	F25-29	184 / 375	Boston	MA	30:58.0	1:01:23	1:38:18
+2111	Ana Prados	2:07:29	9:44	F25-29	185 / 375	Allston	MA	27:52.0	56:55.0	1:35:22
+2112	Eliza Shocket	2:07:30	9:44	F25-29	186 / 375	Boston	MA	29:44.0	59:36.0	1:37:06
+2114	Kaili Zhang	2:07:33	9:44	F25-29	187 / 375	Everett	MA	30:59.0	1:00:45	1:35:48
+2117	Allison Poh	2:07:41	9:45	F25-29	188 / 375	Sturbridge	MA	30:40.0	1:00:13	1:39:27
+2118	Kathleen Downes	2:07:41	9:45	F25-29	189 / 375	Boston	MA	29:50.0	59:04.0	1:36:36
+2119	Rachel Pearson	2:07:42	9:45	F45-49	53 / 119	East Barre	VT	30:39.0	59:18.0	1:36:03
+2120	Jenna Green	2:07:43	9:45	F35-39	86 / 173	Framingham	MA	30:38.0	1:00:26	1:37:33
+2122	Zoe Brodsky	2:07:46	9:45	F25-29	190 / 375	Brookline	MA	27:51.0	57:53.0	1:36:33
+2123	Haley Lakind	2:07:46	9:45	F20-24	216 / 435	Boston	MA	31:14.0	1:01:20	1:37:45
+2124	Laura Duplisea	2:07:47	9:45	F55-59	19 / 79	Hudson	MA	31:44.0	1:01:27	1:38:02
+2125	Julia Netishen	2:07:48	9:45	F0-19	35 / 98	Exeter	NH	32:18.0	1:02:22	1:38:08
+2126	Brittany Torro	2:07:49	9:45	F20-24	217 / 435	Tewksbury	MA	30:31.0	1:00:37	1:37:47
+2128	Kara Liebich	2:07:51	9:46	F25-29	191 / 375	Boston	MA	31:01.0	1:01:11	1:37:46
+2131	Sophia O'Brien	2:07:55	9:46	F20-24	218 / 435	Boston	MA	29:28.0	1:02:27	1:38:14
+2133	Catherine Brisbane	2:07:57	9:46	F20-24	219 / 435	Cohasset	MA	30:03.0	59:31.0	1:37:36
+2134	Jennifer Mauche	2:07:57	9:46	F40-44	65 / 150	Lowell	MA	27:21.0	56:55.0	1:34:54
+2135	Stacy Shackleton	2:07:58	9:46	F25-29	192 / 375	Dorchester	MA	29:49.0	58:50.0	1:36:31
+2138	Jennifer Borden	2:08:00	9:46	F35-39	87 / 173	Whitman	MA	30:34.0	1:00:43	1:37:39
+2140	Katherine Bradshaw	2:08:07	9:47	F40-44	66 / 150	Hudson	NH	30:05.0	59:56.0	1:36:49
+2142	Nicole Margalit	2:08:09	9:47	F45-49	54 / 119	Boston	MA	31:36.0	1:01:36	1:38:25
+2149	Ilse Lopez	2:08:20	9:48	F30-34	134 / 250	Revere	MA	30:53.0	1:00:23	1:37:54
+2153	Laura Weinmann	2:08:23	9:48	F40-44	67 / 150	Jamaica Plain	MA	29:29.0	59:09.0	1:37:19
+2154	Katie Smith	2:08:24	9:48	F25-29	193 / 375	Boston	MA	30:38.0	1:03:08	1:38:59
+2156	Tara Watkins	2:08:25	9:48	F30-34	135 / 250	Manchester	NH	30:42.0	1:01:19	1:38:39
+2157	Joana Almeida	2:08:26	9:48	F40-44	68 / 150	Holliston	MA	30:31.0	59:49.0	1:36:45
+2158	Charmaine Moran	2:08:28	9:48	F55-59	20 / 79	Concord	NH	29:30.0	59:29.0	1:36:21
+2159	Alexa Ritchie	2:08:28	9:48	F25-29	194 / 375	Bethpage	NY	31:30.0	1:01:36	1:38:27
+2160	Samantha Rabb	2:08:29	9:48	F25-29	195 / 375	Stoughton	MA	31:31.0	1:01:37	1:38:28
+2161	Alex Rabb	2:08:29	9:49	F25-29	196 / 375	South Boston	MA	31:31.0	1:01:37	1:38:28
+2162	Hannah Lim	2:08:31	9:49	F20-24	220 / 435	Brookline	MA	30:30.0	1:00:16	1:38:09
+2165	Ameriah Schober	2:08:32	9:49	F25-29	197 / 375	Arlington	MA	26:43.0	54:51.0	1:34:51
+2168	Julie Sutherland	2:08:36	9:49	F35-39	88 / 173	Millbury	MA	30:21.0	1:00:26	1:37:45
+2169	Michelle Burrell	2:08:36	9:49	F35-39	89 / 173	Medfield	MA	32:00.0	1:00:24	1:37:41
+2171	Darby Rich	2:08:37	9:49	F20-24	221 / 435	Melrose	MA	30:04.0	59:20.0	1:38:18
+2177	Peyton Olechna	2:08:41	9:49	F25-29	198 / 375	Cambridge	MA	31:44.0	1:01:25	1:38:21
+2181	Alexis German	2:08:44	9:50	F20-24	222 / 435	Berlin	MA	28:14.0	56:43.0	1:34:27
+2184	Isabella Wehbe	2:08:46	9:50	F20-24	223 / 435	Boston	MA	30:07.0	59:04.0	1:36:27
+2185	Sheila Ryan Shamel	2:08:47	9:50	F55-59	21 / 79	Hooksett	NH	30:10.0	1:00:31	1:37:51
+2186	Reese O'Connell	2:08:50	9:50	F20-24	224 / 435	Dover	MA	31:31.0	1:00:48	1:37:22
+2190	Bailey Miller	2:08:54	9:50	F0-19	36 / 98	Dorchester	MA	30:56.0	1:01:02	1:38:58
+2192	Christine Bourdeau	2:08:56	9:51	F35-39	90 / 173	South Walpole	MA	30:45.0	1:01:10	1:38:17
+2193	Michelle Demaio	2:08:57	9:51	F60-64	8 / 39	Melbourne	FL	31:09.0	1:00:30	1:38:02
+2194	Camilla Gana	2:08:57	9:51	F25-29	199 / 375	Needham	MA	27:52.0	58:10.0	1:34:59
+2195	Ericka Swett	2:08:57	9:51	F45-49	55 / 119	Auburn	NH	31:59.0	1:02:50	1:40:02
+2196	Caitlin Chisholm	2:08:58	9:51	F55-59	22 / 79	Marshfield	MA	30:12.0	59:24.0	1:37:10
+2198	Kelsey Jordan	2:08:58	9:51	F25-29	200 / 375	Ludlow	MA	28:55.0	58:12.0	1:35:44
+2202	Jennifer Williamson	2:09:00	9:51	F20-24	225 / 435	Charlestown	MA	31:33.0	1:01:57	1:39:29
+2209	Lorena Schwarz	2:09:07	9:51	F55-59	23 / 79	Rockport	ME	29:47.0	59:20.0	1:36:48
+2211	Erin Power	2:09:07	9:51	F20-24	226 / 435	Quincy	MA	31:15.0	1:02:01	1:39:28
+2212	Nora Scanlon	2:09:08	9:51	F20-24	227 / 435	Boston	MA	31:15.0	1:02:01	1:39:28
+2214	Amanda Sullivan	2:09:08	9:51	F40-44	69 / 150	Saugus	MA	30:23.0	1:00:26	1:37:34
+2215	Amanda Rosbicki	2:09:09	9:52	F35-39	91 / 173	Mansfield	MA	29:36.0	1:02:51	1:39:24
+2216	Sarah Lalla	2:09:10	9:52	F30-34	136 / 250	Dortmund	UN	28:13.0	58:03.0	1:36:53
+2219	Stephanie Andrade	2:09:12	9:52	F45-49	56 / 119	Falmouth	MA	32:23.0	1:02:37	1:39:05
+2221	Lauren White	2:09:14	9:52	F25-29	201 / 375	Boston	MA	31:03.0	1:01:56	1:39:06
+2224	Dana Edell	2:09:17	9:52	F45-49	57 / 119	Jamaica Plain	MA	30:28.0	1:00:29	1:38:00
+2225	Sasha Brodsky	2:09:20	9:52	F40-44	70 / 150	Arlington	MA	30:15.0	1:00:50	1:38:34
+2226	Lila Grissett	2:09:20	9:52	F0-19	37 / 98	Peterborough	NH	29:38.0	1:02:37	1:40:11
+2227	Lisa Gallo	2:09:23	9:53	F60-64	9 / 39	Franklin	MA	28:24.0	59:27.0	1:37:30
+2228	Maria Mendoza	2:09:23	9:53	F20-24	228 / 435	New York	NY	31:19.0	1:00:51	1:37:54
+2229	Megan Wang	2:09:23	9:53	F20-24	229 / 435	Boston	MA	29:56.0	57:34.0	1:33:01
+2230	Meredith Letso	2:09:25	9:53	F30-34	137 / 250	Boston	MA	28:00.0	58:50.0	1:36:43
+2231	Kristi Buckenheimer	2:09:25	9:53	F20-24	230 / 435	Beaver	PA	29:55.0	58:59.0	1:36:26
+2232	Ella Malvone	2:09:26	9:53	F20-24	231 / 435	Wilmington	MA	30:12.0	1:00:47	1:38:38
+2234	Molly Neil	2:09:27	9:53	F25-29	202 / 375	Sagamore Beach	MA	26:45.0	55:30.0	1:34:26
+2237	Karen Mejia	2:09:28	9:53	F40-44	71 / 150	Hyde Park	MA	31:37.0	1:02:48	1:40:13
+2238	Z. Maria Wang	2:09:30	9:53	F45-49	58 / 119	Medfield	MA	29:20.0	59:04.0	1:36:53
+2241	Sofia Khoury	2:09:31	9:53	F20-24	232 / 435	Wellesley	MA	32:09.0	1:04:00	1:41:10
+2242	Jennie Melnik	2:09:32	9:53	F40-44	72 / 150	Wellesley	MA	29:48.0	59:13.0	1:37:42
+2243	Jennifer Mata	2:09:32	9:53	F25-29	203 / 375	Revere	MA	30:50.0	1:01:34	1:39:19
+2245	Pragnya Kalidindi	2:09:35	9:54	F25-29	204 / 375	Jamaica Plain	MA	31:44.0	1:01:51	1:39:27
+2246	Alexandra Halle	2:09:38	9:54	F30-34	138 / 250	Bedford	NH	27:09.0	55:52.0	1:34:27
+2249	Maureen Herlihy	2:09:39	9:54	F25-29	205 / 375	Marshfield	MA	27:45.0	58:24.0	1:36:49
+2250	Stephanie Fajardo	2:09:39	9:54	F30-34	139 / 250	Natick	MA	29:57.0	1:00:57	1:39:15
+2251	Erica Zhang	2:09:39	9:54	F0-19	38 / 98	Chestnut Hill	MA	32:06.0	1:02:01	1:38:54
+2254	Cadence Wasoka	2:09:43	9:54	F0-19	39 / 98	Stoughton	MA	30:16.0	1:00:28	1:38:45
+2263	Sarah Hay-Smith	2:09:47	9:54	F30-34	140 / 250	Arlington	MA	37:56.0	1:06:24	1:41:12
+2264	Hannah Ess	2:09:47	9:54	F30-34	141 / 250	Bristol	NH	27:47.0	57:21.0	1:35:46
+2265	Christina Hoffman	2:09:48	9:54	F50-54	34 / 91	Newbury	MA	30:49.0	1:01:14	1:39:43
+2267	Carol Morse	2:09:50	9:55	F45-49	59 / 119	Concord	NH	31:08.0	1:01:48	1:39:24
+2269	Sarah Osman	2:09:53	9:55	F20-24	233 / 435	Brookline	MA	32:11.0	1:03:22	1:40:05
+2270	Olivia Kierul	2:09:53	9:55	F20-24	234 / 435	Southborough	MA	32:11.0	1:03:22	1:40:05
+2271	Katie Garner	2:09:54	9:55	F20-24	235 / 435	Weymouth	MA	31:50.0	1:03:02	1:40:46
+2273	Laura Kunkel	2:09:55	9:55	F25-29	206 / 375	New York	NY	30:44.0	1:00:21	1:37:40
+2274	Grace Kunkel	2:09:56	9:55	F30-34	142 / 250	Boston	MA	30:45.0	1:00:22	1:37:40
+2275	Sarah Chenette	2:09:56	9:55	F0-19	40 / 98	Cohasset	MA	31:00.0	1:01:49	1:39:39
+2276	Lisa Chenette	2:09:57	9:55	F50-54	35 / 91	Cohasset	MA	31:01.0	1:01:50	1:39:39
+2277	Bridget Soraghan	2:09:58	9:55	F25-29	207 / 375	Litchfield	NH	28:43.0	58:58.0	1:37:25
+2278	Jennifer Cloherty	2:10:00	9:55	F45-49	60 / 119	Malden	MA	30:21.0	1:01:09	1:39:25
+2281	Shannon Stevens	2:10:08	9:56	F40-44	73 / 150	Dunstable	MA	29:22.0	59:17.0	1:38:13
+2283	Hannah Stevens	2:10:08	9:56	F0-19	41 / 98	Dunstable	MA	29:23.0	59:17.0	1:38:13
+2287	Shannon Patrick	2:10:11	9:56	F0-19	42 / 98	Acton	MA	28:31.0	57:08.0	1:37:09
+2289	Elizabeth Hull	2:10:12	9:56	F25-29	208 / 375	Boston	MA	30:17.0	1:04:40	1:41:21
+2290	Caitlin Nelson	2:10:12	9:56	F40-44	74 / 150	Waban	MA	25:48.0	51:40.0	1:32:39
+2292	Katrina Taggart	2:10:17	9:57	F45-49	61 / 119	Boston	MA	31:15.0	1:01:50	1:39:39
+2293	Jennifer Gnoza	2:10:17	9:57	F40-44	75 / 150	Jaffrey	NH	31:19.0	1:01:00	1:38:15
+2302	Cheryl Day	2:10:24	9:57	F50-54	36 / 91	Hilliard	OH	31:16.0	1:03:45	1:40:36
+2303	Caroline Pitts	2:10:24	9:57	F25-29	209 / 375	Marshfield	MA	32:10.0	1:03:11	1:40:56
+2305	Katherine Smith	2:10:26	9:57	F30-34	143 / 250	South Boston	MA	31:45.0	1:02:56	1:40:46
+2306	Devon Hickey	2:10:26	9:57	F25-29	210 / 375	Boston	MA	31:45.0	1:02:56	1:40:46
+2308	Emily Mouradian	2:10:29	9:58	F20-24	236 / 435	Walpole	MA	32:23.0	1:03:39	1:40:43
+2309	Gina Wierzbowski	2:10:29	9:58	F0-19	43 / 98	Stoneham	MA	28:39.0	58:09.0	1:37:29
+2312	Bella Petrosino	2:10:33	9:58	F20-24	237 / 435	South Boston	MA	31:36.0	1:02:47	1:40:38
+2313	Claire McMahon	2:10:33	9:58	F20-24	238 / 435	Boston	MA	31:24.0	1:00:49	1:38:33
+2314	Mackenzie Baker	2:10:33	9:58	F20-24	239 / 435	Glastonbury	CT	31:36.0	1:02:47	1:40:38
+2315	Meg Pallotta	2:10:35	9:58	F60-64	10 / 39	Rowe	MA	30:40.0	1:01:40	1:39:21
+2318	Shane Myers	2:10:41	9:59	F40-44	76 / 150	New York	NY	29:02.0	59:24.0	1:37:39
+2319	Jeanette Wheatley	2:10:41	9:59	F35-39	92 / 173	Weymouth	MA	31:19.0	1:02:04	1:39:43
+2322	Soroya Rahaman	2:10:48	9:59	F60-64	11 / 39	Boston	MA	31:32.0	1:03:05	1:41:25
+2323	Courtney Anding	2:10:49	9:59	F30-34	144 / 250	Londonderry	NH	27:45.0	56:45.0	1:36:27
+2324	Olivia Wilson	2:10:49	9:59	F25-29	211 / 375	Jupiter	FL	31:46.0	1:02:30	1:39:56
+2325	Anna Geisler	2:10:50	9:59	F35-39	93 / 173	Boston	MA	31:44.0	1:04:03	1:41:30
+2327	Allyson Lu	2:10:53	9:59	F20-24	240 / 435	Westford	MA	27:51.0	57:41.0	1:36:44
+2328	Claire Wueste	2:10:54	10:00	F40-44	77 / 150	Andover	MA	31:13.0	1:01:51	1:40:10
+2332	Milena Tzigantcheva	2:10:59	10:00	F50-54	37 / 91	Weymouth	MA	30:04.0	1:00:43	1:38:53
+2333	Catherine Manning	2:11:00	10:00	F20-24	241 / 435	Peabody	MA	31:15.0	1:01:04	1:38:12
+2334	Tae Hee Clara Kim	2:11:00	10:00	F20-24	242 / 435	Brookline	MA	29:14.0	58:09.0	1:37:14
+2335	Eury Hong	2:11:01	10:00	F20-24	243 / 435	Boston	MA	29:14.0	58:09.0	1:37:14
+2336	Jennifer St Pierre	2:11:03	10:00	F40-44	78 / 150	Charlestown	NH	30:19.0	1:00:21	1:38:42
+2337	Abaigael Belcher	2:11:05	10:00	F20-24	244 / 435	South Boston	MA	30:33.0	1:00:53	1:39:06
+2339	Evelyn Fine	2:11:06	10:00	F0-19	44 / 98	Weston	MA	32:49.0	1:04:39	1:42:43
+2340	Sadie Nelson	2:11:07	10:01	F0-19	45 / 98	Weston	MA	32:49.0	1:04:39	1:42:44
+2342	Zelia Magliozzi	2:11:12	10:01	F55-59	24 / 79	Stoneham	MA	31:37.0	1:02:27	1:40:19
+2344	Yomaira Valdez	2:11:14	10:01	F30-34	145 / 250	Dedham	MA	32:21.0	1:03:47	1:41:35
+2345	Brielyn Rae	2:11:16	10:01	F35-39	94 / 173	Braintree	MA	32:03.0	1:03:40	1:41:06
+2350	Elizabeth Loftus	2:11:19	10:01	F20-24	245 / 435	Watertown	MA	32:06.0	1:03:38	1:40:56
+2351	Agapé Bagaméry-Szalay	2:11:20	10:01	F0-19	46 / 98	Worcester	MA	31:52.0	1:03:15	1:40:34
+2352	Elisa Ellertsson	2:11:20	10:02	F55-59	25 / 79	Stoneham	MA	31:04.0	1:01:06	1:38:45
+2353	Ambrine Douhane	2:11:22	10:02	F25-29	212 / 375	Cambridge	MA	31:14.0	1:02:06	1:40:33
+2354	Isabella Olohan	2:11:22	10:02	F0-19	47 / 98	South Weymouth	MA	30:31.0	1:01:55	1:39:54
+2355	Sydney Levine	2:11:22	10:02	F35-39	95 / 173	Somerville	MA	29:37.0	1:00:04	1:38:53
+2356	Mary Morgan	2:11:27	10:02	F60-64	12 / 39	Boston	MA	32:15.0	1:03:02	1:40:52
+2358	Elaine Flaherty	2:11:30	10:02	F50-54	38 / 91	Kingston	MA	32:59.0	1:04:35	1:42:02
+2360	Abby Tepper	2:11:32	10:02	F30-34	146 / 250	North Andover	MA	30:46.0	1:01:47	1:40:04
+2361	Eri Furusawa	2:11:32	10:02	F30-34	147 / 250	Somerville	MA	30:04.0	1:01:03	1:40:45
+2362	Caroline Murray	2:11:32	10:02	F30-34	148 / 250	Easton	MA	32:15.0	1:04:03	1:42:06
+2363	Lily Hsieh	2:11:33	10:02	F30-34	149 / 250	Boston	MA	31:57.0	1:03:18	1:40:48
+2366	Danica Kubick	2:11:37	10:03	F45-49	62 / 119	Biddeford	ME	30:39.0	1:00:30	1:38:45
+2368	Rosemary Hauser	2:11:41	10:03	F20-24	246 / 435	Phoenix	AZ	30:48.0	1:01:33	1:39:48
+2369	Quinn Kirby	2:11:44	10:03	F20-24	247 / 435	North Haven	CT	30:28.0	1:00:22	1:39:17
+2371	Megan Erwin	2:11:48	10:04	F25-29	213 / 375	Revere	MA	30:37.0	1:00:57	1:39:17
+2373	Jackie Newman	2:11:51	10:04	F20-24	248 / 435	Boston	MA	30:49.0	1:05:42	1:41:51
+2374	Kristin Talcott	2:11:54	10:04	F40-44	79 / 150	Durham	NH	27:54.0	57:49.0	1:37:19
+2379	Mia Sherman	2:12:03	10:05	F20-24	249 / 435	Marshfield	MA	31:24.0	1:00:50	1:40:12
+2380	Jacqueline Helms	2:12:03	10:05	F25-29	214 / 375	Bedford	MA	30:57.0	1:02:48	1:41:04
+2385	Alexandra Maue	2:12:09	10:05	F25-29	215 / 375	Boston	MA	31:34.0	1:03:05	1:41:22
+2389	Hong Chen	2:12:13	10:06	F55-59	26 / 79	Newton	MA	32:56.0	1:03:40	1:40:51
+2390	Jenene Vernon	2:12:14	10:06	F40-44	80 / 150	Mendon	MA	29:45.0	59:46.0	1:38:50
+2391	Taylor Capozzi	2:12:14	10:06	F25-29	216 / 375	Dorchester	MA	29:01.0	57:45.0	1:36:29
+2392	Jill Wilson	2:12:15	10:06	F55-59	27 / 79	South Boston	MA	30:22.0	1:01:45	1:41:14
+2393	Samantha McGillivray	2:12:16	10:06	F20-24	250 / 435	Milton	MA	32:20.0	1:02:41	1:41:10
+2394	Erin Leahy	2:12:17	10:06	F20-24	251 / 435	Dorchester	MA	32:15.0	1:03:11	1:40:46
+2395	Kalyn Leahy	2:12:17	10:06	F25-29	217 / 375	Boston	MA	32:15.0	1:03:11	1:40:46
+2396	Amy Wolf	2:12:17	10:06	F65-69	3 / 14	Bloomington	IN	31:20.0	1:02:10	1:40:30
+2399	Vibha Deegan	2:12:21	10:06	F30-34	150 / 250	Waltham	MA	30:19.0	1:00:58	1:39:44
+2400	Courtney Trudeau	2:12:21	10:06	F30-34	151 / 250	Rehoboth	MA	29:46.0	59:33.0	1:39:37
+2402	Audrey Hey	2:12:22	10:06	F25-29	218 / 375	Brookline	MA	33:16.0	1:05:40	1:42:42
+2403	Caroline Mara	2:12:24	10:06	F20-24	252 / 435	Harvard	MA	31:58.0	1:02:15	1:39:58
+2405	Pauline Chretien	2:12:31	10:07	F35-39	96 / 173	Cambridge	MA	28:51.0	58:30.0	1:38:20
+2406	Gabrielle Clark	2:12:33	10:07	F25-29	219 / 375	North Attleboro	MA	31:56.0	1:03:01	1:41:21
+2408	Isabelle Frost	2:12:34	10:07	F20-24	253 / 435	Tewksbury	MA	33:21.0	1:04:56	1:42:38
+2409	Caroline Kiriaze	2:12:35	10:07	F30-34	152 / 250	Nassau	UN	32:37.0	1:04:18	1:42:42
+2410	Colleen Farrell	2:12:35	10:07	F40-44	81 / 150	Dedham	MA	29:07.0	59:43.0	1:38:53
+2414	Risa Votano	2:12:38	10:07	F50-54	39 / 91	York	ME	31:35.0	1:02:43	1:40:50
+2416	Jessica Sacco	2:12:39	10:08	F35-39	97 / 173	Boston	MA	33:55.0	1:05:04	1:42:29
+2417	Jordan Collazo	2:12:40	10:08	F20-24	254 / 435	Melrose	MA	44:02.0	1:10:22	1:47:38
+2419	Xiaorong Gao	2:12:41	10:08	F55-59	28 / 79	Cambridge	MA	30:55.0	1:01:46	1:40:05
+2420	Sewit Yohannes	2:12:42	10:08	F25-29	220 / 375	Brookline	MA	30:13.0	1:00:23	1:39:52
+2423	Kay O'Dwyer	2:12:47	10:08	F55-59	29 / 79	Marblehead	MA	30:57.0	1:01:24	1:39:38
+2425	Jamie McLaughlin	2:12:48	10:08	F55-59	30 / 79	Allston	MA	30:44.0	1:02:06	1:41:03
+2426	Sue Whitfield-Gabrieli	2:12:48	10:08	F55-59	31 / 79	Cambridge	MA	30:44.0	1:02:06	1:41:03
+2427	Mackenzie Vlachos	2:12:49	10:08	F25-29	221 / 375	Kingston	MA	31:51.0	1:02:27	1:41:10
+2428	Michelle Vlachos	2:12:49	10:08	F55-59	32 / 79	Kingston	MA	31:51.0	1:02:27	1:41:10
+2432	Megan McNamara	2:12:53	10:09	F35-39	98 / 173	Natick	MA	33:22.0	1:04:10	1:42:27
+2433	Rachel Slade	2:12:53	10:09	F30-34	153 / 250	Cohasset	MA	31:18.0	1:02:23	1:41:07
+2439	Taylor Kaufman	2:13:00	10:09	F25-29	222 / 375	Danvers	MA	31:07.0	1:01:02	1:40:31
+2441	Hannah Sunderland	2:13:00	10:09	F20-24	255 / 435	Dorchester	MA	32:04.0	1:03:02	1:41:41
+2444	Destidy Perez	2:13:03	10:09	F20-24	256 / 435	Brighton	MA	31:59.0	1:02:33	1:41:02
+2449	Maddy Carpe	2:13:06	10:10	F20-24	257 / 435	Brighton	MA	31:53.0	1:03:09	1:40:28
+2450	Alexandra Pommier	2:13:07	10:10	F35-39	99 / 173	Brookline	MA	29:51.0	1:00:23	1:39:24
+2451	Antenella Ibrahim	2:13:08	10:10	F20-24	258 / 435	Quincy	MA	29:39.0	1:01:53	1:39:26
+2452	Sarah Fecteau	2:13:09	10:10	F35-39	100 / 173	Amherst	NH	30:18.0	1:01:20	1:40:12
+2453	Alex Naidrich	2:13:11	10:10	F0-19	48 / 98	Monroe Twp.	NJ	31:58.0	1:03:51	1:42:08
+2455	Brynna Wainwright	2:13:12	10:10	F25-29	223 / 375	Cambridge	MA	31:39.0	1:02:43	1:41:57
+2456	Jacqueline McGonigle	2:13:12	10:10	F0-19	49 / 98	Braintree	MA	32:47.0	1:03:34	1:40:42
+2457	Lauren Quickel	2:13:13	10:10	F25-29	224 / 375	Cambridge	MA	31:39.0	1:02:43	1:41:57
+2458	Rennee Lammi	2:13:14	10:10	F45-49	63 / 119	Lynnfield	MA	31:44.0	1:03:01	1:41:59
+2459	Sara Steinel	2:13:14	10:10	F25-29	225 / 375	Nashua	NH	32:54.0	1:05:09	1:43:35
+2460	Jaclyn Bamonte	2:13:17	10:10	F40-44	82 / 150	Winthrop	MA	30:56.0	1:01:23	1:40:46
+2464	Ally Wolf	2:13:21	10:11	F25-29	226 / 375	Boston	MA	29:04.0	58:49.0	1:38:43
+2468	Gabby Arendt	2:13:23	10:11	F25-29	227 / 375	South Boston	MA	30:05.0	1:04:36	1:42:31
+2469	Marisa De Mirellle	2:13:24	10:11	F55-59	33 / 79	Beverly	MA	30:18.0	1:01:55	1:41:02
+2470	Bianca Passacantilli	2:13:24	10:11	F25-29	228 / 375	Wakefield	MA	31:55.0	1:04:12	1:42:55
+2472	Donna Sarasin	2:13:25	10:11	F70-74	1 / 5	Nashua	NH	31:34.0	1:02:17	1:41:37
+2474	Carra Dewing	2:13:30	10:11	F30-34	154 / 250	Cambridge	MA	31:47.0	1:03:21	1:42:34
+2475	Hannah Gidlewski	2:13:30	10:11	F20-24	259 / 435	Lincoln	MA	29:55.0	1:00:16	1:40:00
+2477	Stephanie Jones	2:13:33	10:12	F30-34	155 / 250	East Boston	MA	30:01.0	1:00:49	1:41:23
+2478	Vivian Siegel	2:13:33	10:12	F60-64	13 / 39	Jamaica Plain	MA	31:14.0	1:06:34	1:43:07
+2479	Kayleigh Brogan	2:13:34	10:12	F25-29	229 / 375	Wakefield	MA	31:02.0	1:05:09	1:42:37
+2480	Abbey Cowette	2:13:35	10:12	F30-34	156 / 250	Hooksett	NH	30:32.0	1:01:00	1:39:40
+2482	Maeghan Kelly	2:13:36	10:12	F20-24	260 / 435	Dorchester	MA	30:58.0	1:02:01	1:40:37
+2484	Gantamir Lkhagva	2:13:37	10:12	FOPEN	4 / 4	Boston	MA	28:42.0	1:00:37	1:41:03
+2486	Molly Lyttle	2:13:39	10:12	F50-54	40 / 91	Tyngsboro	MA	31:25.0	1:02:29	1:41:30
+2488	Maisy Maxwell	2:13:40	10:12	F25-29	230 / 375	Milford	MA	32:50.0	1:05:14	1:41:53
+2489	Ivy Yip	2:13:40	10:12	F40-44	83 / 150	Melrose	MA	29:07.0	1:00:31	1:40:12
+2491	Madison Walsh	2:13:42	10:12	F25-29	231 / 375	Allston	MA	31:31.0	1:02:13	1:40:34
+2495	Mervi Aavikko	2:13:50	10:13	F40-44	84 / 150	Cambridge	MA	34:00.0	1:07:28	1:45:58
+2497	Maeve White	2:13:51	10:13	F20-24	261 / 435	Quincy	MA	36:57.0	1:07:29	1:43:38
+2499	Solanyel Perez	2:13:51	10:13	F25-29	232 / 375	East Boston	MA	30:50.0	1:01:35	1:40:17
+2501	Edith Baert	2:13:58	10:14	F20-24	262 / 435	Boston	MA	32:22.0	1:04:28	1:43:12
+2504	Rose Hatch	2:13:59	10:14	F55-59	34 / 79	Burlington	MA	31:25.0	1:02:20	1:43:50
+2505	Sribha Khanal	2:14:00	10:14	F45-49	64 / 119	Nashua	NH	30:06.0	1:00:46	1:39:56
+2507	Abi Wright	2:14:00	10:14	F20-24	263 / 435	East Boston	MA	33:33.0	1:05:07	1:42:26
+2508	Margaret Donahue	2:14:01	10:14	F20-24	264 / 435	Boston	MA	31:26.0	1:02:55	1:42:19
+2509	Casey Tucker	2:14:03	10:14	F40-44	85 / 150	Braintree	MA	35:06.0	1:07:53	1:45:49
+2514	Katelyn McKay	2:14:11	10:15	F20-24	265 / 435	Rochdale	MA	32:37.0	1:03:07	1:41:59
+2516	Angela Nordaby	2:14:14	10:15	F45-49	65 / 119	Somersworth	NH	32:01.0	1:03:52	1:42:28
+2520	Iuliia Liubychenko	2:14:18	10:15	F40-44	86 / 150	Concord	NH	31:14.0	1:02:39	1:41:54
+2521	Niamh Doherty	2:14:18	10:15	F20-24	266 / 435	Boston	MA	30:20.0	1:00:21	1:39:55
+2523	Michelle Monahan	2:14:20	10:15	F30-34	157 / 250	Arlington	MA	31:33.0	1:03:16	1:42:43
+2524	Ava Wirtanen	2:14:21	10:15	F20-24	267 / 435	Burlington	MA	33:22.0	1:04:38	1:43:08
+2525	Mathilde Reffet	2:14:21	10:15	F20-24	268 / 435	Somerville	MA	30:33.0	1:01:05	1:40:56
+2526	Eliza Cassella	2:14:21	10:15	F35-39	101 / 173	Boston	MA	30:15.0	59:59.0	1:38:47
+2527	Laurel Massey	2:14:21	10:15	F25-29	233 / 375	Notasulga	AL	31:14.0	1:03:03	1:42:03
+2528	Christine Burke	2:14:22	10:15	F50-54	41 / 91	Bethlehem	PA	31:43.0	1:02:06	1:39:18
+2529	Diana Silva	2:14:25	10:16	F30-34	158 / 250	Los Angeles	CA	36:17.0		1:31:05
+2530	Suzanne Smith	2:14:28	10:16	F30-34	159 / 250	Hingham	MA	31:09.0	1:03:28	1:42:30
+2531	Hannah Dufries	2:14:28	10:16	F20-24	269 / 435	Leicester	MA	31:23.0	1:01:27	1:41:06
+2532	Regan Harville	2:14:28	10:16	F35-39	102 / 173	Somerville	MA	31:09.0	1:03:28	1:42:30
+2533	Jill Daigneau	2:14:31	10:16	F25-29	234 / 375	Amherst	NH	31:45.0	1:03:35	1:42:34
+2534	Sophie Foulger	2:14:32	10:16	F0-19	50 / 98	Sharon	MA	31:47.0	1:03:23	1:41:38
+2535	Erica Garvin	2:14:36	10:16	F40-44	87 / 150	Wilmington	MA	31:17.0	1:02:36	1:41:47
+2537	Nancy Tam	2:14:39	10:17	F30-34	160 / 250	Weymouth	MA	32:58.0	1:04:47	1:43:02
+2539	Jacqui Kenney	2:14:41	10:17	F35-39	103 / 173	Framingham	MA	32:36.0	1:04:00	1:43:00
+2541	Molly Plante	2:14:42	10:17	F25-29	235 / 375	Marlborough	MA	30:20.0	1:00:44	1:40:17
+2543	Allison Carty	2:14:45	10:17	F0-19	51 / 98	Canton	MA	33:01.0	1:04:35	1:42:38
+2544	Helen Yang	2:14:45	10:17	F25-29	236 / 375	Brookline	MA	29:53.0	1:01:01	1:40:44
+2545	Amy Hylen	2:14:45	10:17	F20-24	270 / 435	Canton	MA	33:01.0	1:04:35	1:42:39
+2546	Jillian Sweeney	2:14:52	10:18	F25-29	237 / 375	Boston	MA	31:00.0	1:02:06	1:40:38
+2549	Erin Bourgeois	2:14:53	10:18	F20-24	271 / 435	Brighton	MA	31:43.0	1:03:09	1:43:25
+2550	Meaghan Hogan	2:14:53	10:18	F20-24	272 / 435	Brighton	MA	31:43.0	1:03:09	1:43:25
+2551	Junyu Fang	2:14:54	10:18	F0-19	52 / 98	Worcester	MA	31:53.0	1:03:16	1:43:42
+2553	Jaime Cheah	2:14:56	10:18	F45-49	66 / 119	Medford	MA	31:51.0	1:03:36	1:43:02
+2554	Madeline Cohen-Shrage	2:14:56	10:18	F40-44	88 / 150	Boston	MA	31:51.0	1:03:36	1:43:02
+2555	Estela Fagoaga	2:14:58	10:18	F50-54	42 / 91	Atizapán de Zarago	UN	31:09.0	1:02:31	1:41:46
+2556	Cami Hiek	2:14:58	10:18	F0-19	53 / 98	Great Falls	VA	32:48.0	1:05:36	1:44:42
+2559	Dinora Olvera	2:15:02	10:18	F30-34	161 / 250	Danvers	MA	32:01.0	1:03:37	1:43:00
+2560	Olivia Fuller	2:15:03	10:19	F30-34	162 / 250	Wakefield	MA	31:53.0	1:02:38	1:40:41
+2562	Grace O'Malley-Wilshere	2:15:08	10:19	F20-24	273 / 435	Quincy	MA	33:18.0	1:05:15	1:43:43
+2563	Mariana Santos	2:15:08	10:19	F35-39	104 / 173	Portsmouth	NH	30:55.0	1:03:04	1:42:35
+2564	Victoria O'Day	2:15:12	10:19	F20-24	274 / 435	Middleborough	MA	31:37.0	1:11:04	1:47:32
+2566	Rylee Lawrence	2:15:14	10:19	F25-29	238 / 375	Manchester	NH	30:49.0	1:00:34	1:39:08
+2567	Kristin Baltrusaitis	2:15:15	10:19	F40-44	89 / 150	Jamaica Plain	MA	32:41.0	1:04:21	1:42:59
+2569	Erin Leonard	2:15:16	10:19	F40-44	90 / 150	Marblehead	MA	31:21.0	1:02:15	1:41:55
+2570	Dakota Lytle	2:15:16	10:20	F20-24	275 / 435	St Petersburg	FL	33:17.0	1:04:57	1:43:33
+2573	Anna Solopova	2:15:19	10:20	F20-24	276 / 435	Boston	MA	31:40.0	1:02:02	1:40:13
+2574	Svetlana Solopova	2:15:19	10:20	F45-49	67 / 119	Brookline	MA	31:40.0	1:02:02	1:40:13
+2575	Kerima Lepir	2:15:19	10:20	F55-59	35 / 79	Conway	NH	26:57.0	56:28.0	1:40:22
+2576	Dina M Scarpelli	2:15:21	10:20	F50-54	43 / 91	Medford	MA	32:53.0	1:04:33	1:43:24
+2577	Rebekah Davis	2:15:22	10:20	F25-29	239 / 375	Boston	MA	32:20.0	1:03:23	1:42:00
+2578	Emily Davis	2:15:22	10:20	F35-39	105 / 173	Sudbury	MA	32:20.0	1:03:18	1:42:00
+2579	Stephanie Fournier	2:15:22	10:20	F50-54	44 / 91	Bedford	MA	28:32.0	59:12.0	1:39:14
+2581	Vikki Gallagher	2:15:22	10:20	F50-54	45 / 91	Tewksbury	MA	32:47.0	1:05:09	1:44:51
+2582	Lily Honor	2:15:23	10:20	F20-24	277 / 435	Mansfield	MA	30:03.0	59:31.0	1:39:22
+2584	Jessica Coray	2:15:28	10:20	F25-29	240 / 375	Middleboro	MA	31:37.0	1:11:04	1:47:33
+2585	Kate Broderick	2:15:28	10:20	F25-29	241 / 375	Norwell	MA	30:16.0	1:00:00	1:40:27
+2586	Victoria Thompson	2:15:29	10:21	F30-34	163 / 250	Plymouth	MA	31:38.0	1:11:05	1:47:34
+2587	Cassidy Lapp	2:15:35	10:21	F20-24	278 / 435	Boston	MA	35:03.0	1:08:16	1:45:47
+2591	Erin Rutter	2:15:40	10:21	F0-19	54 / 98	Braintree	MA	30:13.0	59:50.0	1:41:34
+2593	Alexis Desroches	2:15:42	10:22	F25-29	242 / 375	Adams	MA	30:44.0	1:01:10	1:41:00
+2595	Michelle Montaquila	2:15:45	10:22	F45-49	68 / 119	Fitchburg	MA	33:24.0	1:05:16	1:43:58
+2596	Shannon Fouhey	2:15:45	10:22	F45-49	69 / 119	Atkinson	NH	31:00.0	1:01:34	1:39:42
+2597	Rachel Fistori	2:15:46	10:22	F30-34	164 / 250	Medford	MA	33:00.0	1:05:13	1:45:48
+2598	Tera Gibb	2:15:46	10:22	F40-44	91 / 150	Meridian	ID	31:46.0	1:04:16	1:44:08
+2600	Luisa Borges	2:15:47	10:22	F50-54	46 / 91	East Taunton	MA	31:22.0	1:03:20	1:43:45
+2601	Alexa Wolf	2:15:49	10:22	F0-19	55 / 98	Glastonbury	CT	33:25.0	1:05:14	1:44:34
+2602	Josephine Echeverri	2:15:49	10:22	F25-29	243 / 375	Miami	FL	30:26.0	1:00:45	1:40:02
+2603	Milena Pineda	2:15:50	10:22	F35-39	106 / 173	Miami	FL	30:27.0	1:00:48	1:40:02
+2604	Madeline Jouanet	2:15:53	10:22	F20-24	279 / 435	Watertown	MA	31:53.0	1:03:10	1:43:26
+2607	Cindy Ren	2:15:57	10:23	F35-39	107 / 173	Cambridge	MA	28:28.0	59:07.0	1:38:31
+2608	Sarah Smith	2:15:57	10:23	F20-24	280 / 435	Pawling	NY	33:56.0	1:06:27	1:43:49
+2609	Katie Park	2:15:59	10:23	F20-24	281 / 435	Boston	MA	30:47.0	1:01:50	1:42:39
+2611	Malia Reiling	2:16:02	10:23	F45-49	70 / 119	Belmont	MA	31:36.0	1:03:03	1:42:23
+2612	Karin Freed	2:16:04	10:23	F35-39	108 / 173	Cambridge	MA	32:38.0	1:04:59	1:44:33
+2613	Anna O'Brien	2:16:05	10:23	F20-24	282 / 435	Brookline	MA	31:10.0	1:02:13	1:42:24
+2614	Caitlin Looney	2:16:06	10:23	F25-29	244 / 375	Tyngsboro	MA	33:27.0	1:05:57	1:44:52
+2615	Casey Wilson	2:16:06	10:23	F0-19	56 / 98	Norwell	MA	29:06.0	1:05:12	1:42:27
+2616	Nancy Garcia	2:16:07	10:23	F25-29	245 / 375	Dorchester	MA	31:00.0	1:01:43	1:40:26
+2617	Savanna Macaluso	2:16:08	10:23	F25-29	246 / 375	Watertown	MA	32:19.0	1:05:15	1:44:25
+2620	Norma Guardado Lopez	2:16:09	10:24	F30-34	165 / 250	Jamaica Plain	MA	32:41.0	1:05:12	1:44:23
+2624	Samantha Rondeau	2:16:11	10:24	F25-29	247 / 375	Walpole	MA	31:55.0	1:02:26	1:43:51
+2626	Olivia Rondeau	2:16:13	10:24	F20-24	283 / 435	Walpole	MA	31:57.0	1:02:28	1:43:53
+2629	Sini Luo	2:16:14	10:24	F20-24	284 / 435	Boston	MA	29:18.0	1:00:12	1:41:34
+2631	Vanessa Wang	2:16:15	10:24	F45-49	71 / 119	Cambridge	MA	33:43.0	1:06:32	1:45:11
+2632	Courtney Nastasia	2:16:17	10:24	F35-39	109 / 173	Suwanee	GA	32:11.0	1:04:48	1:44:50
+2633	Kristy Zanini	2:16:19	10:24	F40-44	92 / 150	Medfield	MA	36:20.0	1:06:47	1:45:16
+2634	Catherine McKinley	2:16:19	10:24	F20-24	285 / 435	Monroe	NC	32:23.0	1:03:58	1:43:28
+2635	Belle Woodward	2:16:19	10:24	F20-24	286 / 435	Marblehead	MA	33:18.0	1:08:40	1:45:56
+2636	Erin Mundy	2:16:19	10:24	F20-24	287 / 435	Millis	MA	33:18.0	1:08:40	1:45:56
+2637	Maria Ross	2:16:20	10:24	F30-34	166 / 250	Auburndale	MA	31:35.0	1:02:35	1:41:36
+2642	Larah McClain	2:16:23	10:25	F45-49	72 / 119	Buzzards Bay	MA	30:47.0	1:01:12	1:40:49
+2643	Alicia Wang	2:16:26	10:25	F20-24	288 / 435	Andover	MA	32:57.0	1:05:28	1:44:44
+2644	Anouk Brand	2:16:26	10:25	F25-29	248 / 375	Rotterdam	UN	31:07.0	1:04:55	1:44:36
+2645	Sinead Mulligan	2:16:36	10:26	F20-24	289 / 435	Boston	MA	32:32.0	1:06:23	1:44:20
+2646	Chandler Laing	2:16:36	10:26	F20-24	290 / 435	Milton	MA	30:53.0	1:01:40	1:43:44
+2647	Claire Kelley	2:16:37	10:26	F20-24	291 / 435	Hingham	MA	32:44.0	1:04:11	1:44:21
+2648	Ashley Wylie	2:16:37	10:26	F30-34	167 / 250	Boston	MA	33:10.0	1:08:04	1:46:32
+2649	Mary Sullivan	2:16:37	10:26	F20-24	292 / 435	Ma	MA	30:53.0	1:01:41	1:43:44
+2651	Laicey Ieronimo	2:16:40	10:26	F20-24	293 / 435	Carver	MA	30:42.0	1:03:06	1:42:00
+2655	Alexa Imme	2:16:47	10:26	F25-29	249 / 375	Southington	CT	33:01.0	1:04:55	1:45:01
+2657	Sheila M Rooney	2:16:48	10:27	F35-39	110 / 173	Hopkinton	MA	32:24.0	1:04:07	1:44:33
+2658	Ryley Fischer	2:16:48	10:27	F20-24	294 / 435	Saranac Lake	NY	31:43.0	1:02:31	1:42:59
+2659	Grace Brosnan	2:16:48	10:27	F20-24	295 / 435	Winchester	MA	33:32.0	1:06:53	1:47:48
+2660	Meagan Renaud	2:16:50	10:27	F35-39	111 / 173	Boston	MA	31:34.0	1:02:53	1:44:31
+2661	Jennifer Moriarty	2:16:50	10:27	F60-64	14 / 39	Stoneham	MA	33:58.0	1:06:05	1:44:59
+2664	Albesa Montes De Oca	2:16:52	10:27	F30-34	168 / 250	Houston	TX	32:05.0	1:04:09	1:43:16
+2666	Ashley Buxton	2:16:53	10:27	F25-29	250 / 375	Nashua	NH	31:18.0	1:04:35	1:44:57
+2667	Caroline Doolan	2:16:58	10:27	F20-24	296 / 435	Brighton	MA	39:03.0	1:12:08	1:49:33
+2668	Joelle Laidlaw	2:16:58	10:27	F40-44	93 / 150	Tewksbury	MA	29:15.0	1:00:35	1:41:50
+2669	Sophia Gianoulis	2:16:59	10:27	F20-24	297 / 435	Brighton	MA	39:03.0	1:12:09	1:49:33
+2670	Kelsey Allard	2:16:59	10:27	F20-24	298 / 435	Wilbraham	MA	30:32.0	1:00:58	1:41:23
+2671	Jillian Quintiliani	2:16:59	10:27	F35-39	112 / 173	Scituate	MA	31:22.0	1:02:29	1:42:07
+2672	Hannah Denhof	2:17:01	10:28	F25-29	251 / 375	Newton	MA	30:30.0	1:01:57	1:44:48
+2673	Dora Tavel	2:17:02	10:28	F50-54	47 / 91	Sudbury	MA	31:26.0	1:03:05	1:44:00
+2675	Sarah Boland	2:17:02	10:28	F40-44	94 / 150	Marblehead	MA	31:18.0	1:02:05	1:40:23
+2676	Shijia Liu	2:17:02	10:28	F30-34	169 / 250	Brookline	MA	33:39.0	1:06:02	1:45:21
+2678	Lauren Cortellessa	2:17:09	10:28	F30-34	170 / 250	Boston	MA	29:47.0	59:30.0	1:42:24
+2679	Ashlee Cedrone	2:17:09	10:28	F25-29	252 / 375	Norwood	MA	32:28.0	1:04:55	1:45:27
+2680	Cheryllisa Tagalan	2:17:10	10:28	F40-44	95 / 150	South Hadley	MA	30:22.0	1:01:25	1:41:03
+2681	Dana Delaney	2:17:10	10:28	F25-29	253 / 375	Canton	MA	30:38.0	1:01:30	1:43:22
+2682	Kristy Delaney	2:17:10	10:28	F25-29	254 / 375	Brentwood	NY	30:39.0	1:01:31	1:43:22
+2683	Lourdes Maytorena	2:17:10	10:28	F30-34	171 / 250	Brighton	MA	31:24.0	1:03:17	1:43:09
+2684	Maddie Whalen	2:17:11	10:28	F20-24	299 / 435	Plymouth	MA	33:34.0	1:05:28	1:44:46
+2686	Hannah Weitz	2:17:19	10:29	F30-34	172 / 250	Brookline	MA	32:39.0	1:04:53	1:45:17
+2688	Caileigh Jensen	2:17:21	10:29	F0-19	57 / 98	Kingston	MA	32:39.0	1:04:27	1:43:48
+2689	Hannah Hathaway	2:17:24	10:29	F25-29	255 / 375	Newton	MA	30:17.0	1:04:40	1:41:30
+2692	Tera Keang	2:17:25	10:29	F20-24	300 / 435	Westford	MA	32:06.0	1:04:23	1:44:55
+2693	Jennie Gannon	2:17:25	10:29	F20-24	301 / 435	Brighton	MA	31:51.0	1:03:03	1:42:27
+2694	Anna Flavin	2:17:27	10:30	F35-39	113 / 173	Jersey Village	TX	35:35.0	1:06:32	1:45:11
+2697	Anne-Marie Storey	2:17:28	10:30	F55-59	36 / 79	Winterport, Me 044	ME	31:49.0	1:04:09	1:43:56
+2698	Ashley Matskevich	2:17:28	10:30	F35-39	114 / 173	Brookline	MA	32:10.0	1:04:16	1:44:02
+2700	Maeva Darmon	2:17:29	10:30	F25-29	256 / 375	Boston	MA	33:23.0	1:06:07	1:46:05
+2701	Brennah Hynes	2:17:31	10:30	F20-24	302 / 435	South Boston	MA	32:47.0	1:05:18	1:45:18
+2702	Chaebin Lee	2:17:35	10:30	F35-39	115 / 173	Jamaica Plain	MA	30:40.0	1:01:22	1:42:14
+2704	Stacie Rihl	2:17:36	10:30	F30-34	173 / 250	Boston	MA	33:17.0	1:05:30	1:45:11
+2705	Lisa Giammanco	2:17:38	10:30	F35-39	116 / 173	Boston	MA	33:40.0	1:06:19	1:45:24
+2706	Tanima Chatterjee	2:17:38	10:30	F30-34	174 / 250	Boston	MA	33:39.0	1:06:19	1:45:24
+2707	Justine Josupait	2:17:38	10:30	F0-19	58 / 98	Littleton	CO	31:25.0	1:03:24	1:44:41
+2709	Sheree Richards	2:17:41	10:31	F60-64	15 / 39	Whitinsville	MA	32:51.0	1:04:56	1:44:33
+2710	Kelly Kiceluk	2:17:44	10:31	F30-34	175 / 250	Marstons Mills	MA	31:37.0	1:03:03	1:42:46
+2712	Elizabeth Sun	2:17:45	10:31	F0-19	59 / 98	Needham	MA	33:21.0	1:05:49	1:45:29
+2717	Danielle Ditommaso	2:17:49	10:31	F35-39	117 / 173	Norton	MA	32:15.0	1:03:25	1:43:01
+2719	Sara Houff	2:17:50	10:31	F25-29	257 / 375	Johnson City	TN	33:36.0	1:05:58	1:45:18
+2721	Hannah Wiley	2:17:52	10:31	F30-34	176 / 250	Boston	MA	31:19.0	1:02:29	1:43:33
+2722	Dale St Lawrence	2:17:53	10:32	F60-64	16 / 39	Thompson	CT	30:18.0	1:01:37	1:42:39
+2724	Mj Park	2:17:55	10:32	F45-49	73 / 119	Lexington	MA	31:19.0	1:02:47	1:43:04
+2725	Micayla Botelho	2:17:56	10:32	F25-29	258 / 375	Wakefield	MA	31:58.0	1:03:56	1:44:29
+2727	Sarah Kinsman	2:17:57	10:32	F20-24	303 / 435	Sharon	MA	29:12.0	59:42.0	1:41:46
+2728	Alexia Rantala	2:17:57	10:32	F35-39	118 / 173	Scarsdale	NY	32:05.0	1:04:40	1:45:29
+2729	Tessa Forshaw	2:17:57	10:32	F35-39	119 / 173	Cambridge	MA	32:48.0	1:05:17	1:45:24
+2730	Caileen Quinn	2:17:58	10:32	F20-24	304 / 435	Walpole	MA	32:23.0	1:04:46	1:44:19
+2733	Georgia Defalco	2:17:59	10:32	F45-49	74 / 119	Yonkers	NY	32:05.0	1:04:39	1:45:29
+2734	Josie Wilson	2:17:59	10:32	F0-19	60 / 98	Norwell	MA	39:59.0	1:12:35	1:47:28
+2735	Kari Murphy	2:18:00	10:32	F35-39	120 / 173	Hingham	MA	32:05.0	1:04:57	1:44:39
+2737	Samantha Hughes	2:18:01	10:32	F40-44	96 / 150	Charlestown	MA	31:00.0	1:02:03	1:41:05
+2738	Anna Wright	2:18:07	10:33	F25-29	259 / 375	Boston	MA	29:29.0	1:04:03	1:45:03
+2739	Martha Bosworth	2:18:11	10:33	F20-24	305 / 435	Pembroke	MA	33:09.0	1:05:32	1:45:25
+2741	Dalene Gomes	2:18:12	10:33	F25-29	260 / 375	Brighton	MA	30:59.0	1:02:16	1:42:24
+2745	Samantha Shullo	2:18:15	10:33	F45-49	75 / 119	Wayland	MA	33:17.0	1:05:37	1:45:33
+2746	Stacy Anderson	2:18:15	10:33	F50-54	48 / 91	Wayland	MA	33:16.0	1:05:37	1:45:33
+2747	Liza Sengele	2:18:15	10:33	F0-19	61 / 98	Groton	MA	33:28.0	1:05:46	1:44:57
+2748	Elizabeth Cullen	2:18:19	10:33	F30-34	177 / 250	Weare	NH	30:15.0	1:01:21	1:42:59
+2752	Ivy Chen	2:18:24	10:34	F0-19	62 / 98	Ellicott City	MD	31:58.0	1:04:24	1:45:29
+2754	Kaley Oneill	2:18:26	10:34	F25-29	261 / 375	North Reading	MA	38:33.0	1:10:09	1:48:16
+2755	Danielle Jaffe	2:18:26	10:34	F20-24	306 / 435	Brighton	MA	34:33.0	1:07:46	1:47:09
+2756	Madison Copland	2:18:26	10:34	F20-24	307 / 435	Longmeadow	MA	32:46.0	1:05:14	1:44:38
+2757	Sarah Socolosky	2:18:27	10:34	F25-29	262 / 375	Salem	MA	38:33.0	1:10:10	1:48:16
+2760	Katherine Labovitz	2:18:27	10:34	F20-24	308 / 435	Holden	MA	30:04.0	58:25.0	1:37:21
+2762	MacKenzie Moore-Kosslow	2:18:28	10:34	F20-24	309 / 435	Boston	MA	28:07.0	1:00:03	1:43:00
+2763	Elizabeth Puleo	2:18:28	10:34	F45-49	76 / 119	Newton	MA	32:54.0	1:07:50	1:46:25
+2765	Liana Flood	2:18:29	10:34	F0-19	63 / 98	Boston	MA	29:00.0	1:01:01	1:43:17
+2766	Cate Hanewich	2:18:30	10:34	F20-24	310 / 435	North Attleboro	MA	30:09.0	1:04:06	1:43:07
+2768	Carol McGrath	2:18:34	10:35	F40-44	97 / 150	Abington	MA	32:42.0	1:04:51	1:44:25
+2769	Sara Monaghan	2:18:34	10:35	F25-29	263 / 375	Boston	MA	33:44.0	1:06:11	1:46:04
+2770	Ainsley Dundon	2:18:35	10:35	F20-24	311 / 435	Walpole	MA	33:45.0	1:06:12	1:46:04
+2771	Karen Jenkins	2:18:35	10:35	F45-49	77 / 119	Chillicothe	OH	33:00.0	1:05:48	1:45:12
+2772	Sirlene Campos	2:18:36	10:35	F45-49	78 / 119	Everett	MA	32:33.0	1:05:04	1:45:13
+2773	Erin Nee	2:18:39	10:35	F30-34	178 / 250	Swampscott	MA	32:59.0	1:05:13	1:45:47
+2774	Laura Wong	2:18:40	10:35	F30-34	179 / 250	Westford	MA	32:08.0	1:03:39	1:44:45
+2775	Geeta Jawaharani	2:18:41	10:35	F50-54	49 / 91	Medford	MA	32:42.0	1:05:36	1:46:25
+2776	Marina Arato	2:18:41	10:35	F35-39	121 / 173	Wakefield	MA	32:34.0	1:05:04	1:45:14
+2777	Emily Tavanese	2:18:43	10:35	F30-34	180 / 250	Nashua	NH	31:09.0	1:02:02	1:42:45
+2779	Elle McClary	2:18:45	10:35	F20-24	312 / 435	Framingham	MA	33:14.0	1:06:00	1:46:25
+2780	Gretchen Loebel	2:18:45	10:35	F55-59	37 / 79	Granby	MA	32:44.0	1:05:46	1:46:05
+2781	Allison Donahoe	2:18:46	10:36	F30-34	181 / 250	Salem	MA	33:10.0	1:06:15	1:46:06
+2782	Hadley Carey	2:18:46	10:36	F0-19	64 / 98	Concord	MA	30:56.0	1:01:02	1:43:00
+2784	Kristen Rollins	2:18:48	10:36	F35-39	122 / 173	Derry	NH	33:09.0	1:06:01	1:46:05
+2785	Julie Egan	2:18:50	10:36	F55-59	38 / 79	Hingham	MA	32:24.0	1:05:27	1:46:01
+2786	Brianna Nguyen	2:18:52	10:36	F20-24	313 / 435	Framingham	MA	33:04.0	1:05:43	1:46:01
+2787	Kate Montgomery	2:18:53	10:36	F20-24	314 / 435	Scituate	MA	28:58.0	1:01:33	1:44:22
+2788	Liv Minchello	2:18:53	10:36	F20-24	315 / 435	Braintree	MA	33:13.0	1:04:47	1:47:15
+2789	Jordan Manning	2:18:53	10:36	F25-29	264 / 375	Harvard	MA	32:21.0	1:05:23	1:45:33
+2790	Daniela Roman	2:18:53	10:36	F25-29	265 / 375	Alexandria	VA	33:49.0	1:07:17	1:47:30
+2792	Madilyn Bailey	2:18:54	10:36	F20-24	316 / 435	Quincy	MA	32:27.0	1:04:17	1:44:37
+2793	Amelia Rogers	2:18:54	10:36	F20-24	317 / 435	Marblehead	MA	32:27.0	1:04:17	1:44:37
+2795	Shannon McCaleb	2:18:56	10:36	F25-29	266 / 375	Billerica	MA	32:58.0	1:05:32	1:45:34
+2796	Caitlin McCarthy	2:18:57	10:36	F45-49	79 / 119	Hanover	MA	31:24.0	1:03:28	1:43:31
+2797	Melissa Smith	2:18:58	10:36	F45-49	80 / 119	Hanover	MA	32:28.0	1:04:44	1:46:31
+2800	Olivia Farina	2:19:00	10:37	F20-24	318 / 435	Braintree	MA	32:55.0	1:05:35	1:44:58
+2801	Mary Meng-Lee	2:19:02	10:37	F55-59	39 / 79	Middleton	MA	33:46.0	1:06:18	1:46:14
+2802	Stephanie Bramante	2:19:03	10:37	F25-29	267 / 375	Stoneham	MA	32:18.0	1:04:57	1:45:07
+2804	Lynn Dragovich	2:19:03	10:37	F65-69	4 / 14	Wood Ridge	MA	33:05.0	1:06:11	1:46:48
+2806	Jacqueline Murphy	2:19:05	10:37	F25-29	268 / 375	Boston	MA	31:46.0	1:09:59	1:47:25
+2808	Karin Cookson	2:19:07	10:37	F55-59	40 / 79	Sandwich	MA	34:52.0	1:07:27	1:47:21
+2809	Claudia Wolfe	2:19:07	10:37	F70-74	2 / 5	Alexandria	VA	30:48.0	1:03:03	1:44:45
+2810	Bianca Colella	2:19:11	10:37	F25-29	269 / 375	Revere	MA	32:05.0	1:03:54	1:46:22
+2811	Renata Bloisa Garrido	2:19:12	10:38	F40-44	98 / 150	Charlotte	NC	33:04.0	1:05:52	1:45:43
+2814	Tara Spann	2:19:16	10:38	F55-59	41 / 79	South Boston	MA	31:53.0	1:04:21	1:45:13
+2815	Shellie Brickle	2:19:17	10:38	F45-49	81 / 119	Barrington	RI	29:03.0	59:23.0	1:39:33
+2817	Elle Filipiak	2:19:24	10:38	F20-24	319 / 435	Aurora	IL	32:38.0	1:08:52	1:47:41
+2818	Jamie Odams	2:19:26	10:39	F20-24	320 / 435	Tewksbury	MA	30:31.0	1:00:40	1:41:06
+2820	Carmen Marquez	2:19:31	10:39	F40-44	99 / 150	Dorchester	MA	33:16.0	1:06:43	1:47:19
+2821	Madison Bulens	2:19:32	10:39	F20-24	321 / 435	Billerica	MA	31:00.0	1:02:32	1:43:47
+2822	Sumie Kaneko	2:19:35	10:39	F45-49	82 / 119	Woodside	NY	33:42.0	1:07:07	1:47:33
+2823	Joy Zhang	2:19:35	10:39	F20-24	322 / 435	East Falmouth	MA	30:45.0	1:01:20	1:41:43
+2827	Kaleigh Carney	2:19:37	10:39	F20-24	323 / 435	Braintree	MA	34:06.0	1:07:13	1:46:54
+2829	Cherie Mars	2:19:40	10:40	F55-59	42 / 79	Arlington	MA	32:11.0	1:04:29	1:45:28
+2831	Hannah Mok	2:19:43	10:40	F20-24	324 / 435	Shrewsbury	MA	32:16.0	1:04:51	1:45:31
+2833	Adeline Morris	2:19:43	10:40	F25-29	270 / 375	New Haven	CT	33:28.0	1:05:46	1:46:37
+2834	Peyton Cabaniss	2:19:43	10:40	F25-29	271 / 375	Medford	MA	33:28.0	1:05:46	1:46:37
+2835	Heather Edwards	2:19:44	10:40	F55-59	43 / 79	Duxbury	MA	34:19.0	1:08:02	1:47:53
+2836	Carly Wee	2:19:44	10:40	F50-54	50 / 91	Duxbury	MA	34:19.0	1:08:02	1:47:52
+2837	Janette Lawrence	2:19:44	10:40	F40-44	100 / 150	Winchester	MA	33:29.0	1:06:46	1:47:20
+2838	Jean Collamore	2:19:45	10:40	F60-64	17 / 39	Worcester	MA	33:26.0	1:06:33	1:46:41
+2841	Susan Glover	2:19:47	10:40	F60-64	18 / 39	Dorchester	MA	33:08.0	1:05:28	1:45:29
+2842	Courtney Ledoux	2:19:48	10:40			Weare	NH	32:40.0	1:05:34	1:46:43
+2843	Kerri Mahoney	2:19:48	10:40			Goffstown	NH	32:40.0	1:05:34	1:46:43
+2844	Nicole Anthony	2:19:48	10:40	F35-39	123 / 173	Weymouth	MA	35:00.0	1:08:43	1:48:37
+2846	Heyddi Ordonez	2:19:50	10:40	F35-39	124 / 173	East Boston	MA	38:49.0		1:48:09
+2847	Michele Parks	2:19:52	10:41	F55-59	44 / 79	Roswell, Ga	GA	30:42.0	1:03:47	1:45:51
+2849	Holly Graziadio	2:19:54	10:41	F45-49	83 / 119	Oldsmar	FL	31:59.0	1:03:31	1:43:43
+2850	Betsi Grabe	2:19:56	10:41	F60-64	19 / 39	Boston	MA	33:56.0	1:07:22	1:47:54
+2851	Colleen Kelly	2:20:01	10:41	F25-29	272 / 375	Dorchester	MA	30:57.0	1:02:01	1:42:31
+2852	Elizabeth Xu	2:20:02	10:41	F20-24	325 / 435	Newton Center	MA	31:35.0	1:04:08	1:46:03
+2854	Kelly Bisson	2:20:03	10:41	F20-24	326 / 435	Dracut	MA	32:44.0	1:04:37	1:45:02
+2855	Amaya Puertas	2:20:10	10:42	F50-54	51 / 91	Brookline	MA	34:08.0	1:07:17	1:47:29
+2856	Charlotte Graf	2:20:10	10:42	F25-29	273 / 375	Boston	MA	32:14.0	1:04:11	1:45:12
+2858	Arianna Tallarico	2:20:11	10:42	F0-19	65 / 98	Needham Heights	MA	32:58.0	1:05:30	1:47:35
+2860	Amanda Kelly	2:20:14	10:42	F25-29	274 / 375	Bala Cynwyd	PA	32:57.0	1:05:33	1:46:34
+2861	Jennifer Petty	2:20:14	10:42	F45-49	84 / 119	Marshfield	MA	32:28.0	1:04:45	1:46:33
+2862	Rachel Romano	2:20:15	10:42	F30-34	182 / 250	Aston	PA	32:04.0	1:03:59	1:45:52
+2864	Ava Van Delden	2:20:18	10:43	F0-19	66 / 98	Fort Mill	SC	32:58.0	1:05:30	1:47:35
+2866	Julia Furlong	2:20:20	10:43	F20-24	327 / 435	Littleton	MA	31:58.0	1:04:44	1:46:10
+2867	Courtney Bouchard	2:20:21	10:43	F25-29	275 / 375	Middleton	MA	31:52.0	1:04:53	1:45:42
+2868	Makenna Proctor	2:20:21	10:43	F20-24	328 / 435	Antrim	NH	33:56.0	1:06:26	1:46:46
+2869	Christine Broderick	2:20:21	10:43	F20-24	329 / 435	Hancock	NH	33:56.0	1:06:26	1:46:46
+2871	Brenna Lorenzen	2:20:23	10:43	F20-24	330 / 435	Boston	MA	33:33.0	1:06:30	1:46:06
+2872	Denisse Lopez	2:20:23	10:43	F20-24	331 / 435	Boston	MA	32:11.0	1:03:37	1:43:15
+2873	Brittany Fletcher	2:20:26	10:43	F25-29	276 / 375	Tewksbury	MA	33:06.0	1:04:34	1:46:39
+2874	Stephanie Giles	2:20:26	10:43	F25-29	277 / 375	Wakefield	MA	33:06.0	1:04:34	1:46:39
+2876	Kelly Wanamaker	2:20:29	10:43	F50-54	52 / 91	Windsor	CT	30:33.0	1:03:08	1:44:35
+2877	Debbie Shakespeare	2:20:29	10:43	F50-54	53 / 91	Sudbury	MA	33:09.0	1:06:21	1:47:34
+2879	Khue Nguyen	2:20:32	10:44	F20-24	332 / 435	Boston	MA	33:16.0	1:05:49	1:45:51
+2880	Rajae Menaouar	2:20:32	10:44	F35-39	125 / 173	Medford	MA	30:47.0	1:03:13	1:45:36
+2882	Rosalena Carignan	2:20:36	10:44	F20-24	333 / 435	Boston	MA	31:52.0	1:04:36	1:46:02
+2884	Laura Keeley	2:20:37	10:44	F55-59	45 / 79	Londonderry	NH	30:18.0	1:04:18	1:44:05
+2886	Theresa Waters	2:20:37	10:44	F25-29	278 / 375	Boston	MA	31:26.0	1:02:48	1:44:47
+2887	Jacquelyn Golden	2:20:38	10:44	F40-44	101 / 150	South Abington Tow	PA	32:24.0	1:06:05	1:47:49
+2888	Nicole Casimir	2:20:39	10:44	F60-64	20 / 39	Hyde Park	MA	32:12.0	1:04:56	1:46:39
+2889	Jacqueline Oldroyd	2:20:39	10:44	F25-29	279 / 375	Southbridge	MA	33:33.0	1:07:06	1:47:18
+2890	McKinley Croteau	2:20:40	10:44	F25-29	280 / 375	Brighton	MA	33:33.0	1:07:06	1:47:18
+2892	Sarah Thibeault	2:20:41	10:44	F30-34	183 / 250	Walpole	MA	34:40.0	1:07:22	1:47:28
+2893	Siobhan O'Brien	2:20:42	10:44	F25-29	281 / 375	Milton	MA	34:40.0	1:07:22	1:47:28
+2894	Sheila Dunn	2:20:42	10:44	F20-24	334 / 435	Scituate	MA	32:33.0	1:03:26	1:45:27
+2895	Beverly Coronis	2:20:43	10:44	F65-69	5 / 14	Marshfield	MA	32:31.0	1:05:22	1:46:54
+2896	Navneet Thind	2:20:43	10:44	F50-54	54 / 91	Middlebury	CT	32:15.0	1:04:42	1:46:51
+2898	Emilie Cowen	2:20:44	10:45	F40-44	102 / 150	Pepperell	MA	32:28.0	1:05:23	1:46:32
+2900	Ana M Langin	2:20:46	10:45	F30-34	184 / 250	East Boston	MA	33:16.0	1:06:03	1:47:14
+2901	Karen Duke	2:20:47	10:45	F70-74	3 / 5	Plymouth	MA	33:48.0	1:06:42	1:47:07
+2903	Michelle Thompson	2:20:48	10:45	F35-39	126 / 173	Wilbraham	MA	32:23.0	1:04:47	1:45:27
+2904	Annie Waterman	2:20:49	10:45	F25-29	282 / 375	Brighton	MA	31:25.0	1:03:34	1:48:10
+2907	Katharine Smith	2:20:51	10:45	F40-44	103 / 150	Boston	MA	32:39.0	1:05:39	1:46:48
+2908	Monica Farrell	2:20:52	10:45	F35-39	127 / 173	Brighton	MA	30:15.0	1:02:20	1:44:03
+2909	Kaitlin Donovan	2:20:54	10:45	F30-34	185 / 250	Medford	MA	31:17.0	1:03:48	1:45:17
+2911	Mackenna Hunter	2:20:57	10:46	F0-19	67 / 98	Laurel	MD	30:17.0	1:01:54	1:48:06
+2913	Amy Quattropani	2:20:58	10:46	F30-34	186 / 250	Glastonbury	CT	32:23.0	1:06:29	1:46:48
+2915	Halle Dowling	2:21:01	10:46	F20-24	335 / 435	Scituate	MA	33:58.0	1:06:17	1:48:09
+2916	Amal Rar	2:21:02	10:46	F30-34	187 / 250	Quincy	MA	31:06.0	1:05:09	1:45:00
+2918	Dagny Belak	2:21:03	10:46	F25-29	283 / 375	Brookline	MA	32:30.0	1:05:06	1:46:27
+2921	Judy Cai	2:21:08	10:46	F55-59	46 / 79	Westford	MA	34:39.0	1:08:06	1:47:57
+2922	Amy Luo	2:21:09	10:46	F20-24	336 / 435	Winchester	MA	28:37.0	1:06:25	1:45:49
+2923	Natasha Dean	2:21:09	10:46	F30-34	188 / 250	Needham	MA	34:04.0	1:07:53	1:48:36
+2924	Jenna Garcia	2:21:10	10:47	F25-29	284 / 375	Boston	MA	33:01.0	1:04:56	1:46:18
+2925	Lian Bishop	2:21:10	10:47	F25-29	285 / 375	West Hartford	CT	30:28.0	1:04:08	1:46:34
+2926	Taylor Brogan	2:21:12	10:47	F25-29	286 / 375	Arlington	MA		1:03:23	1:48:04
+2931	Rebecca Carroll	2:21:16	10:47	F20-24	337 / 435	Norton	MA	34:21.0	1:06:24	1:45:59
+2932	Daiane Borges	2:21:16	10:47	F40-44	104 / 150	Tewksbury	MA	33:22.0	1:06:38	1:47:18
+2933	Margaret Barros	2:21:17	10:47	F35-39	128 / 173	Quincy	MA	32:27.0	1:04:55	1:45:36
+2935	Mary Bobek	2:21:19	10:47	F40-44	105 / 150	Park Ridge	NJ	34:46.0	1:07:32	1:51:10
+2936	Leann Marcinek	2:21:19	10:47	F40-44	106 / 150	Wilmington	DE	34:46.0	1:07:32	1:51:11
+2937	Casey Berg	2:21:20	10:47	F30-34	189 / 250	Cambridge	MA	33:10.0	1:06:15	1:46:55
+2938	Victoria Liquori	2:21:25	10:48	F30-34	190 / 250	Boston	MA	30:28.0	1:03:12	1:44:48
+2939	Jaqueline Morelos	2:21:25	10:48	F25-29	287 / 375	Elmhurst	NY	32:04.0	1:05:00	1:47:22
+2940	Tina Ni	2:21:26	10:48	F20-24	338 / 435	Brookline	MA	33:10.0	1:11:15	1:49:40
+2944	Amanda Farley	2:21:36	10:49	F25-29	288 / 375	Cicero	NY	31:10.0	1:02:59	1:44:58
+2945	Meredith Parsons	2:21:37	10:49	F30-34	191 / 250	Pembroke	MA	32:01.0	1:04:31	1:46:49
+2946	Kara Angelo	2:21:39	10:49	F30-34	192 / 250	Stoneham	MA	32:01.0	1:04:32	1:46:50
+2947	Valeria Garcia Nin	2:21:41	10:49	F25-29	289 / 375	Somerville	MA	33:45.0	1:06:34	1:47:45
+2949	Ivanna Pilataxi	2:21:43	10:49	F20-24	339 / 435	Cambridge	MA	36:27.0	1:09:45	1:49:47
+2950	Janice Vales	2:21:48	10:49	F50-54	55 / 91	Escondido	CA	33:28.0	1:07:59	1:48:57
+2951	Sophia Pellechia	2:21:49	10:49	F20-24	340 / 435	Boston	MA	33:41.0	1:06:54	1:48:31
+2952	Erin Madden	2:21:49	10:50	F20-24	341 / 435	Boston	MA	33:41.0	1:06:54	1:48:31
+2953	Sophia O'Brien	2:21:49	10:50	F20-24	342 / 435	Deerfield	NH	30:46.0	1:04:16	1:47:26
+2954	Elyce Sweeney	2:21:53	10:50	F35-39	129 / 173	Charlestown	MA	32:30.0	1:04:56	1:46:35
+2957	Olivia Pirch	2:21:59	10:50	F20-24	343 / 435	Boston	MA	32:39.0	1:05:29	1:46:39
+2959	Su Dong	2:22:01	10:50	F25-29	290 / 375	Quincy	MA	28:13.0	1:00:26	1:43:02
+2960	Charla Stevens	2:22:02	10:50	F65-69	6 / 14	Bedford	NH	32:34.0	1:05:51	1:46:47
+2964	Bernadette Leal	2:22:07	10:51	F55-59	47 / 79	Ludlow	MA	34:10.0	1:07:49	1:47:01
+2965	Chara Podimata	2:22:07	10:51	F30-34	193 / 250	Newtonville	MA	34:10.0	1:07:35	1:48:08
+2966	Karen Rodriquez	2:22:13	10:51	F65-69	7 / 14	Lancaster	PA	34:37.0	1:08:14	1:50:23
+2969	Taylor Grill	2:22:18	10:52	F25-29	291 / 375	Sarasota	FL	32:33.0	1:05:13	1:45:49
+2970	Aida Tiouririne	2:22:19	10:52	F20-24	344 / 435	Charlottesville	VA	31:14.0	1:04:03	1:46:50
+2971	Bridget Kelly	2:22:19	10:52	F25-29	292 / 375	South Boston	MA	32:28.0	1:04:50	1:46:54
+2973	Emily Sequeira	2:22:20	10:52	F55-59	48 / 79	Cambridge	MA	33:00.0	1:06:52	1:48:10
+2974	Nassima Tiouririne	2:22:20	10:52	F55-59	49 / 79	Charlottesville	VA	31:14.0	1:04:02	1:46:50
+2975	Joan Murphy	2:22:21	10:52	F65-69	8 / 14	Milton	MA	33:17.0	1:05:41	1:47:18
+2976	Linda Navin Murray	2:22:21	10:52	F50-54	56 / 91	Milton, Ma 02186,	MA	33:17.0	1:05:41	1:47:18
+2977	Tamera Karikal	2:22:21	10:52	F25-29	293 / 375	Boston	MA	28:46.0	1:01:05	1:46:19
+2978	Maya Raghavan	2:22:22	10:52	F20-24	345 / 435	Brookline	MA	30:49.0	1:01:33	1:46:33
+2979	Sarah Bernard	2:22:23	10:52	F45-49	85 / 119	Arlington	MA	32:12.0	1:05:26	1:47:28
+2980	Amanda Langevin	2:22:24	10:52	F45-49	86 / 119	Templeton	MA	32:15.0	1:05:06	1:47:36
+2981	Sarah Leveroni	2:22:27	10:52	F30-34	194 / 250	Wilmington	MA	32:04.0	1:04:58	1:47:06
+2983	Kayla Furney	2:22:31	10:53	F20-24	346 / 435	Boston	MA	33:48.0	1:07:17	1:48:46
+2984	Anne Zinter	2:22:31	10:53	F50-54	57 / 91	South Boston	MA	32:42.0	1:05:48	1:47:16
+2985	Caitlin Thomas	2:22:31	10:53	F20-24	347 / 435	Boston	MA	33:49.0	1:07:17	1:48:46
+2987	Karli Barrett	2:22:34	10:53	F40-44	107 / 150	Hampden	MA	32:13.0	1:08:13	1:49:07
+2989	Sarah Gibbons	2:22:40	10:53	F45-49	87 / 119	Milton	MA	39:03.0	1:11:29	1:51:25
+2990	Liqun Yin	2:22:41	10:53	F50-54	58 / 91	Newton	MA	34:42.0	1:09:17	1:50:46
+2991	Taylor Lavey	2:22:44	10:54	F30-34	195 / 250	Boston	MA	34:10.0	1:07:55	1:49:12
+2993	Denise Carbone	2:22:52	10:54	F50-54	59 / 91	Milton	MA	39:00.0	1:11:19	1:51:34
+2995	Daniela Lindemeyer	2:22:54	10:54	F30-34	196 / 250	Medford	MA	33:33.0	1:08:15	1:48:47
+2998	Hayley Sweet	2:22:57	10:55	F30-34	197 / 250	Brookline	MA	33:34.0	1:07:59	1:50:29
+2999	Cheryl Meesig	2:22:59	10:55	F45-49	88 / 119	Nashua	NH	33:15.0	1:06:50	1:48:32
+3003	Sadie Souza	2:23:03	10:55	F0-19	68 / 98	Mansfield	MA	31:19.0	1:06:26	1:46:44
+3004	Uma Staehler	2:23:05	10:55	F55-59	50 / 79	Cambridge	MA	32:54.0	1:06:04	1:49:08
+3005	Luciely Marques-Cafasso	2:23:05	10:55	F40-44	108 / 150	Wakefield	MA	28:59.0	1:00:54	1:43:45
+3006	Rachel Wilk	2:23:05	10:55	F20-24	348 / 435	Somerville	MA	33:23.0	1:07:53	1:49:34
+3007	Lily Krivopal	2:23:05	10:55	F20-24	349 / 435	Needham	MA	37:35.0	1:07:54	1:49:34
+3008	Emily Cohen	2:23:07	10:55	F20-24	350 / 435	Boston	MA	32:15.0	1:04:15	1:46:13
+3009	Vidya Dabhade	2:23:07	10:55	F45-49	89 / 119	Ahilyanagar	UN	30:34.0	1:02:24	1:45:41
+3013	Magdalena Lang	2:23:10	10:56	F20-24	351 / 435	Boston	MA	38:08.0	1:13:56	1:52:53
+3015	Phyllis Heatley	2:23:16	10:56	F55-59	51 / 79	Stoughton	MA	33:59.0	1:07:51	1:49:29
+3016	Collette Hurley	2:23:18	10:56	F50-54	60 / 91	Boston	MA	32:38.0	1:04:29	1:50:02
+3018	Yasmin Hernandez	2:23:19	10:56	F40-44	109 / 150	Revere	MA	34:47.0	1:08:19	1:48:53
+3020	Charlotte Saillard	2:23:23	10:57	F20-24	352 / 435	Boston	MA	32:21.0	1:04:55	1:47:11
+3022	Susan Trask	2:23:24	10:57	F50-54	61 / 91	Portsmouth	NH	32:43.0	1:05:26	1:47:16
+3023	Kristin Perdue	2:23:24	10:57	F30-34	198 / 250	Worcester	MA	33:33.0	1:06:30	1:47:59
+3024	Nadya Karpova	2:23:27	10:57	F30-34	199 / 250	Chestnut Hill	MA	37:47.0	1:10:07	1:50:12
+3025	Christine Gales	2:23:28	10:57	F30-34	200 / 250	Brighton	MA	34:05.0	1:07:57	1:49:38
+3027	Larissa Oliveira	2:23:29	10:57	F20-24	353 / 435	Saugus	MA	31:17.0	1:04:41	1:47:28
+3028	Beth McHugh	2:23:29	10:57	F55-59	52 / 79	Boston	MA	33:14.0	1:06:49	1:48:32
+3031	Anastasiia Shults	2:23:35	10:58	F20-24	354 / 435	Derry	NH	31:44.0	1:04:47	1:47:54
+3032	Julia Rubin	2:23:37	10:58	F20-24	355 / 435	Boston	MA	28:41.0	1:01:12	1:47:40
+3034	Hope McDonald	2:23:38	10:58	F25-29	294 / 375	Milton	MA	33:17.0	1:05:41	1:47:18
+3036	Isabel Foden	2:23:38	10:58	F0-19	69 / 98	Manchester	NH	32:32.0	1:04:07	1:48:12
+3037	Heather Ducharme	2:23:38	10:58	F35-39	130 / 173	Wilmington	MA	34:05.0	1:07:15	1:48:49
+3038	Nadine Benamara	2:23:40	10:58	F20-24	356 / 435	Nashua	NH	33:39.0	1:07:09	1:49:45
+3040	Mélanie Therrien	2:23:41	10:58	F45-49	90 / 119	Dunham	QC	36:22.0	1:08:49	1:49:15
+3041	Melissa Burboa	2:23:43	10:58	F35-39	131 / 173	Melrose	MA	34:17.0	1:08:13	1:51:26
+3043	Nicole Cardarelli	2:23:47	10:58	F35-39	132 / 173	Waltham	MA	33:14.0	1:07:07	1:48:53
+3044	Sally Alwan	2:23:47	10:58	F45-49	91 / 119	Litchfield	NH	32:31.0	1:05:50	1:48:11
+3045	Cece Carl	2:23:47	10:59	F20-24	357 / 435	Boston	MA	31:52.0	1:03:10	1:43:26
+3047	Leslie Pascual	2:23:52	10:59	F40-44	110 / 150	Quincy	MA	35:10.0	1:06:25	1:49:15
+3048	Urte Venclovaite	2:23:54	10:59	F20-24	358 / 435	Somerville	MA	31:42.0	1:04:33	1:47:07
+3049	Rachel Han	2:23:57	10:59	F20-24	359 / 435	Somerville	MA	33:37.0	1:07:05	1:49:39
+3050	Alana Diplacido	2:23:59	10:59	F20-24	360 / 435	Medfield	MA	30:08.0	1:05:36	1:51:45
+3051	Crystal Pierre	2:24:00	10:59	F40-44	111 / 150	Lebanon	CT	32:20.0	1:04:23	1:46:27
+3052	Jaleesa Akerman	2:24:02	11:00	F30-34	201 / 250	New Boston	NH	33:40.0	1:06:02	1:47:32
+3053	Kaitlyn Litchfield	2:24:02	11:00	F40-44	112 / 150	Marshfield	MA	31:17.0	1:04:44	1:51:48
+3054	Katherine Lin	2:24:03	11:00	F25-29	295 / 375	Boston	MA	32:33.0	1:05:52	1:47:34
+3058	Aparna Santhamma Vijayan	2:24:04	11:00	F35-39	133 / 173	Cambridge	MA	33:06.0	1:05:28	1:46:39
+3059	Kimberly Lirette	2:24:08	11:00	F35-39	134 / 173	Middletown	CT	34:40.0	1:08:05	1:49:09
+3060	Julie Krutiak	2:24:08	11:00	F50-54	62 / 91	Lincoln	MA	33:33.0	1:07:02	1:49:15
+3064	Shelby Smith	2:24:15	11:01	F0-19	70 / 98	Boston	MA	33:31.0	1:08:21	1:49:58
+3065	Kavya Bansal	2:24:15	11:01	F20-24	361 / 435	Boston	MA	33:31.0	1:08:21	1:49:58
+3067	Mackenzie Schade	2:24:18	11:01	F25-29	296 / 375	Canton	MA	32:15.0	1:05:23	1:48:28
+3068	Caitlin Clancy	2:24:19	11:01	F55-59	53 / 79	Brookline	MA	34:39.0	1:08:45	1:50:36
+3071	Tejashree Modak	2:24:23	11:01	F40-44	113 / 150	Barrington	RI	32:08.0	1:04:38	1:47:41
+3072	Kara Schoenig	2:24:25	11:01	F35-39	135 / 173	Louisville	CO	32:16.0	1:06:39	1:48:48
+3073	Jessica Cunningham	2:24:25	11:01	F30-34	202 / 250	Canton	MA	32:16.0	1:06:39	1:48:48
+3074	Isabella Burghart	2:24:28	11:02	F20-24	362 / 435	Brunswick	ME	33:54.0	1:10:10	1:51:14
+3076	Bridget Maunsell	2:24:30	11:02	F20-24	363 / 435	West Boylston	MA	32:52.0	1:06:24	1:48:25
+3077	Meg Scarlett	2:24:31	11:02	F55-59	54 / 79	Pueblo	CO	34:02.0	1:08:13	1:50:42
+3080	Lesa Rossick	2:24:38	11:02	F55-59	55 / 79	Austin	TX	34:10.0	1:07:29	1:48:53
+3082	Maddy Hazelton	2:24:39	11:02	F0-19	71 / 98	Gilford	NH	31:50.0	1:04:41	1:48:55
+3083	Gaby Ahrens	2:24:39	11:02	F55-59	56 / 79	Bound Brook	NJ	34:34.0	1:09:37	1:53:08
+3084	Jessica Gannon	2:24:39	11:02	F20-24	364 / 435	Gilmanton	NH	31:50.0	1:04:41	1:48:56
+3085	Lesley Ramirez	2:24:40	11:03	F25-29	297 / 375	Chelsea	MA	32:38.0	1:04:23	1:46:18
+3086	Lauren Ackles	2:24:41	11:03	F25-29	298 / 375	Wareham	MA	31:52.0	1:07:09	1:48:54
+3088	Sophie Alexakos	2:24:46	11:03	F20-24	365 / 435	Bedford	NH	31:09.0	1:06:28	1:49:43
+3089	Kelly Keeley	2:24:46	11:03	F25-29	299 / 375	Boston	MA	42:15.0	1:13:48	1:53:38
+3093	Andrea Murray	2:24:49	11:03	F25-29	300 / 375	Quincy	MA	34:40.0	1:09:14	1:51:37
+3094	Elizabeth Sheibley	2:24:50	11:03	F55-59	57 / 79	Whitman	MA	35:02.0	1:08:50	1:51:25
+3101	Cynthia Madrid	2:25:04	11:04	F30-34	203 / 250	Brighton	MA	30:34.0	1:03:02	1:46:29
+3102	Katherine Henry	2:25:06	11:05	F40-44	114 / 150	Cumming	GA	34:27.0	1:08:08	1:49:31
+3103	Elaine Doris	2:25:10	11:05	F45-49	92 / 119	Revere	MA	32:15.0	1:05:56	1:49:00
+3104	Lisa Deacutis	2:25:17	11:05	F30-34	204 / 250	Malden	MA	32:55.0	1:06:05	1:48:02
+3107	Minttu Ronn	2:25:29	11:06	F40-44	115 / 150	Cambridge	MA	33:47.0	1:07:38	1:49:58
+3108	Melody Murphy	2:25:30	11:06	F25-29	301 / 375	Milford	MA	32:23.0	1:05:07	1:47:39
+3111	Dawn Foley	2:25:32	11:07	F55-59	58 / 79	Mansfield	MA	35:02.0	1:08:50	1:51:25
+3112	Maria Zschummel	2:25:34	11:07	F30-34	205 / 250	Boston	MA	33:42.0	1:08:10	1:50:13
+3113	Delphine Lam	2:25:43	11:07	F25-29	302 / 375	Azusa	CA	35:48.0	1:09:36	1:52:01
+3114	Kyunghee Chung	2:25:52	11:08	F40-44	116 / 150	Brookline	MA	35:41.0	1:15:15	1:54:33
+3115	Adiela Bustamante	2:25:57	11:08	F60-64	21 / 39	Lynn	MA	30:46.0	1:03:43	1:47:18
+3117	Allison Costello	2:26:03	11:09	F30-34	206 / 250	Fort Myers	FL	34:06.0	1:08:04	1:50:16
+3118	Lisselott Valdez	2:26:05	11:09	F45-49	93 / 119	Dorchester Center	MA	32:21.0	1:05:06	1:51:05
+3119	Genoveva Mateeva	2:26:09	11:09	F55-59	59 / 79	Acton	MA	33:35.0	1:07:36	1:50:08
+3120	Kathryn Leech	2:26:14	11:10	F65-69	9 / 14	Dorset	VT	35:52.0	1:09:47	1:52:13
+3121	Hannah Leech	2:26:14	11:10	F30-34	207 / 250	South Boston	MA	35:52.0	1:09:47	1:52:13
+3122	Jessica Wilkinson	2:26:14	11:10	F30-34	208 / 250	Ashland	MA	33:51.0	1:08:00	1:50:45
+3123	Malia Gin	2:26:15	11:10	F20-24	366 / 435	Brighton	MA	32:49.0	1:05:19	1:49:26
+3124	Soo Kim	2:26:16	11:10	F30-34	209 / 250	Mountville	PA	34:37.0	1:09:18	1:51:38
+3126	Julia Berges	2:26:19	11:10	F35-39	136 / 173	Somerville	MA	32:41.0	1:05:58	1:49:01
+3127	Victoria Burke	2:26:20	11:10	F30-34	210 / 250	Hanson	MA	33:27.0	1:07:27	1:51:38
+3128	Mackenzie Dresner	2:26:22	11:10	F25-29	303 / 375	Beverly	MA	33:28.0	1:07:18	1:51:07
+3131	Karen Mueller	2:26:26	11:11	F65-69	10 / 14	Northborough	MA	33:53.0	1:07:18	1:50:12
+3133	Caitlin Ferreira	2:26:32	11:11	F30-34	211 / 250	Fall River	MA	32:09.0	1:05:19	1:49:33
+3136	Marie Thompson	2:26:37	11:11	F35-39	137 / 173	Wilbraham	MA	32:23.0	1:05:06	1:48:29
+3138	Cynthia Fraine	2:26:37	11:11	F25-29	304 / 375	Reading	MA	32:45.0	1:04:42	1:48:26
+3139	Kelsey Provost	2:26:39	11:12	F30-34	212 / 250	Mashpee	MA	31:20.0	1:10:53	1:51:38
+3140	Carolyn Livingstone	2:26:41	11:12	F35-39	138 / 173	Walpole	MA	34:15.0	1:08:17	1:51:11
+3142	Amanda Devlin	2:26:43	11:12	F30-34	213 / 250	Holbrook	MA	34:48.0	1:08:57	1:50:46
+3144	Maira Marques Samary	2:26:50	11:12	F45-49	94 / 119	Arlington	MA	32:54.0	1:06:46	1:51:56
+3145	Jennifer Lemus Romero	2:26:50	11:12	F20-24	367 / 435	Lynn	MA	32:36.0	1:06:26	1:49:59
+3148	Alexa Rostovsky	2:26:52	11:13	F20-24	368 / 435	Cambridge	MA	32:39.0	1:07:17	1:52:06
+3149	Jessica Ethier	2:26:55	11:13	F35-39	139 / 173	Blackstone	MA	34:09.0	1:08:00	1:49:53
+3151	Nicole Polletta	2:26:57	11:13	F45-49	95 / 119	Somerville	MA	32:23.0	1:06:18	1:52:57
+3152	Suzie Kent	2:27:12	11:14	F35-39	140 / 173	Framingham	MA	32:55.0	1:06:21	1:50:39
+3154	Laura Kenner	2:27:19	11:15	F40-44	117 / 150	Upton	MA	33:08.0	1:06:42	1:49:42
+3155	Nicole Lozano	2:27:19	11:15	F25-29	305 / 375	Boston	MA	31:00.0	1:01:55	1:45:35
+3156	Shannon Cronin	2:27:23	11:15	F25-29	306 / 375	Boston	MA	34:01.0	1:11:07	1:55:00
+3157	Jaclyn Schattgen	2:27:23	11:15	F35-39	141 / 173	Hanover	MA	33:47.0	1:08:20	1:51:05
+3158	Emily Crabtree	2:27:23	11:15	F25-29	307 / 375	Chelsea	MA	34:01.0	1:11:08	1:55:00
+3159	Maria Leticia Umali	2:27:24	11:15	F55-59	60 / 79	Jersey City	NJ	36:03.0	1:10:04	1:51:54
+3162	Cailyn McCarthy	2:27:27	11:15	F20-24	369 / 435	Hanover	MA	32:46.0	1:05:18	1:46:28
+3163	Shayla Ferris	2:27:28	11:15	F40-44	118 / 150	Marlborough	MA	36:07.0	1:10:18	1:53:00
+3166	Bree McDermott	2:27:38	11:16	F45-49	96 / 119	Taunton	MA	32:33.0	1:06:08	1:50:47
+3167	Sinead Mensching	2:27:39	11:16	F0-19	72 / 98	Cohasset	MA	39:59.0	1:12:36	1:54:53
+3169	Meghan Lancaster	2:27:41	11:16	F25-29	308 / 375	Charlestown	MA	33:33.0	1:07:59	1:51:10
+3170	Gabby Beltre	2:27:44	11:17	F40-44	119 / 150	Lynn	MA	35:25.0	1:10:09	1:52:55
+3172	Chloe Deangelis	2:27:47	11:17	F0-19	73 / 98	North Reading	MA	32:21.0	1:12:35	1:53:03
+3173	Jen Liebelt	2:27:50	11:17	F60-64	22 / 39	Quincy	MA	33:05.0	1:07:05	1:50:09
+3174	Kelcie Tierney	2:27:51	11:17	F30-34	214 / 250	West Roxbury	MA	36:34.0	1:12:50	1:54:13
+3175	Thu Tran	2:27:54	11:17	F40-44	120 / 150	Cold Spring Harbor	NY	33:39.0	1:06:02	1:49:12
+3177	Lori Hopgood	2:27:58	11:18	F45-49	97 / 119	Middleboro	MA	32:31.0	1:06:47	1:50:18
+3178	Fannie Radley	2:27:58	11:18	F40-44	121 / 150	Montréal	QC	33:36.0	1:07:54	1:51:46
+3180	Sterling McMahan	2:28:00	11:18	F40-44	122 / 150	Fort Lauderdale	FL	34:42.0	1:09:03	1:51:51
+3181	Kara Sims	2:28:01	11:18	F20-24	370 / 435	Needham	MA	34:05.0	1:13:32	1:56:44
+3182	Vanessa O'Connor	2:28:01	11:18	F35-39	142 / 173	Hanover	MA	33:47.0	1:08:19	1:51:04
+3185	Astrid Noriega	2:28:11	11:19	F20-24	371 / 435	Revere	MA	31:45.0	1:04:24	1:49:03
+3187	Shauni Omond	2:28:13	11:19	F30-34	215 / 250	Boston	MA	32:55.0	1:06:33	1:55:21
+3188	Tatiana Esch Cunha Jeronimo	2:28:19	11:19	F45-49	98 / 119	Malden	MA	32:13.0	1:06:47	1:50:20
+3189	Jenn Taylor	2:28:22	11:19	F45-49	99 / 119	Salem	MA	36:48.0	1:14:48	1:54:59
+3192	Jenn Miola	2:28:25	11:20			Lunenburg	MA	34:40.0	1:09:13	1:51:41
+3193	Bettina Zimei	2:28:25	11:20			Leominster	MA	34:40.0	1:09:13	1:51:41
+3194	Aparna Parikh	2:28:27	11:20	F40-44	123 / 150	Newton	MA	33:00.0	1:05:12	1:53:39
+3195	Amy Comander	2:28:27	11:20	F50-54	63 / 91	Chestnut Hill	MA	33:01.0	1:05:12	1:53:39
+3200	Mary Cogavin	2:28:39	11:21	F35-39	143 / 173	Malden	MA	37:30.0	1:10:34	1:52:58
+3201	Cheryl Chen	2:28:41	11:21	F50-54	64 / 91	Cambridge	MA	34:52.0	1:08:54	1:51:38
+3203	Anya Nelson	2:28:45	11:21	F35-39	144 / 173	Boston	MA	32:59.0	1:06:27	1:51:11
+3204	Jenn Piekos	2:28:47	11:21	F25-29	309 / 375	Somerville	MA	37:15.0	1:11:59	1:54:28
+3207	Mitzi King	2:28:49	11:21	F55-59	61 / 79	Milford	MA	34:00.0	1:07:48	1:52:56
+3209	Abbigail Shove	2:28:51	11:22	F30-34	216 / 250	Boston	MA	31:03.0	1:05:04	1:50:29
+3210	Nathaly Gallardo	2:28:52	11:22	F30-34	217 / 250	Natick	MA	31:51.0	1:07:23	1:50:29
+3211	Gladys Ongori	2:28:52	11:22	F40-44	124 / 150	Salem	NH	33:56.0	1:06:56	1:50:25
+3213	Beth Tallarico	2:28:54	11:22	F55-59	62 / 79	Needham Heights	MA	33:42.0	1:07:18	1:51:49
+3216	Kate Osterholtz	2:28:58	11:22	F25-29	310 / 375	Jamaica Plain	MA	33:05.0	1:06:37	1:50:59
+3217	Abigail Beech	2:28:59	11:22	F25-29	311 / 375	Cambridge	MA	33:16.0	1:05:40	1:49:46
+3218	Janelle Gee	2:29:00	11:22	F30-34	218 / 250	Stoneham	MA	34:13.0	1:09:10	1:52:56
+3219	Callie Armstrong	2:29:01	11:22	F20-24	372 / 435	Boston	MA	34:18.0	1:07:03	1:50:51
+3220	Caroline O'Rourke	2:29:01	11:22	F25-29	312 / 375	Hanover	MA	34:19.0	1:07:04	1:50:51
+3223	Brenna Gomez	2:29:01	11:22	F25-29	313 / 375	Boston	MA	34:19.0	1:08:51	1:53:06
+3224	Meaghan Rocha	2:29:02	11:22	F25-29	314 / 375	Cranston	RI	34:39.0	1:09:05	1:52:05
+3229	Qingning Bian	2:29:19	11:24	F45-49	100 / 119	Hopkinton	MA	35:22.0	1:10:57	1:54:20
+3231	Fleur Balogh De Galantha	2:29:23	11:24	F20-24	373 / 435	South Grafton	MA	34:29.0	1:09:29	1:52:05
+3232	Clair Wankum	2:29:23	11:24	F60-64	23 / 39	Scituate	MA	34:30.0	1:08:13	1:51:37
+3235	Rachael Huang-Liu	2:29:25	11:24	F25-29	315 / 375	Cambridge	MA	35:02.0	1:10:33	1:54:35
+3236	Marissa Liberti	2:29:27	11:24	F20-24	374 / 435	Mashpee	MA	33:08.0	1:06:17	1:50:55
+3238	Taylor Menino	2:29:29	11:25	F20-24	375 / 435	Canton	MA	33:54.0	1:08:16	1:51:19
+3239	Samantha Menino	2:29:31	11:25	F25-29	316 / 375	Boston	MA	33:54.0	1:08:16	1:51:20
+3240	Megan Long	2:29:31	11:25	F20-24	376 / 435	Boston	MA	33:49.0	1:08:54	1:53:19
+3241	Angela Cordova	2:29:32	11:25	F25-29	317 / 375	Somerville	MA	32:42.0	1:07:41	1:52:49
+3244	Christine Mitchell	2:29:41	11:25	F60-64	24 / 39	Boston	MA	34:27.0	1:09:35	1:53:33
+3246	Alina Kenny	2:29:44	11:26	F20-24	377 / 435	Ipswich	MA	33:20.0	1:07:26	1:51:11
+3247	Sanaa Zerrou	2:29:46	11:26	F45-49	101 / 119	Medford	MA	33:09.0	1:08:05	1:51:24
+3248	Isabelle Baker	2:29:46	11:26	F20-24	378 / 435	Boston	MA	34:07.0	1:07:57	1:51:50
+3249	Evie Perla	2:29:46	11:26	F20-24	379 / 435	Mountain View	CA	34:07.0	1:07:57	1:51:50
+3251	Deena Doyle	2:29:49	11:26	F45-49	102 / 119	Douglas	MA	32:53.0	1:05:32	1:50:42
+3252	Christine Myers	2:29:51	11:26	F55-59	63 / 79	Canterbury	NH	34:16.0	1:10:48	1:54:26
+3253	Sofia Keiser	2:29:52	11:26	F25-29	318 / 375	Derry	NH	32:46.0	1:06:54	1:51:50
+3255	Akiko Adachi	2:29:52	11:26	F50-54	65 / 91	New York	NY	36:07.0	1:15:30	1:56:13
+3256	Eva Dossantos	2:29:55	11:27	F50-54	66 / 91	Fall River	MA	34:08.0	1:08:20	1:51:50
+3257	Erica Walsh	2:29:56	11:27	F20-24	380 / 435	Dedham	MA	36:56.0	1:14:10	1:58:48
+3258	Suelen Chagas	2:30:00	11:27	F25-29	319 / 375	Weymouth	MA	35:03.0	1:09:56	1:53:52
+3261	Anne Downing	2:30:09	11:28	F50-54	67 / 91	Atkinson	NH	35:33.0	1:10:38	1:54:19
+3266	Keri Lehtonen	2:30:22	11:29	F25-29	320 / 375	Boston	MA	36:32.0	1:12:36	1:57:14
+3268	Barbara Tanger	2:30:28	11:29	F50-54	68 / 91	Marblehead	MA	36:51.0	1:13:36	1:57:08
+3270	Audrey Jones	2:30:30	11:29	F35-39	145 / 173	Chelsea	MA	33:41.0	1:08:20	1:52:05
+3271	Cesia Barron	2:30:31	11:29	F20-24	381 / 435	Powder Springs	GA	36:23.0	1:12:17	1:55:49
+3272	Danielle Goldberg	2:30:31	11:29	F20-24	382 / 435	Boston	MA	36:24.0	1:12:18	1:55:49
+3273	Jackie White	2:30:33	11:29	F40-44	125 / 150	Boylston	MA	33:29.0	1:07:04	1:52:50
+3274	Sandi Sollauer	2:30:33	11:29	F50-54	69 / 91	Rochester	MA	35:48.0	1:11:31	1:54:28
+3275	Patty MacDonald	2:30:36	11:30	F60-64	25 / 39	Plymouth	MA	35:09.0	1:09:16	1:52:51
+3277	Lauren Prieto	2:30:49	11:31	F30-34	219 / 250	New York City	NY	36:43.0	1:12:34	1:55:51
+3279	Katherine Desimone	2:30:53	11:31	F20-24	383 / 435	Stoneham	MA	30:37.0	1:04:28	1:51:21
+3281	Natalie Katzman	2:31:04	11:32	F25-29	321 / 375	Newton Upper Falls	MA	31:26.0	1:04:50	1:51:00
+3282	Shamelyn Verdugo	2:31:05	11:32	F25-29	322 / 375	Revere	MA	34:38.0	1:09:12	1:52:55
+3283	Ana Rosas	2:31:06	11:32	F30-34	220 / 250	East Boston	MA	34:38.0	1:09:12	1:52:56
+3287	Brittany Morgan	2:31:08	11:32	F25-29	323 / 375	Somerville	MA	35:37.0	1:10:23	1:54:45
+3288	Lisa Lindquist	2:31:09	11:32	F55-59	64 / 79	Weymouth	MA	34:38.0	1:10:47	1:55:07
+3290	Kelly Broderick	2:31:10	11:32	F45-49	103 / 119	Melrose	MA	33:41.0	1:06:54	1:53:22
+3291	Lisa Kauder	2:31:10	11:32	F45-49	104 / 119	Melrose	MA	33:42.0	1:06:55	1:53:23
+3292	Lisa Hay	2:31:14	11:33	F60-64	26 / 39	Portland	OR	39:34.0	1:12:56	1:53:45
+3293	Kate Merrill	2:31:18	11:33	F40-44	126 / 150	Marlborough	MA	36:07.0	1:10:18	1:52:56
+3294	Reva Kodre	2:31:19	11:33	F20-24	384 / 435	Boston	MA	34:13.0	1:08:15	1:55:01
+3296	Cristina Clow	2:31:19	11:33	F30-34	221 / 250	Boston	MA	35:50.0	1:12:17	1:58:07
+3297	Brenda Fagan	2:31:21	11:33	F25-29	324 / 375	Westborough	MA	33:45.0	1:08:13	1:54:04
+3299	Amy Kelly	2:31:23	11:33	F50-54	70 / 91	Quincy	MA	34:21.0	1:08:52	1:52:48
+3300	Colleen Marinelli	2:31:25	11:33	F45-49	105 / 119	Marlborough	MA	36:07.0	1:10:18	1:53:00
+3301	Megane Lin	2:31:26	11:33	F20-24	385 / 435	Boston	MA	31:34.0	1:05:15	1:52:34
+3302	Lindsay Dyan	2:31:27	11:34	F40-44	127 / 150	Framingham	MA	33:30.0	1:09:57	1:54:54
+3304	Alexa Cuellar	2:31:38	11:34	F25-29	325 / 375	Saugus	MA	33:44.0	1:07:10	1:51:16
+3305	Avery Sweet	2:31:38	11:34	F20-24	386 / 435	Nashville	TN	34:27.0	1:09:00	1:55:00
+3306	Jessica Hartman	2:31:40	11:35	F25-29	326 / 375	New York	NY	32:03.0	1:06:12	1:52:23
+3307	Crystal Hodges	2:31:41	11:35	F35-39	146 / 173	Waltham	MA	35:54.0	1:12:01	1:56:10
+3308	Alexa Alvarez	2:31:41	11:35	F0-19	74 / 98	Fullerton	CA	33:26.0	1:06:32	1:53:00
+3310	Judy McDonough	2:31:52	11:35	F60-64	27 / 39	Weymouth	MA	34:23.0	1:08:07	1:55:54
+3311	Carol Whalen	2:31:52	11:35	F60-64	28 / 39	Weymouth	MA	34:21.0	1:08:07	1:55:55
+3312	Mary Hanley	2:31:52	11:35	F60-64	29 / 39	Wakefield	MA	35:01.0	1:09:18	1:53:45
+3313	Kayla Elgin	2:31:54	11:36	F35-39	147 / 173	Melrose	MA	35:10.0	1:09:01	1:54:49
+3314	Emily Cloutier	2:31:55	11:36	F20-24	387 / 435	Dracut	MA	36:23.0	1:12:25	1:56:12
+3315	Susan Davis	2:31:57	11:36	F50-54	71 / 91	Virginia Beach	VA	33:16.0	1:07:19	1:51:16
+3317	Jennifer Jenkins	2:32:08	11:37	F55-59	65 / 79	Marblehead	MA	36:48.0	1:12:06	1:55:44
+3318	Nora Ann Papageorgiou	2:32:20	11:38	F30-34	222 / 250	Lynn	MA	34:22.0	1:09:18	1:55:21
+3319	Jennifer Cadigan-Mcgoldrick	2:32:20	11:38	F40-44	128 / 150	Weymouth	MA	33:31.0	1:11:40	1:55:43
+3320	Joan Tosti	2:32:22	11:38	F65-69	11 / 14	Douglas	MA	34:32.0	1:09:12	1:53:31
+3321	Bridget Parsons	2:32:24	11:38	F20-24	388 / 435	Marshfield	MA	34:52.0	1:09:33	1:53:44
+3322	Daria Healey	2:32:25	11:38	F25-29	327 / 375	Brighton	MA	34:06.0	1:08:40	1:54:40
+3323	Amal Abulleif	2:32:28	11:38	F30-34	223 / 250	Anaheim	CA	31:27.0	1:05:01	1:51:30
+3324	Patricia Deasy	2:32:31	11:38	F60-64	30 / 39	Quincy	MA	34:20.0	1:08:07	1:55:53
+3325	Maria McMahon	2:32:32	11:39	F60-64	31 / 39	Quincy	MA	34:20.0	1:08:07	1:55:54
+3326	Aika Ueno	2:32:36	11:39	F0-19	75 / 98	Worcester	MA	32:19.0	1:08:54	1:54:18
+3327	Natalia Calvillo	2:32:38	11:39	F0-19	76 / 98	Chestnut Hill	MA	37:22.0	1:15:44	2:01:18
+3328	Tatiana Calvillo	2:32:38	11:39	F0-19	77 / 98	Chestnuthill	MA	37:22.0	1:15:43	2:01:17
+3329	Ana Elkhessassi	2:32:38	11:39	F40-44	129 / 150	Winthrop	MA	36:31.0	1:13:12	1:58:24
+3330	Keira Coker	2:32:40	11:39	F0-19	78 / 98	Sandwich	MA	32:51.0	1:08:34	1:54:50
+3331	Eleanor Lane	2:32:40	11:39	F0-19	79 / 98	Norwell	MA	36:53.0	1:16:46	1:59:38
+3332	Michael Powell	2:32:45	11:40	F35-39	148 / 173	Norwood	MA	35:16.0	1:10:57	1:55:47
+3333	Amanda Rodriguez	2:32:49	11:40	F30-34	224 / 250	New Britain	CT	34:22.0	1:09:13	1:54:57
+3334	Jenn Jensen	2:32:50	11:40	F55-59	66 / 79	Derry	NH	34:49.0	1:09:45	1:56:29
+3335	Nancy Roe	2:32:52	11:40	F55-59	67 / 79	Brookline	MA	34:54.0	1:10:46	1:55:01
+3336	Michaela Davis	2:32:52	11:40	F25-29	328 / 375	Jamaica Plain	MA	34:54.0	1:10:45	1:55:01
+3337	Brianna Marrero	2:32:53	11:40	F20-24	389 / 435	Walpole	MA	34:49.0	1:09:40	1:54:11
+3338	Mia Pongratz	2:32:53	11:40	F20-24	390 / 435	Hanover	MA	34:49.0	1:09:40	1:54:11
+3339	Pamela Baxter	2:32:57	11:40	F60-64	32 / 39	Concord	NH	36:33.0	1:11:52	1:56:40
+3340	Christine Guinee	2:32:57	11:40	F25-29	329 / 375	Cohasset	MA	32:46.0	1:07:16	1:53:12
+3341	Jessica Mitchell	2:32:58	11:40	F30-34	225 / 250	Bellingham	MA	32:29.0	1:07:07	1:52:22
+3342	Vivian Liu	2:33:00	11:41	F0-19	80 / 98	Bedford	MA	32:23.0	1:04:29	1:50:10
+3343	Eleanor Sweetland	2:33:00	11:41	F0-19	81 / 98	Bedford	MA	32:22.0	1:04:29	1:50:10
+3344	Meghan McClafferty	2:33:01	11:41	F40-44	130 / 150	Boston	MA	34:22.0	1:09:18	1:54:42
+3345	Claire Johnston	2:33:05	11:41	F20-24	391 / 435	South Boston	MA	36:23.0	1:12:25	1:56:12
+3346	Olivia Rudolph	2:33:05	11:41	F20-24	392 / 435	South Boston	MA	36:23.0	1:12:26	1:56:12
+3347	Ashley Bodnar	2:33:06	11:41	F25-29	330 / 375	Brookline	MA	34:20.0	1:08:47	1:52:57
+3349	Victoria Olson	2:33:11	11:42	F25-29	331 / 375	Medford	MA	37:17.0	1:12:45	1:55:50
+3350	Jody Horsky	2:33:14	11:42	F20-24	393 / 435	Wilmington	DE	34:23.0	1:09:10	1:55:23
+3352	Kelly Roberge	2:33:18	11:42	F40-44	131 / 150	Derry	NH	34:31.0	1:09:13	1:54:58
+3356	Victoria Coughlin	2:33:32	11:43	F55-59	68 / 79	South Weymouth	MA	34:29.0	1:09:48	1:57:52
+3357	Maria Calabrese	2:33:32	11:43	F35-39	149 / 173	Norwood	MA	34:30.0	1:09:48	1:57:52
+3359	Sarah Lok	2:33:37	11:43	F20-24	394 / 435	Cambridge	MA	33:56.0	1:09:22	1:55:47
+3360	Lindsey McComber	2:33:39	11:44	F25-29	332 / 375	Boston	MA	33:55.0	1:07:55	1:52:01
+3361	Evelyn Tran	2:33:39	11:44	F20-24	395 / 435	Randolph	MA	36:03.0	1:11:37	1:55:46
+3362	Cori Odonnell	2:33:45	11:44	F0-19	82 / 98	Bedford	NH	34:00.0	1:08:33	1:53:39
+3364	Andrea Martin	2:33:56	11:45	F45-49	106 / 119	East Boston	MA	32:10.0	1:07:09	1:52:59
+3365	Dawn Favalora	2:33:59	11:45	F45-49	107 / 119	Framingham	MA	35:50.0	1:11:41	1:56:39
+3369	Sydney Gonzalez	2:34:24	11:47	F20-24	396 / 435	Brighton	MA	34:36.0	1:09:54	1:56:56
+3371	Jane Park	2:34:28	11:47	F35-39	150 / 173	Boston	MA	36:49.0	1:12:29	1:57:17
+3372	Lauren O'Keefe	2:34:32	11:48	F20-24	397 / 435	East Watertown	MA	36:55.0	1:14:11	1:58:59
+3373	Sarah Gottlieb	2:34:33	11:48	F25-29	333 / 375	Boston	MA	34:23.0	1:11:46	1:56:50
+3374	Jamie Gottwald	2:34:39	11:48	F25-29	334 / 375	Boston	MA	38:15.0	1:15:18	1:59:47
+3375	Angie Fang	2:34:42	11:48	F0-19	83 / 98	Brookline	MA	38:09.0	1:15:43	1:59:14
+3376	Eunbin Jee	2:34:47	11:49	F35-39	151 / 173	Belmont	MA	34:26.0	1:09:38	1:53:39
+3380	Kristen Kelly	2:34:54	11:49	F30-34	226 / 250	Norton	MA	30:39.0	1:09:09	1:56:35
+3383	Carolyn Lorber	2:35:09	11:51	F25-29	335 / 375	Boston	MA	33:45.0	1:09:34	1:58:24
+3385	Viktoriya Mikhalyuk	2:35:11	11:51	F35-39	152 / 173	Fort Lee	NJ	34:12.0	1:11:03	1:58:01
+3386	Sarah Chang	2:35:12	11:51	F20-24	398 / 435	Boston	MA	35:12.0	1:10:22	1:56:13
+3388	Jill Ober	2:35:19	11:51	F45-49	108 / 119	Manchester	NH	32:00.0	1:06:13	1:54:52
+3389	Maya Spence	2:35:19	11:51	F25-29	336 / 375	Brighton	MA	37:08.0	1:13:10	1:57:56
+3390	Amy St Laurent	2:35:21	11:51	F50-54	72 / 91	Concord	NH	35:11.0	1:10:40	1:57:21
+3391	Marcelle Sickel	2:35:36	11:53	F55-59	69 / 79	Atkinson	NH	34:21.0	1:09:33	2:00:18
+3394	Hailey Maring	2:35:45	11:53	F20-24	399 / 435	South Burlington	VT	31:26.0	1:06:42	1:54:40
+3395	Sarah Whitaker	2:35:49	11:54	F20-24	400 / 435	Hingham	MA	33:35.0	1:08:28	1:56:07
+3396	Teel Bowyer	2:35:49	11:54	F20-24	401 / 435	Hingham	MA	33:35.0	1:08:28	1:56:08
+3397	Laura Carey	2:35:50	11:54	F20-24	402 / 435	Walpole	MA	31:03.0	1:08:29	1:55:58
+3398	Kerin-Anne Rogers	2:35:53	11:54	F50-54	73 / 91	Weymouth	MA	34:11.0	1:09:22	1:56:02
+3399	Michelle Jankowski	2:35:55	11:54	F40-44	132 / 150	Orange	CA	35:53.0	1:12:24	1:57:34
+3401	Nikita Shah	2:36:05	11:55	F30-34	227 / 250	Medford	MA	34:56.0	1:11:52	1:58:20
+3402	Yaz Usman	2:36:09	11:55	F20-24	403 / 435	North Potomac	MD	34:40.0	1:09:51	1:57:01
+3403	Heather Gray	2:36:09	11:55	F45-49	109 / 119	Derry	NH	34:29.0	1:09:41	1:56:55
+3405	Skyla Doyle	2:36:10	11:55	F0-19	84 / 98	Billerica	MA	32:00.0	1:07:47	1:55:34
+3406	Chelsea Weinheimer	2:36:12	11:55	F35-39	153 / 173	Pittsford	NY	35:59.0	1:11:19	1:55:59
+3407	Jamie Goodwin	2:36:12	11:55	F35-39	154 / 173	Waltham	MA	35:58.0	1:11:19	1:55:59
+3408	Mary McManus	2:36:22	11:56	F20-24	404 / 435	Newton	MA	36:23.0	1:13:18	1:59:18
+3409	Isobel MacCrate	2:36:30	11:57	F25-29	337 / 375	East Boston	MA	42:36.0	1:16:26	1:59:33
+3411	Trista Manchuso	2:36:35	11:57	F40-44	133 / 150	Stow	MA	32:20.0	1:09:48	1:56:21
+3412	Eleanor Manchuso	2:36:36	11:57	F0-19	85 / 98	Stow	MA	32:21.0	1:09:49	1:56:22
+3415	Judie Norris	2:36:43	11:58	F45-49	110 / 119	Charlestown	MA	35:26.0	1:12:30	1:57:14
+3416	Stephanie Holman	2:36:43	11:58	F65-69	12 / 14	Sunrise	FL	37:24.0		2:00:07
+3417	Sarah Long	2:36:59	11:59	F25-29	338 / 375	Abington	MA	36:26.0	1:13:11	1:59:46
+3418	Brenna Cogavin	2:37:01	11:59	F25-29	339 / 375	Franklin	MA	31:30.0	1:04:56	1:55:42
+3419	Ava Krasco	2:37:03	11:59	F20-24	405 / 435	Stoneham	MA	32:47.0	1:09:06	1:57:20
+3420	Courtney Curtin	2:37:04	11:59	F20-24	406 / 435	Tewksbury	MA	37:30.0	1:18:56	2:05:41
+3421	Nicole Mead	2:37:05	11:59	F45-49	111 / 119	Boston	MA	39:18.0	1:12:36	1:57:33
+3424	Lauren Koval	2:37:13	12:00	F25-29	340 / 375	Boston	MA	38:44.0	1:14:49	1:59:46
+3425	Courtney Koval	2:37:13	12:00	F30-34	228 / 250	Arlington	VA	38:44.0	1:14:49	1:59:46
+3426	Kathryn Obrien	2:37:18	12:00	F25-29	341 / 375	Wakefield	MA	35:02.0	1:10:23	1:56:38
+3427	Alexa Duplisea	2:37:25	12:01	F25-29	342 / 375	Revere	MA	40:50.0	1:14:44	2:01:20
+3430	Molly Sullivan	2:37:27	12:01	F25-29	343 / 375	Boston	MA	39:28.0	1:14:44	2:01:21
+3431	Christina Byron	2:37:32	12:01	F30-34	229 / 250	Methuen	MA	37:56.0	1:12:23	1:58:19
+3432	Ayswarya Shreeder	2:37:34	12:02	F35-39	155 / 173	Stow	MA	35:39.0	1:11:10	1:56:14
+3435	Lunah Valentina	2:37:47	12:03	F0-19	86 / 98	Framingham	MA	33:05.0	1:08:14	1:56:49
+3436	Adeline Marchandet	2:37:48	12:03	F50-54	74 / 91	Saint-Maur-Des-Fos	UN	36:39.0	1:16:38	2:02:03
+3437	Annemarie Balogh De Galantha	2:37:52	12:03	F50-54	75 / 91	South Grafton	MA	34:29.0	1:09:30	1:56:35
+3438	Orsolya Furi-Perry	2:37:58	12:03	F40-44	134 / 150	Andover	MA	34:16.0	1:12:01	1:57:35
+3440	Jess Pistorino	2:38:00	12:04	F20-24	407 / 435	Charlestown	MA	36:57.0	1:13:13	1:58:45
+3442	Mirna Colocho	2:38:05	12:04	F40-44	135 / 150	Winthrop	MA	36:31.0	1:13:13	1:58:25
+3443	Beverly Somogie	2:38:10	12:04	F65-69	13 / 14	North Andover	MA	36:05.0	1:12:20	1:58:02
+3444	Caroline Yee	2:38:17	12:05	F20-24	408 / 435	Glen Cove	NY	36:57.0	1:09:41	2:05:18
+3446	Mary Nystedt	2:38:29	12:06	F25-29	344 / 375	Allston	MA	37:25.0	1:13:34	2:00:26
+3447	Rachel Ross	2:38:29	12:06	F65-69	14 / 14	Coalinga	CA	36:41.0	1:14:04	2:00:55
+3449	Annie Barretto	2:38:31	12:06	F60-64	33 / 39	Braintree	MA	35:57.0	1:12:41	1:58:42
+3450	Rachel Benson	2:38:32	12:06	F20-24	409 / 435	Sudbury	MA	35:06.0	1:12:05	1:58:56
+3451	Jennifer Koblan	2:38:32	12:06	F50-54	76 / 91	Sudbury	MA	35:06.0	1:12:05	1:58:57
+3453	Michelle Boyle	2:38:39	12:07	F55-59	70 / 79	Newton	MA	37:38.0	1:15:21	2:01:31
+3455	Amelia Donovan	2:38:40	12:07	F0-19	87 / 98	Hull	MA	30:44.0	1:07:19	1:58:27
+3456	Tina Chirgwin	2:38:41	12:07	F45-49	112 / 119	Charlestown	MA	36:04.0	1:13:41	2:00:22
+3457	Chloe Sweeney	2:38:44	12:07	F0-19	88 / 98	Norwell	MA	39:59.0	1:12:35	1:57:11
+3458	McKenna Hayes	2:38:45	12:07	F0-19	89 / 98	Weymouth	MA	40:00.0	1:12:36	1:57:11
+3459	Daniella Holland	2:39:03	12:08	F25-29	345 / 375	Putnam	CT	38:57.0	1:15:40	2:01:26
+3460	Lauren Tejkl	2:39:05	12:09	F30-34	230 / 250	Boston	MA	35:30.0	1:12:02	1:59:38
+3461	Maritza Reyes	2:39:06	12:09	F25-29	346 / 375	Chicago	IL	34:23.0	1:11:32	1:57:46
+3462	Dana Bartolon	2:39:06	12:09	F30-34	231 / 250	Chicago	IL	34:23.0	1:11:32	1:57:46
+3463	Elizabeth Coppola	2:39:10	12:09	F55-59	71 / 79	Keene	NH	35:33.0	1:10:42	1:59:16
+3465	Dawn Ferullo	2:39:12	12:09	F50-54	77 / 91	Woodbridge	CT	35:53.0	1:12:31	1:58:55
+3466	Haley Curtis	2:39:15	12:09	F25-29	347 / 375	Medford	MA	38:14.0	1:16:04	2:02:48
+3467	Amanda Flora	2:39:21	12:10	F25-29	348 / 375	Abington	MA	37:29.0	1:14:46	1:59:59
+3468	Celine Cheung	2:39:21	12:10	F0-19	90 / 98	Wellesley	MA	44:47.0	1:20:01	2:02:16
+3469	Lucy Jankowich	2:39:21	12:10	F0-19	91 / 98	Cambridge	MA	44:47.0	1:20:01	2:02:16
+3471	Margaret Bradley	2:39:23	12:10	F35-39	156 / 173	Sanford	ME	38:00.0	1:14:48	2:00:42
+3473	Kelly Olsen	2:39:38	12:11	F50-54	78 / 91	Manchester	NH	33:46.0	1:09:18	1:57:05
+3474	Katherine Olsen	2:39:39	12:11	F0-19	92 / 98	Manchester	NH	33:47.0	1:09:18	1:57:05
+3475	Shandalee Colon	2:39:41	12:11	F30-34	232 / 250	Saugus	MA	37:31.0	1:13:48	1:59:41
+3476	Claire Rosales	2:39:44	12:11	F35-39	157 / 173	Tewksbury	MA	34:38.0	1:11:32	2:00:56
+3477	Kati Vombergar	2:39:52	12:12	F20-24	410 / 435	Willoughby Hills	OH	35:09.0	1:12:00	1:59:53
+3478	Donna Vombergar	2:39:52	12:12	F55-59	72 / 79	Willoughby Hills	OH	35:11.0	1:12:05	1:59:53
+3479	Lexi Vombergar	2:39:53	12:12	F20-24	411 / 435	Willoughby Hills	OH	35:11.0	1:12:01	1:59:52
+3481	Amyleigh Devito	2:40:00	12:13	F35-39	158 / 173	Avon	MA	32:43.0	1:08:39	1:57:31
+3482	Lindsey Wilcox	2:40:01	12:13	F30-34	233 / 250	Somerville	MA	38:32.0	1:17:12	2:02:56
+3483	Marina Trefethen	2:40:03	12:13	F40-44	136 / 150	Sunapee	NH	34:41.0	1:09:50	1:57:41
+3484	Daniela Grgas	2:40:04	12:13	F20-24	412 / 435	Delray Beach	FL	34:41.0	1:09:50	1:57:42
+3485	Claire Blanchard	2:40:10	12:13	F25-29	349 / 375	Boston	MA	35:32.0	1:12:08	2:00:19
+3486	Kylie Delpercio	2:40:12	12:14	F25-29	350 / 375	Floyd	VA	34:23.0	1:12:23	2:00:08
+3487	Melissa Briggie	2:40:36	12:15	F40-44	137 / 150	Melrose	MA	34:20.0	1:10:54	1:57:20
+3488	Julia Tramontana	2:40:41	12:16	F25-29	351 / 375	Medford	MA	33:08.0	1:07:34	1:57:38
+3490	Sarah Mannion	2:40:44	12:16	F30-34	234 / 250	Braintree	MA	32:51.0	1:09:39	1:59:20
+3491	Vanessa Robinson-Jones	2:40:46	12:16	F60-64	34 / 39	Taunton	MA	35:59.0	1:11:18	1:59:57
+3492	Lydia Rivera	2:40:48	12:16	F55-59	73 / 79	Boston	MA	36:01.0	1:11:38	2:00:29
+3493	Kelci Ferbert	2:40:52	12:17	F0-19	93 / 98	Middeboro	MA	36:23.0	1:12:54	1:59:43
+3495	Laura Ferbert	2:40:52	12:17	F40-44	138 / 150	Middleboro	MA	36:23.0	1:12:54	1:59:44
+3496	Kiley Davis	2:40:53	12:17	F30-34	235 / 250	Acton	MA	35:39.0	1:13:47	2:01:06
+3497	Kathryn Davis	2:40:53	12:17	F30-34	236 / 250	Maynard	MA	35:39.0	1:13:47	2:01:06
+3498	Jessica Lonergan	2:40:53	12:17	F35-39	159 / 173	Valley Cottage	NY	34:28.0	1:10:57	1:59:19
+3499	Catherine Cavins	2:40:54	12:17	F60-64	35 / 39	Maryville	TN	37:02.0	1:14:45	2:00:56
+3501	Elizabeth Buckley	2:40:59	12:17	F20-24	413 / 435	Pembroke	MA	36:40.0	1:14:30	2:02:00
+3502	Melanie Sepsi	2:41:00	12:17	F20-24	414 / 435	Eastham	MA	37:05.0	1:14:27	2:00:26
+3503	Stacey Cook	2:41:01	12:17	F45-49	113 / 119	Lynnfield	MA	35:13.0	1:12:09	2:00:25
+3506	Marissa Gigliotti	2:41:21	12:19	F20-24	415 / 435	Medfield	MA	38:34.0	1:16:45	2:04:34
+3507	Brittney Chang	2:41:22	12:19	F20-24	416 / 435	Winter Park	FL	35:13.0	1:11:00	2:01:01
+3508	Lena Howard	2:41:24	12:19	F35-39	160 / 173	Tewksbury	MA	36:08.0	1:14:34	2:01:32
+3509	Isabelle Palumbo	2:41:26	12:19	F20-24	417 / 435	Boston	MA	37:07.0	1:14:19	2:01:08
+3510	Meaghan Parsons	2:41:38	12:20	F20-24	418 / 435	Marshfield	MA	34:52.0	1:09:36	1:59:05
+3511	Abigail McGonigle	2:41:39	12:20	F20-24	419 / 435	Braintree	MA	34:23.0	1:09:39	1:59:05
+3512	Giane Oconnell	2:41:42	12:20	F55-59	74 / 79	Belmont	MA	38:35.0	1:16:35	2:02:20
+3513	Luz Senecal	2:41:54	12:21	F60-64	36 / 39	Revere	MA	36:57.0	1:15:20	2:02:46
+3515	Leah Erwin	2:41:55	12:21	F25-29	352 / 375	Boston	MA	35:50.0	1:12:35	2:02:03
+3517	Catherine Stoppelman	2:42:03	12:22	F20-24	420 / 435	Chicago	IL	31:36.0	1:08:39	2:02:11
+3520	Shannon Maria Winn	2:42:12	12:23	F30-34	237 / 250	Weymouth	MA	32:41.0	1:05:05	1:52:35
+3523	Heidy Veliz	2:42:18	12:23	F30-34	238 / 250	Watertown	MA	35:02.0	1:11:37	1:59:04
+3526	Katie Penfield	2:42:19	12:23	F25-29	353 / 375	Newton Upper Falls	MA	35:53.0	1:12:34	2:00:35
+3527	Lauren Mini	2:42:21	12:23	F35-39	161 / 173	Danvers	MA	34:39.0	1:11:31	2:01:54
+3528	Laurie Gallagher	2:42:21	12:23	F30-34	239 / 250	Roslindale	MA	36:58.0	1:15:36	2:03:15
+3530	Beth Langston	2:42:23	12:24	F45-49	114 / 119	Newton	MA	31:48.0	1:07:10	1:55:24
+3532	Abigail Menice	2:42:44	12:25	F20-24	421 / 435	Rutland	MA	35:24.0	1:12:45	2:03:12
+3533	Ena Downey	2:42:45	12:25	F20-24	422 / 435	Braintree	MA	35:25.0	1:12:46	2:03:12
+3534	Reema Shanavas	2:42:47	12:25	F45-49	115 / 119	North Potomac	MD	36:51.0	1:14:51	2:02:26
+3536	Jane Greer	2:42:54	12:26	F70-74	4 / 5	Roslindale	MA	36:18.0	1:13:42	2:01:20
+3538	Julia Brain	2:43:09	12:27	F55-59	75 / 79	Charlestown	MA	36:58.0	1:15:37	2:03:17
+3539	Marie Flores	2:43:13	12:27	F40-44	139 / 150	Brockton	MA	33:55.0	1:08:07	1:56:01
+3540	Pahrmis Hashemi	2:43:13	12:27	F25-29	354 / 375	Boston	MA	37:00.0	1:13:15	2:02:34
+3541	Kara Tobin	2:43:17	12:28	F40-44	140 / 150	Pepperell	MA	34:59.0	1:13:02	2:01:57
+3542	Kathryn Peters	2:43:19	12:28	F25-29	355 / 375	Boston	MA	38:58.0	1:18:20	2:06:14
+3543	Caroline Louttit	2:43:20	12:28	F25-29	356 / 375	Boston	MA	38:59.0	1:18:20	2:06:15
+3544	Patrice Brown	2:43:20	12:28	F55-59	76 / 79	Tuscumbia	AL	36:14.0	1:14:59	2:05:38
+3546	Cait Kemp	2:43:28	12:29	F20-24	423 / 435	Leicester	MA	34:54.0	1:11:03	1:59:01
+3547	Geying Zhang	2:43:39	12:29	F30-34	240 / 250	Watertown	MA	37:45.0	1:16:23	2:04:01
+3549	Dorothea McGrath	2:43:45	12:30	F0-19	94 / 98	Abington	MA	33:32.0	1:06:56	2:04:43
+3552	Stacey Howard	2:43:48	12:30	F60-64	37 / 39	Amherst	NH	36:44.0	1:14:05	2:02:29
+3553	Kate Looby	2:43:51	12:30	F35-39	162 / 173	Somerville	MA	41:54.0	1:23:31	2:07:32
+3554	Zaida Miller	2:44:01	12:31	F45-49	116 / 119	Hyde Park	MA	35:16.0	1:13:42	2:03:25
+3555	Laura Schulz	2:44:06	12:31	F50-54	79 / 91	Rockville	MD	35:36.0	1:12:45	2:01:05
+3556	Michelle Frost	2:44:10	12:32	F50-54	80 / 91	Bow, Nh	NH	36:12.0	1:19:20	2:04:37
+3558	Sarah Rejto	2:44:13	12:32	F25-29	357 / 375	Boston	MA	41:20.0	1:20:11	2:05:48
+3559	Cynthia Tsao	2:44:15	12:32	F50-54	81 / 91	Brookline	MA	37:28.0	1:15:19	2:03:23
+3560	Victoria Higgins	2:44:32	12:33	F0-19	95 / 98	Randolph	MA	32:38.0	1:04:30	1:57:28
+3561	Kendra Hancock	2:44:41	12:34			Angier	NC	36:58.0	1:15:35	2:03:13
+3562	Maya Ellis	2:45:00	12:36	F20-24	424 / 435	Burlington	MA	37:26.0	1:15:33	2:03:22
+3563	Patricia Rand	2:45:01	12:36	F50-54	82 / 91	Villa Park	CA	35:10.0	1:16:46	2:04:23
+3564	Yi Yu	2:45:04	12:36	F35-39	163 / 173	West Newton	MA	37:27.0	1:15:11	2:03:06
+3566	Jennifer Foley	2:45:10	12:36	F55-59	77 / 79	Middletown	RI	36:59.0	1:16:28	2:04:43
+3567	Emily Charbono	2:45:14	12:37	F25-29	358 / 375	Ashland	NH	35:09.0	1:15:30	2:04:44
+3568	Jean Blanchard	2:45:39	12:39	F25-29	359 / 375	Framingham	MA	36:29.0	1:18:16	2:07:07
+3569	Lorrin Taliaferro	2:45:46	12:39	F30-34	241 / 250	Wakefield	MA	35:59.0	1:14:12	2:03:51
+3570	Maria Nacopoulos	2:45:47	12:39	F25-29	360 / 375	Burlington	MA	36:00.0	1:14:13	2:03:52
+3572	Alyssa Collazo	2:45:52	12:40	F35-39	164 / 173	Melrose	MA	44:03.0	1:22:11	2:08:27
+3574	Anna Brown	2:46:00	12:40	F30-34	242 / 250	Ashland City	TN	36:12.0	1:20:56	2:05:38
+3575	Elika Semancíková	2:46:05	12:41	F20-24	425 / 435	Cambridge	MA	35:55.0	1:15:06	2:04:35
+3578	Amanda Pires	2:46:19	12:42	F30-34	243 / 250	Pembroke	MA	43:52.0	1:18:50	2:04:47
+3579	Gabriella Barbuto	2:46:19	12:42	F25-29	361 / 375	Woburn	MA	37:05.0	1:15:02	2:04:11
+3580	Valerie Henderson	2:46:19	12:42	F30-34	244 / 250	Cleveland Heights	OH	43:53.0	1:18:51	2:04:47
+3583	Miriam Segura	2:46:56	12:44	F50-54	83 / 91	Everett	MA	40:00.0	1:18:59	2:07:28
+3584	Kate McLaren	2:47:11	12:46	F25-29	362 / 375	Boston, Ma 02215-1	MA	43:24.0	1:21:37	2:09:40
+3585	Haline Dejesus	2:47:13	12:46	F25-29	363 / 375	Burlington	MA	43:24.0	1:21:37	2:09:40
+3589	Elizabeth Madrid	2:48:23	12:51	F30-34	245 / 250	Brighton	MA	36:04.0	1:15:18	2:05:27
+3590	Kaitlyn Moitoza	2:48:24	12:51	F25-29	364 / 375	Nashua	NH	35:14.0	1:19:11	2:08:51
+3591	Kailyn Turner	2:48:34	12:52	F35-39	165 / 173	Waynesboro	GA	39:46.0	1:20:09	2:08:09
+3592	Eva Nicho	2:48:34	12:52	F35-39	166 / 173	Charlotte	NC	39:47.0	1:20:09	2:08:09
+3593	Shaneice Palmer	2:48:37	12:52	F35-39	167 / 173	Dorchester	MA	37:01.0	1:20:49	2:07:57
+3595	Rachel Ford	2:48:38	12:52	F50-54	84 / 91	Gloucester	MA	40:33.0	1:19:39	2:08:35
+3596	Ava Waldmann	2:48:43	12:53	F20-24	426 / 435	Sherman	CT	44:52.0	1:19:29	2:07:05
+3597	Lillian Omeara	2:48:43	12:53	F20-24	427 / 435	Marblehead	MA	44:52.0	1:19:28	2:07:04
+3598	Peyton Falk	2:48:43	12:53	F20-24	428 / 435	Gloucester	MA	44:52.0	1:19:29	2:07:04
+3599	Kelsey Dunn	2:49:15	12:55	F25-29	365 / 375	Quincy	MA	36:17.0	1:15:45	2:06:27
+3600	Kara Shea	2:49:15	12:55	F0-19	96 / 98	South Glastonbury	CT	33:25.0	1:13:11	2:06:32
+3602	Kelli Brown	2:49:23	12:56	F35-39	168 / 173	Norwood	MA	33:41.0	1:16:22	2:03:52
+3603	Elizabeth Davis	2:49:29	12:56	F20-24	429 / 435	Franklin	MA	33:48.0	1:12:21	2:04:54
+3604	Angie Tejada	2:49:44	12:57	F20-24	430 / 435	Malden	MA	36:15.0	1:16:15	2:08:16
+3605	Solange Morrissette	2:49:46	12:57	F60-64	38 / 39	Barrington	RI	36:58.0	1:15:06	2:05:30
+3607	Sarah Burke	2:49:51	12:58	F40-44	141 / 150	Quincy	MA	36:23.0	1:13:10	1:59:58
+3610	Aileen Bailey	2:50:02	12:59	F35-39	169 / 173	Danville	VT	41:54.0	1:23:30	2:09:54
+3611	Stella Yan	2:50:23	13:00	F20-24	431 / 435	Boston	MA	32:31.0	1:08:33	2:03:38
+3612	Monicka Jean-Baptiste	2:50:35	13:01	F30-34	246 / 250	Worcester	MA	34:38.0	1:12:13	2:01:21
+3614	Rebecca Lawyer	2:50:43	13:02	F40-44	142 / 150	Brighton	MA	35:56.0	1:15:37	2:08:09
+3618	Noemí G. Farré	2:50:51	13:02	F50-54	85 / 91	Granollers	UN	36:40.0	1:15:28	2:06:48
+3620	Darcy Crofford	2:51:02	13:03	F50-54	86 / 91	Rome	NY	32:45.0	1:08:01	1:57:11
+3621	Deborah Thomas	2:51:18	13:04	F40-44	143 / 150	Boston	CA	36:28.0	1:14:42	2:04:50
+3622	Margaret O Donovan	2:51:34	13:06	F60-64	39 / 39	Quincy	MA	34:21.0	1:16:44	2:06:09
+3623	Jenna Nguyen	2:51:43	13:06	F40-44	144 / 150	Worcester	MA	37:43.0	1:16:54	2:06:41
+3624	Elaine Le	2:51:43	13:06	F40-44	145 / 150	South Weymouth	MA	37:43.0	1:16:54	2:06:40
+3625	Christine Ballou	2:51:45	13:06	F25-29	366 / 375	Somerville	MA	34:43.0	1:12:48	2:05:57
+3626	Pam Landry	2:51:47	13:07	F70-74	5 / 5	Tewksbury	MA	39:24.0	1:19:45	2:09:26
+3628	Kerri Boucher	2:52:54	13:12	F40-44	146 / 150	Amherst	NH	40:08.0	1:20:38	2:11:02
+3629	Alexandra Conley	2:53:02	13:12	F20-24	432 / 435	Newton	MA	41:07.0	1:17:57	2:11:12
+3630	Berta Ramon Padilla	2:53:02	13:12	F30-34	247 / 250	Framingham	MA	39:25.0	1:19:49	2:10:22
+3631	Erin Wright	2:53:11	13:13	F25-29	367 / 375	Boston	MA	38:35.0	1:20:35	2:11:07
+3635	Heidy Duarte	2:53:55	13:16	F35-39	170 / 173	Brighton	MA	40:00.0	1:19:46	2:10:51
+3636	Shannon Kean	2:54:02	13:17	F25-29	368 / 375	Concord	MA	36:37.0	1:17:07	2:07:35
+3638	Lauren Gardiner	2:54:23	13:19	F25-29	369 / 375	Quincy	MA	37:56.0	1:17:19	2:09:08
+3640	Gabriella Bello	2:54:33	13:19	F20-24	433 / 435	Hyde Park	MA	39:22.0	1:18:40	2:11:57
+3643	Deborah Puglisi	2:54:52	13:21	F45-49	117 / 119	Malden	MA	52:46.0	1:27:46	2:11:08
+3644	Madison Withers	2:54:57	13:21	F25-29	370 / 375	Cornwall	NY	36:23.0	1:17:07	2:10:20
+3645	Lisa Maher	2:55:00	13:21	F30-34	248 / 250	Foxboro	MA	35:53.0	1:17:56	2:09:11
+3646	Mercedes Pons Camacho	2:55:26	13:23	F50-54	87 / 91	Milton	MA	37:32.0	1:18:07	2:10:55
+3649	Kayla Isaac	2:55:57	13:26	F20-24	434 / 435	Blackstone	MA	35:33.0	1:16:17	2:09:43
+3650	Maria Mishechkina	2:56:04	13:26	F0-19	97 / 98	Boylston	MA	35:19.0	1:15:32	2:09:44
+3651	Patty Scarpetti	2:56:18	13:27			Revere	MA	46:24.0		1:34:50
+3652	Ariadne Tsagarakis	2:56:40	13:29	F25-29	371 / 375	Ashland	MA	40:27.0	1:22:43	2:13:37
+3653	Stephanie Morrison	2:56:46	13:29	F50-54	88 / 91	Braintree	MA	37:56.0	1:20:19	2:11:47
+3654	Angela Borges	2:56:54	13:30	F35-39	171 / 173	Woburn	MA	40:27.0	1:21:07	2:13:02
+3655	Maria Proia	2:57:03	13:31	F40-44	147 / 150	Newton	MA	37:12.0	1:18:17	2:11:10
+3658	Rose Mogan	2:58:00	13:35	F25-29	372 / 375	Bedford	MA	36:37.0	1:21:18	2:12:36
+3659	Sarah Looby	2:58:04	13:35	F25-29	373 / 375	Syracuse	NY	41:54.0	1:24:07	2:15:01
+3661	Tonya Dunn	2:58:24	13:37			Shoreview	MN	40:52.0	1:21:58	2:13:33
+3663	Danielle Fealey	2:58:33	13:38	F40-44	148 / 150	Portsmouth	NH	40:09.0	1:21:08	2:14:21
+3665	Nicole Bolvin	2:59:50	13:43	F40-44	149 / 150	North Attleboro	MA	37:32.0	1:16:30	2:15:28
+3666	Hailey Chenette	3:00:20	13:46	F20-24	435 / 435	Cohasset	MA	35:43.0	1:16:13	2:13:39
+3668	Viviana Carmona	3:01:10	13:50	F40-44	150 / 150	Winthrop	MA	36:31.0	1:13:14	2:07:08
+3669	Min Luo	3:01:14	13:50	F30-34	249 / 250	Orlando	FL	34:29.0	1:09:29	1:54:41
+3670	Katherine Nguyen	3:01:15	13:50	F30-34	250 / 250	Sanford	FL	34:29.0	1:09:30	1:54:42
+3671	Brein Mosely	3:01:33	13:51	F25-29	374 / 375	Hyde Park	MA	40:34.0	1:24:45	2:20:05
+3672	Nuray Harkins	3:01:36	13:52	F50-54	89 / 91	Boston	MA	42:30.0	1:24:23	2:18:35
+3675	Meg O'Reilly	3:02:21	13:55	F25-29	375 / 375	Quincy	MA	38:28.0	1:22:00	2:16:48
+3678	Audra Dalton	3:03:12	13:59	F45-49	118 / 119	Revere	MA	40:27.0	1:21:44	2:16:01
+3679	Agnes Dokhan	3:03:35	14:01	F45-49	119 / 119	Belmont	MA	36:38.0	1:16:37	2:13:44
+3680	Kathleen Mueller	3:03:54	14:02	F55-59	78 / 79	Naperville	IL	41:28.0	1:26:42	2:18:41
+3682	Linda Low	3:04:19	14:04	F50-54	90 / 91	Arlington	MA	39:23.0	1:22:57	2:18:15
+3683	Ingrid Torres	3:04:39	14:06	F35-39	172 / 173	Saugus	MA	40:27.0	1:21:45	2:16:02
+3685	Sophia Lacasse	3:08:56	14:25	F0-19	98 / 98	Hooksett	NH	40:25.0	1:21:53	2:18:59
+3686	Carla Roddy	3:11:36	14:37	F55-59	79 / 79	West Roxbury	MA	43:43.0	1:28:51	
+3687	Katie Darragh	3:11:40	14:38	F35-39	173 / 173	Peabody	MA	43:24.0	1:27:31	
+3688	Flavia Torres	3:11:40	14:38	F50-54	91 / 91	Lynnfield	MA	43:24.0	1:27:30	
